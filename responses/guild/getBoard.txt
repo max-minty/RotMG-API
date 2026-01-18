@@ -1,0 +1,6 @@
+<!-- Get Guild Board Data -->
+<FatalError>Not in a guild</FatalError>
+
+OR
+
+{text}
