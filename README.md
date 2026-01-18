@@ -211,13 +211,14 @@ Please note that DECA can add or remove links at any time.
 
 
 ``friends/``
- * ``requestFriend`` => guid, targetName, password
- * ``getList`` => guid, password
- * ``getRequests`` => guid, password
- * ``acceptRequest`` => guid, targetName, password
- * ``rejectRequest`` => guid, targetName password
- * ``removeFriend`` => guid, targetName, password
- * ``blockRequest`` => guid, targetName, password
+ * [`requestFriend`](responses/friends/requestFriend.xml) => accessToken, targetName
+ * [`getList`](responses/friends/getList.xml) => accessToken
+ * [`getRequests`](responses/friends/getRequests.xml) => accessToken
+ * [`acceptRequest`](responses/friends/acceptRequest.xml) => accessToken, targetName
+ * [`rejectRequest`](responses/friends/rejectRequest.xml) => accessToken, targetName
+ * [`removeFriend`](responses/friends/removeFriend.xml) => accessToken, targetName (also responds success for pending friend request)
+ * [`blockRequest`](responses/friends/blockRequest.xml) => accessToken, targetName (you can't undo this! "Player has blocked you. Cannot add Friend")
+ * 
 
 ``pet/``
  * ``*feed``
@@ -311,12 +312,17 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
 
 ## In-game Commands
  * ``/class``, ``/c``, ``/classes``
- * ``/guild ``, ``/g `` => text
+ * ``/guild ``, ``/g `` => text (guild chat)
  * ``/help``, ``/h``
  * ``/ignore `` => username
  * ``/join `` => guild (accept guild invite)
  * ``/kick `` => username (dungeon owner that popped in bazaar)
  * ``/cond `` => username (You are not an admin)
+ * ``/log``
+ * ``/mute `` => username (You are not an admin)
+ * ``/party ``, ``/p `` => text (party chat)
+ * ``/partyleave``, ``/pleave``
+ * ``/pinvite `` => username
  * ``/resetBPReminderPopup``
 
 ## Deprecated / Replaced
