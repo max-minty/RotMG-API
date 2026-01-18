@@ -176,7 +176,7 @@ Please note that DECA can add or remove links at any time.
  * [`list`](responses/account/list.xml) => accessToken, type(1:ignored or 0:locked)
 
 ``accountLevelRewards/``
-* [`getConfig`](responses/account/getConfig.json) => accessToken
+* [`getConfig`](responses/accountLevelRewards/getConfig.json) => accessToken
 
 ``supportCampaign/``
  * ``claim`` => guid, password
@@ -195,6 +195,9 @@ Please note that DECA can add or remove links at any time.
 
 ``dailyLogin/``
  * ``fetchCalendar`` => guid, password
+
+``calendar/``
+* [`getForClient`](responses/calendar/getForClient.json) => guid, accessToken
 
 ``season/``
  * ``getSeasons`` => guid, password, gameClientVersion
