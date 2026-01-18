@@ -135,8 +135,8 @@ Please note that DECA can add or remove links at any time.
  * ``register`` => newPassword, entrytag, newGUID, name(not needed), isAgeVerified, guid, signedUpKabamEmail (0 or 1)
  * ``verify`` => guid, password (used by Muledump)
  * ``verifyage`` => guid, password, ignore, isAgeVerified, gameClientVersion
- * ``acceptTOS`` => guid, password
- * ``changeEmail`` => guid, password, newGuid
+ * [`acceptTOS`](responses/account/acceptTOS.xml) => accessToken
+ * [`changeEmail`](responses/account/changeEmail.xml) => guid, password, newGuid (always returns emailAlreadyVerified)
  * ``playFortuneGame`` => choice, status, currency (2 for fortune tokens or 0 for gold)
  * ``rp`` => a, b
  * ``login``
@@ -145,17 +145,19 @@ Please note that DECA can add or remove links at any time.
  * ``supportVerify`` => guid, password, secret
  * ``*addStar``
  * ``*addIgnore``
+ * [`getDustCost`](responses/account/getDustCost.txt)
  * ``purchaseCharSlot`` => guid, password
  * ``*purchaseVaultChest``
  * ``purchaseSkin`` => guid, password, skinType
  * ``purchaseMysteryBox`` => guid, password, boxId, quantity, price, currency
  * ``purchasePackage`` => guid, password, boxId, quantity, price, currency
- * ``getOwnedPetSkins`` => guid, password
+  * [`getOwnedPetSkins`](responses/account/getOwnedPetSkins.xml) => accessToken
  * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
  * ``sendVerifyEmail`` => guid, password
- * ``forgotPassword`` => guid
- * ``changePassword`` => newPassword, guid, password
- * ``getCredits`` => guid, password
+ * ``extendAccessToken`` => *`Missing Parameters`*
+ * [`forgotPassword`](responses/account/forgotPassword.xml) => guid
+ * [`changePassword`](responses/account/changePassword.xml) => guid, password, newPassword
+ * [`getCredits`](responses/account/getCredits.xml) => accessToken
  * ``ban`` => Returns internal error
  * ``v`` => a, b(Getting the captcha); a, action, g-recaptcha-response(Submitting the captcha)
  * ``*claimLoginReward``
@@ -320,10 +322,22 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
  * ``/cond `` => username (You are not an admin)
  * ``/log``
  * ``/mute `` => username (You are not an admin)
+ * ``/unmute `` => username (You are not an admin)
  * ``/party ``, ``/p `` => text (party chat)
  * ``/partyleave``, ``/pleave``
  * ``/pinvite `` => username
+ * ``/tell ``, ``/t `` => text (private chat)
+ * ``/teleport ``, ``/tp `` => username (teleport to player)
+ * ``/trade `` => username (trade a player)
+ * ``/resetemote`` => (clears the assigned emotes in slot)
+ * ``/setemote`` => slot, emoteID (i.e `/setemote 1 49317` - White Bag Emote)
+ * ``/setvictory`` => emoteID (i.e `/setvictory 49317` - White Bag Emote)
+ * ``/resetCalendar``
+ * ``/resetDailyQuests``
+ * ``/resetPackagePopup``
+ * ``/resetBPStartPopup``
  * ``/resetBPReminderPopup``
+ * ``/resetBPEndPopup``
 
 ## Deprecated / Replaced
 ``mysterybox/``
