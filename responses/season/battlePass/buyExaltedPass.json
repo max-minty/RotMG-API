@@ -1,0 +1,30 @@
+
+{
+	"error": "BattlePassException.Success",
+	"code": 400,
+	"description": ""
+}
+
+OR
+
+{
+	"error": "BattlePassException.NotEnoughGold",
+	"code": 400,
+	"description": ""
+}
+
+OR
+
+{
+	"error": "BattlePassException.AlreadyExalted",
+	"code": 400,
+	"description": ""
+}
+
+OR
+
+{
+	"error": "BattlePassException.AccountNotFound",
+	"code": 400,
+	"description": ""
+}
