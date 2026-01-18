@@ -86,7 +86,7 @@ Please note that DECA can add or remove links at any time.
  * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
  * [`paymentToken`](responses/credits/paymentToken.json) => accessToken, type
  * ``pwpurchase`` => iframeUrl (json with these params: token, production)
- * ``add`` => tok, exp, guid, provider, jwt, price, paymentid
+ * [`add`](responses/credits/add.html) => tok, exp, guid, provider, jwt, price, paymentid
  * [`done`](responses/credits/done.html)
  * ``error``
  * ``kabamadd`` => naid, signedRequest, createdat (removed)
