@@ -25,6 +25,9 @@ This is an updated version of Zeroeh's RotMG Appspot repo.
 - https://rotmgtesting3.appspot.com
 - https://testing.realmofthemadgod.com
 
+## External Official Links
+- https://storage.googleapis.com/rotmg_images_public
+
 Directories marked with an asterisk (*) are internal server urls and will always return ``<Failure/>``
 
 Endpoints without any listed arguments could still take certain parameters, but they might not be listed here yet due to incompletedness.
@@ -207,6 +210,8 @@ Please note that DECA can add or remove links at any time.
 ``season/``
 * ``getSeasons`` => guid, password, gameClientVersion
 * [`battlePass/buyExaltedPass`](responses/season/battlePass/buyExaltedPass.json) => accessToken
+* [`bpInfo`](responses/season/bpInfo.json) => accessToken
+
 
 ``crucibles/``
 * [`info`](responses/crucibles/info.xml) => (responds with Only server can request info)
