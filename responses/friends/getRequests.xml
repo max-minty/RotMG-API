@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<Requests>
+  <!-- 1 Friend Request from Username -->
+  <Account>
+    <Online>3.140.254.133</Online>
+    <Character>
+      <ObjectType>798</ObjectType>
+      <Level>20</Level>
+      <Exp>10576686</Exp>
+      <CurrentFame>5299</CurrentFame>
+      <Texture>30948</Texture>
+    </Character>
+    <Name>Username</Name>
+    <Stats>
+      <ClassStats objectType="0x300">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>1211</BestBaseFame>
+        <BestTotalFame>5526</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x307">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>11663</BestBaseFame>
+        <BestTotalFame>32033</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x30e">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>159392</BestBaseFame>
+        <BestTotalFame>159392</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x310">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>433</BestBaseFame>
+        <BestTotalFame>2653</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x31d">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>4234</BestBaseFame>
+        <BestTotalFame>12639</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x31e">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>5299</BestBaseFame>
+        <BestTotalFame>5299</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x31f">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>39084</BestBaseFame>
+        <BestTotalFame>39084</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x320">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>420</BestBaseFame>
+        <BestTotalFame>1294</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x321">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>124938</BestBaseFame>
+        <BestTotalFame>124938</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x322">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>1306</BestBaseFame>
+        <BestTotalFame>2005</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x323">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>493</BestBaseFame>
+        <BestTotalFame>1248</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x324">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>125302</BestBaseFame>
+        <BestTotalFame>125302</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x325">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>3405</BestBaseFame>
+        <BestTotalFame>8910</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x326">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>818</BestBaseFame>
+        <BestTotalFame>1118</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x311">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>1001</BestBaseFame>
+        <BestTotalFame>4244</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x31c">
+        <BestLevel>1</BestLevel>
+        <BestBaseFame>0</BestBaseFame>
+        <BestTotalFame>0</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x331">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>20</BestBaseFame>
+        <BestTotalFame>20</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x332">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>12249</BestBaseFame>
+        <BestTotalFame>12249</BestTotalFame>
+      </ClassStats>
+      <BestCharFame>73847</BestCharFame>
+      <TotalFame>217271</TotalFame>
+      <Fame>2466</Fame>
+    </Stats>
+  </Account>
+</Requests>
