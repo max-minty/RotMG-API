@@ -133,13 +133,15 @@ Please note that DECA can add or remove links at any time.
 
 ``account/``
  * [`register`](responses/account/register.xml) => newPassword, entrytag, newGUID, name(not needed), isAgeVerified, guid, signedUpKabamEmail (0 or 1)
- * ``verify`` => guid, password (used by Muledump)
+ * [`verify`](responses/account/verify.xml) => guid, password, clientToken (0) (used by Muledump)
+ * [`verifyAccessTokenClient`](responses/account/verifyAccessTokenClient.xml) => accessToken
  * ``verifyage`` => guid, password, ignore, isAgeVerified, gameClientVersion
  * [`acceptTOS`](responses/account/acceptTOS.xml) => accessToken
  * [`changeEmail`](responses/account/changeEmail.xml) => guid, password, newGuid (always returns emailAlreadyVerified)
  * ``playFortuneGame`` => choice, status, currency (2 for fortune tokens or 0 for gold)
  * ``rp`` => a, b
  * ``login``
+ * [`setName`](responses/account/setName.xml) => accessToken, name
  * ``setName`` => guid, password, name
  * ``validateEmail`` (removed, changed to isEmailVerified)
  * ``supportVerify`` => guid, password, secret
@@ -155,12 +157,13 @@ Please note that DECA can add or remove links at any time.
  * [`ownedSkins`](responses/account/ownedSkins.xml) => accessToken
  * [`getOwnedPetSkins`](responses/account/getOwnedPetSkins.xml) => accessToken
  * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
- * ``sendVerifyEmail`` => guid, password
+ * [`sendVerifyEmail`](responses/account/sendVerifyEmail.xml) => accessToken
  * ``extendAccessToken`` => *`Missing Parameters`*
  * [`forgotPassword`](responses/account/forgotPassword.xml) => guid
  * [`changePassword`](responses/account/changePassword.xml) => guid, password, newPassword
  * [`getCredits`](responses/account/getCredits.xml) => accessToken
  * [`listPowerUpStats`](responses/account/listPowerUpStats.xml) => accessToken
+ * ``setNewsletterEmail`` => *`Missing Parameters`*
  * ``ban`` => Returns internal error
  * ``v`` => a, b(Getting the captcha); a, action, g-recaptcha-response(Submitting the captcha)
  * ``*claimLoginReward``
@@ -169,8 +172,11 @@ Please note that DECA can add or remove links at any time.
  * ``isEmailVerified`` => guid, password
  * ``signupDecaEmail`` => notifyMe (1 or 0), guid, password, email
  * ``spammer`` => Returns internal error
- * ``servers`` => guid, password
+ * [`servers`](responses/account/servers.xml) => accessToken
  * [`list`](responses/account/list.xml) => accessToken, type(1:ignored or 0:locked)
+
+``accountLevelRewards/``
+* [`getConfig`](responses/account/getConfig.json) => accessToken
 
 ``supportCampaign/``
  * ``claim`` => guid, password
