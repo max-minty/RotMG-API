@@ -1,0 +1,6 @@
+<!-- Purchase Character Slot on Account (Requires 1000 Gold) -->
+<Success/>
+
+OR
+
+<Error>Not enough Gold</Error>
