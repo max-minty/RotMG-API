@@ -23,6 +23,8 @@ This is an updated version of Zeroeh's RotMG Appspot repo.
 - https://test2.realmofthemadgod.com
 - https://test3.realmofthemadgod.com
 - https://rotmgtesting3.appspot.com
+- https://rotmgtesting4.appspot.com
+- https://rotmgtesting5.appspot.com
 - https://testing.realmofthemadgod.com
 
 ## External Official Links
