@@ -42,7 +42,9 @@ Please note that DECA can add or remove links at any time.
 | `password` | `password123` | User password (plaintext, sent over HTTPS) |
 | `accessToken` | `eyJhbGciOiJIUzI1...uQ==` | Generated on Login (Expires after 12h) |
 | `clientToken` | `0` | |
-| `type` | `Unity`| |
+| `type` | `Unity` | Used in credits |
+| `version` | `1.0` | Used in shop |
+
 ``/``
  * ``logowtext.png``
  * ``realmlogo.png``
@@ -80,7 +82,7 @@ Please note that DECA can add or remove links at any time.
  * ``getPackages`` => guid, password, version (seems to accept any float like 1.0)
 
 ``shop/``
- * ``deals`` => guid, password, version (seems to accept any float like 1.0)
+ * [`deals`](responses/shop/deals.xml) => accessToken, version (seems to accept any float like 1.0)
 
 ``credits/``
  * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
