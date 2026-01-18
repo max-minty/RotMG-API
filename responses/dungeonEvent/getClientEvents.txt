@@ -1,0 +1,1 @@
+Sulfurous Wetlands,1.5,1.0,1.5,1.0,True,False,A|ALIEN_WORMHOLES;,False,0.3-Spectral Penitentiary,1.5,1.0,1.5,1.0,True,False,A|ALIEN_WORMHOLES;,False,1.0-1768727940.4608986
