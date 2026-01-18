@@ -1,0 +1,8 @@
+<!-- Always returns this response even if new email -->
+<Error>Error.emailAlreadyVerified</Error>
+
+OR
+
+<Error>Error.invalidEmail</Error>
+
+
