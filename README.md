@@ -88,8 +88,7 @@ Please note that DECA can add or remove links at any time.
  * [`add`](responses/credits/add.html) => tok, exp, guid, provider, jwt, price, paymentid
  * [`done`](responses/credits/done.html)
  * [`error`](responses/credits/error.html)
- * ``kabamadd`` => naid, signedRequest, createdat (removed)
- * ``token`` => guid, password
+* [`token`](responses/credits/token.json) => accessToken
 
 ``picture/`` => Seems to redirect to google login now
  * ``list`` => myGUID, guid, dataType, tags, offset, num
@@ -312,3 +311,4 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
 ``credits/``
  * ``getoffers`` => guid, password
  * ``pwpurchase`` => iframeUrl (json with these params: token, production)
+ * ``kabamadd`` => naid, signedRequest, createdat (removed)
