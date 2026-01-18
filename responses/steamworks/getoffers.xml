@@ -1,0 +1,58 @@
+<!-- Steam RotMG Realm Gold Purchase Options -->
+<Offers>
+  <Offer>
+    <GameType>RealmGold</GameType>
+    <Title>Gold Casket</Title>
+    <Tag/>
+    <Price>5.00</Price>
+    <RealmGold>500</RealmGold>
+    <Data>eyJ0eXAiOiAiSldUIiwgImFsZyI6ICJIUzI1NiJ9.eyJ0eXBlIjogIlJlYWxtIEdvbGQiLCAicHJpY2UiOiA1MDAsICJxdWFudGl0eSI6IDUwMCwgImxhbmd1YWdlIjogIkVOIiwgImN1cnJlbmN5IjogIlVTRCJ9.1o8ho-ohA7mmsHzoDsMBWCyI0ZJR2ltYTQZaF_K5VeY</Data>
+    <Currency>USD</Currency>
+    <Quantity>500</Quantity>
+    <Description/>
+  </Offer>
+  <Offer>
+    <GameType>RealmGold</GameType>
+    <Title>Mythical Pot Of Gold</Title>
+    <Tag/>
+    <Price>100.00</Price>
+    <RealmGold>16000</RealmGold>
+    <Data>eyJ0eXAiOiAiSldUIiwgImFsZyI6ICJIUzI1NiJ9.eyJ0eXBlIjogIlJlYWxtIEdvbGQiLCAicHJpY2UiOiAxMDAwMCwgInF1YW50aXR5IjogMTYwMDAsICJsYW5ndWFnZSI6ICJFTiIsICJjdXJyZW5jeSI6ICJVU0QifQ.ZIOsWtXcLD9KZWGWe2W_7jSyMnORqqw1mMexSg3sQFo</Data>
+    <Currency>USD</Currency>
+    <Quantity>16000</Quantity>
+    <Description>Best Value</Description>
+  </Offer>
+  <Offer>
+    <GameType>RealmGold</GameType>
+    <Title>Fabulous Treasure</Title>
+    <Tag/>
+    <Price>50.00</Price>
+    <RealmGold>7000</RealmGold>
+    <Data>eyJ0eXAiOiAiSldUIiwgImFsZyI6ICJIUzI1NiJ9.eyJ0eXBlIjogIlJlYWxtIEdvbGQiLCAicHJpY2UiOiA1MDAwLCAicXVhbnRpdHkiOiA3MDAwLCAibGFuZ3VhZ2UiOiAiRU4iLCAiY3VycmVuY3kiOiAiVVNEIn0.9gFTz4BvZ3Co8EGiDHzAvERiclLMBov35AK4Se7NI94</Data>
+    <Currency>USD</Currency>
+    <Quantity>7000</Quantity>
+    <Description/>
+  </Offer>
+  <Offer>
+    <GameType>RealmGold</GameType>
+    <Title>Treasure</Title>
+    <Tag/>
+    <Price>10.00</Price>
+    <RealmGold>1200</RealmGold>
+    <Data>eyJ0eXAiOiAiSldUIiwgImFsZyI6ICJIUzI1NiJ9.eyJ0eXBlIjogIlJlYWxtIEdvbGQiLCAicHJpY2UiOiAxMDAwLCAicXVhbnRpdHkiOiAxMjAwLCAibGFuZ3VhZ2UiOiAiRU4iLCAiY3VycmVuY3kiOiAiVVNEIn0.iiFu7Zcq2idLUwoWxHcmGFL2_qpsIVVDLD2v8I1RKqs</Data>
+    <Currency>USD</Currency>
+    <Quantity>1200</Quantity>
+    <Description/>
+  </Offer>
+  <Offer>
+    <GameType>RealmGold</GameType>
+    <Title>Wonderful Treasure</Title>
+    <Tag/>
+    <Price>20.00</Price>
+    <RealmGold>2600</RealmGold>
+    <Data>eyJ0eXAiOiAiSldUIiwgImFsZyI6ICJIUzI1NiJ9.eyJ0eXBlIjogIlJlYWxtIEdvbGQiLCAicHJpY2UiOiAyMDAwLCAicXVhbnRpdHkiOiAyNjAwLCAibGFuZ3VhZ2UiOiAiRU4iLCAiY3VycmVuY3kiOiAiVVNEIn0.0LyTy96MDmuaE4rhVDqubbGNYZFvjlXx_NxO-QmxEY4</Data>
+    <Currency>USD</Currency>
+    <Quantity>2600</Quantity>
+    <Description>Most Popular</Description>
+  </Offer>
+</Offers>
