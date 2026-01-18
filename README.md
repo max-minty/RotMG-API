@@ -123,6 +123,7 @@ Please note that DECA can add or remove links at any time.
  * => prints a message saying you are forbidden to access this page
 
 ``log/``
+* [`logout`](responses/log/logout.xml) => accessToken
  * ``logFteStep`` => game_net_user_id, game_net, play_platform, guid, password, fteStepCompleted (used for tracking tutorial progress, removed)
  * ``logGameModePlayed`` => seasonID, gameMode (Legacy or Challenger), guid, password
 
@@ -204,10 +205,11 @@ Please note that DECA can add or remove links at any time.
 * [`info`](responses/craigsgift/info.json) => accessToken
 
 ``season/``
- * ``getSeasons`` => guid, password, gameClientVersion
+* ``getSeasons`` => guid, password, gameClientVersion
+* [`battlePass/buyExaltedPass`](responses/season/battlePass/buyExaltedPass.json) => accessToken
 
 ``crucibles/``
-* [`info`](responses/crucibles/info.json) => (responds with Only server can request info)
+* [`info`](responses/crucibles/info.xml) => (responds with Only server can request info)
 
 ``dailyLogin/``
 * [`fetchCalendar`](responses/dailyLogin/fetchCalendar.xml) => accessToken
@@ -218,6 +220,12 @@ Please note that DECA can add or remove links at any time.
 
 ``dungeonEvent/``
 * [`getClientEvents`](responses/dungeonEvent/getClientEvents.txt)
+
+``missions/``
+* [`getClientSeasons`](responses/missions/getClientSeasons.json) => accessToken
+* [`getCompetition`](responses/missions/getCompetition.xml) => accessToken (responds with nothing if no Competition / Community Event active)
+* [`getCompetitionScore`](responses/missions/getCompetitionScore.xml) => accessToken (responds with nothing if no Competition / Community Event active)
+* [`getPlayerMissions`](responses/missions/getPlayerMissions.xml) => accessToken
 
 
 ``char/``
@@ -246,10 +254,11 @@ Please note that DECA can add or remove links at any time.
  * [`rejectRequest`](responses/friends/rejectRequest.xml) => accessToken, targetName
  * [`removeFriend`](responses/friends/removeFriend.xml) => accessToken, targetName (also responds success for pending friend request)
  * [`blockRequest`](responses/friends/blockRequest.xml) => accessToken, targetName (you can't undo this! "Player has blocked you. Cannot add Friend")
- * 
+ * ``*populateFriends`` => *`Missing Parameters`*
 
 ``pet/``
  * ``*feed``
+ * ``*get`` => *`Missing Parameters`*
  * ``*fuse``
  * ``*createPet``
  * ``*yardupgrade``
@@ -264,8 +273,8 @@ Please note that DECA can add or remove links at any time.
  * ``*changeRank``
  * ``*removeMember``
  * ``*create``
- * ``getBoard`` => guid, password
- * ``setBoard`` => guid, password, board
+ * [`getBoard`](responses/guild/getBoard.txt) => accessToken
+ * [`setBoard`](responses/guild/setBoard.xml) => accessToken, board
  * [`listMembers`](responses/guild/listMembers.xml) => accessToken
  * ``*purchase``
 
