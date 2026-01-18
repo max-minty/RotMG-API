@@ -1,4 +1,8 @@
 <!-- Daily Login Reward Calendar Data -->
+<Error>Account not found</Error>
+
+OR
+
 <LoginRewards serverTime="1768727588.13499" conCurDay="2" nonconCurDay="9">
   <NonConsecutive days="9">
     <Login>
