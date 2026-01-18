@@ -1,0 +1,6 @@
+<!-- Logout of Account -->
+<Success/>
+
+OR
+
+<Error>Account not found</Error>
