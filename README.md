@@ -199,12 +199,26 @@ Please note that DECA can add or remove links at any time.
 ``calendar/``
 * [`getForClient`](responses/calendar/getForClient.json) => guid, accessToken
 
+``craigsgift/``
+* [`buy`](responses/craigsgift/buy.json) => *`Missing Parameters`*
+* [`info`](responses/craigsgift/info.json) => accessToken
+
 ``season/``
  * ``getSeasons`` => guid, password, gameClientVersion
 
+``crucibles/``
+* [`info`](responses/crucibles/info.json) => (responds with Only server can request info)
+
+``dailyLogin/``
+* [`fetchCalendar`](responses/dailyLogin/fetchCalendar.xml) => accessToken
+
 ``dailyquest/``
- * ``resetDailyQuests`` => guid, password (returns <Error>Server error<Error/>)
- * ``resetDailyQuestsAdmin`` => guid, password (requires admin account)
+ * ``resetDailyQuests`` => accessToken (returns <Error>Server error<Error/>)
+* [`resetDailyQuestsAdmin`](responses/dailyquest/resetDailyQuestsAdmin.xml) => accessToken (requires admin account)
+
+``dungeonEvent/``
+* [`getClientEvents`](responses/dungeonEvent/getClientEvents.txt)
+
 
 ``char/``
  * ``list`` => guid, password, [challenger (false/true)][muleDump (true/false)]
