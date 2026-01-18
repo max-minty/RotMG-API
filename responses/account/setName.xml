@@ -1,0 +1,10 @@
+<!-- Change Username -->
+<Success/>
+
+OR
+
+<Error>Error.notEnoughGold</Error>
+
+OR
+
+<Error>Error.accountNotFound</Error>
