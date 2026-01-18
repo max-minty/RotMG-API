@@ -1,0 +1,171 @@
+<!-- Daily Login Reward Calendar Data -->
+<LoginRewards serverTime="1768727588.13499" conCurDay="2" nonconCurDay="9">
+  <NonConsecutive days="9">
+    <Login>
+      <Days>1</Days>
+      <ItemId quantity="1">26551</ItemId>
+      <Gold>0</Gold>
+      <key>ahNyZWFsbW9mdGhlbWFkZ29kaHJk</key>
+    </Login>
+    <Login>
+      <Days>2</Days>
+      <ItemId quantity="2">3176</ItemId>
+      <Gold>0</Gold>
+      <key>ahNyZWFsbW9mdGhlbWFkZ29kaHJk</key>
+    </Login>
+    <Login>
+      <Days>3</Days>
+      <ItemId quantity="2">7713</ItemId>
+      <Gold>0</Gold>
+      <key>ahNyZWFsbW9mdGhlbWFkZ29kaHJk</key>
+    </Login>
+    <Login>
+      <Days>4</Days>
+      <ItemId quantity="1">3138</ItemId>
+      <Gold>0</Gold>
+      <key>ahNyZWFsbW9mdGhlbWFkZ29kaHJk</key>
+    </Login>
+    <Login>
+      <Days>5</Days>
+      <ItemId quantity="1">3266</ItemId>
+      <Gold>0</Gold>
+      <key>ahNyZWFsbW9mdGhlbWFkZ29kaHJk</key>
+    </Login>
+    <Login>
+      <Days>6</Days>
+      <ItemId quantity="1">31883</ItemId>
+      <Gold>0</Gold>
+      <key>ahNyZWFsbW9mdGhlbWFkZ29kaHJk</key>
+    </Login>
+    <Login>
+      <Days>7</Days>
+      <ItemId quantity="1">3249</ItemId>
+      <Gold>0</Gold>
+      <key>ahNyZWFsbW9mdGhlbWFkZ29kaHJk</key>
+    </Login>
+    <Login>
+      <Days>8</Days>
+      <ItemId quantity="1">3269</ItemId>
+      <Gold>0</Gold>
+      <key>ahNyZWFsbW9mdGhlbWFkZ29kaHJk</key>
+    </Login>
+    <Login>
+      <Days>9</Days>
+      <ItemId quantity="1">5074</ItemId>
+      <Gold>0</Gold>
+      <key>ahNyZWFsbW9mdGhlbWFkZ29kaHJk</key>
+    </Login>
+    <Login>
+      <Days>10</Days>
+      <ItemId quantity="1">5073</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>11</Days>
+      <ItemId quantity="2">3180</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>12</Days>
+      <ItemId quantity="1">6731</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>13</Days>
+      <ItemId quantity="10">5094</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>14</Days>
+      <ItemId quantity="1">3274</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>15</Days>
+      <ItemId quantity="1">813</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>16</Days>
+      <ItemId quantity="1">18523</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>17</Days>
+      <ItemId quantity="1">18517</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>18</Days>
+      <ItemId quantity="1">13817</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>19</Days>
+      <ItemId quantity="1">34643</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>20</Days>
+      <ItemId quantity="1">3272</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>21</Days>
+      <ItemId quantity="1">8652</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>22</Days>
+      <ItemId quantity="1">8971</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>23</Days>
+      <ItemId quantity="1">3470</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>24</Days>
+      <ItemId quantity="1">31565</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>25</Days>
+      <ItemId quantity="1">33695</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>26</Days>
+      <ItemId quantity="1">8647</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>27</Days>
+      <ItemId quantity="1">3276</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>28</Days>
+      <ItemId quantity="1">8972</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>29</Days>
+      <ItemId quantity="1">33691</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>30</Days>
+      <ItemId quantity="1">13822</ItemId>
+      <Gold>0</Gold>
+    </Login>
+    <Login>
+      <Days>31</Days>
+      <ItemId quantity="1">29652</ItemId>
+      <Gold>0</Gold>
+    </Login>
+  </NonConsecutive>
+  <Consecutive days="2"/>
+  <Unlockable days="9"/>
+</LoginRewards>
