@@ -1,0 +1,35 @@
+<AccountPowerups>
+  <ClassPowerup>
+    <Class>803</Class>
+    <Dex>46</Dex>
+    <Spd>15</Spd>
+    <Vit>64</Vit>
+    <Wis>27</Wis>
+    <Def>25</Def>
+    <Att>31</Att>
+    <Mana>22</Mana>
+    <Life>2</Life>
+  </ClassPowerup>
+  <ClassPowerup>
+    <Class>805</Class>
+    <Dex>0</Dex>
+    <Spd>11</Spd>
+    <Vit>16</Vit>
+    <Wis>2</Wis>
+    <Def>21</Def>
+    <Att>47</Att>
+    <Mana>14</Mana>
+    <Life>13</Life>
+  </ClassPowerup>
+  <ClassPowerup>
+    <Class>782</Class>
+    <Dex>44</Dex>
+    <Spd>96</Spd>
+    <Vit>76</Vit>
+    <Wis>79</Wis>
+    <Def>155</Def>
+    <Att>85</Att>
+    <Mana>126</Mana>
+    <Life>84</Life>
+  </ClassPowerup>
+</AccountPowerups>
