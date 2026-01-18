@@ -83,6 +83,8 @@ Please note that DECA can add or remove links at any time.
 
 ``shop/``
  * [`deals`](responses/shop/deals.xml) => accessToken, version (seems to accept any float like 1.0)
+ * [`getOffers`](responses/shop/getOffers.txt) => *Missing Parameters
+ * [`purchaseItems`](responses/shop/purchaseItems.xml) *Missing Parameters
 
 ``credits/``
  * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
