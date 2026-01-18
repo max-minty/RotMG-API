@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Guild name="GuildName" id="5235437514520928">
+  <TotalFame>139911</TotalFame>
+  <CurrentFame>139911</CurrentFame>
+  <HallType>Guild Hall</HallType>
+  <Member>
+    <Name>UsernameOne</Name>
+    <Rank>30</Rank>
+    <Fame>132808</Fame>
+    <Character>
+      <ObjectType>784</ObjectType>
+      <Level>20</Level>
+      <Exp>2313166</Exp>
+      <CurrentFame>1167</CurrentFame>
+    </Character>
+    <LastLogin>2025-06-27 21:06:37.033739</LastLogin>
+  </Member>
+  <Member>
+    <Name>UsernameTwo</Name>
+    <Rank>10</Rank>
+    <Fame>0</Fame>
+    <Character>
+      <ObjectType>797</ObjectType>
+      <Level>20</Level>
+      <Exp>65250</Exp>
+      <CurrentFame>43</CurrentFame>
+      <Tex2>4417</Tex2>
+    </Character>
+    <LastLogin>2025-09-18 13:10:59.176913</LastLogin>
+  </Member>
+  <Member>
+    <Name>UsernameThree</Name>
+    <Rank>0</Rank>
+    <Fame>0</Fame>
+    <Character>
+      <ObjectType>784</ObjectType>
+      <Level>1</Level>
+      <Exp>41</Exp>
+      <CurrentFame>0</CurrentFame>
+    </Character>
+    <LastLogin>2025-08-06 07:19:33.733954</LastLogin>
+  </Member>
+  <Member>
+    <Name>UsernameFour</Name>
+    <Rank>0</Rank>
+    <Fame>0</Fame>
+    <Character>
+      <ObjectType>782</ObjectType>
+      <Level>1</Level>
+      <Exp>0</Exp>
+      <CurrentFame>0</CurrentFame>
+    </Character>
+    <LastLogin>2025-06-08 01:57:10.739119</LastLogin>
+  </Member>
+  <Member>
+    <Name>UsernameFive</Name>
+    <Rank>0</Rank>
+    <Fame>0</Fame>
+    <Character>
+      <ObjectType>782</ObjectType>
+      <Level>1</Level>
+      <Exp>0</Exp>
+      <CurrentFame>0</CurrentFame>
+    </Character>
+    <LastLogin>2026-01-18 06:32:28.641936</LastLogin>
+  </Member>
+</Guild>
