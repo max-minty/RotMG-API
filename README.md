@@ -43,7 +43,7 @@ Please note that DECA can add or remove links at any time.
 | `accessToken` | `eyJhbGciOiJIUzI1...uQ==` | Generated on Login (Expires after 12h) |
 | `clientToken` | `0` | |
 | `type` | `Unity` | Used in credits |
-| `version` | `1.0` | Used in shop |
+| `version` | `1.0` | Required in XML Responses |
 
 ``/``
  * ``logowtext.png``
