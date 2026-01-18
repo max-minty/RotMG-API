@@ -83,8 +83,8 @@ Please note that DECA can add or remove links at any time.
 
 ``shop/``
  * [`deals`](responses/shop/deals.xml) => accessToken, version (seems to accept any float like 1.0)
- * [`getOffers`](responses/shop/getOffers.txt) => *Missing Parameters
- * [`purchaseItems`](responses/shop/purchaseItems.xml) *Missing Parameters
+ * [`getOffers`](responses/shop/getOffers.txt) => *`Missing Parameters`*
+ * [`purchaseItems`](responses/shop/purchaseItems.xml) => *`Missing Parameters`*
 
 ``credits/``
  * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
@@ -237,7 +237,7 @@ Please note that DECA can add or remove links at any time.
  * ``*create``
  * ``getBoard`` => guid, password
  * ``setBoard`` => guid, password, board
- * ``listMembers`` => guid, password, num, offset
+ * [`listMembers`](responses/guild/listMembers.xml) => accessToken
  * ``*purchase``
 
 ``kabam/``
@@ -308,6 +308,16 @@ Please note that DECA can add or remove links at any time.
 
 Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_id=111111111
 
+
+## In-game Commands
+ * ``/class``, ``/c``, ``/classes``
+ * ``/guild ``, ``/g `` => text
+ * ``/help``, ``/h``
+ * ``/ignore `` => username
+ * ``/join `` => guild (accept guild invite)
+ * ``/kick `` => username (dungeon owner that popped in bazaar)
+ * ``/cond `` => username (You are not an admin)
+ * ``/resetBPReminderPopup``
 
 ## Deprecated / Replaced
 ``mysterybox/``
