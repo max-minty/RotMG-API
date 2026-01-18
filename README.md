@@ -132,7 +132,7 @@ Please note that DECA can add or remove links at any time.
  * ``remove``
 
 ``account/``
- * ``register`` => newPassword, entrytag, newGUID, name(not needed), isAgeVerified, guid, signedUpKabamEmail (0 or 1)
+ * [`register`](responses/account/register.xml) => newPassword, entrytag, newGUID, name(not needed), isAgeVerified, guid, signedUpKabamEmail (0 or 1)
  * ``verify`` => guid, password (used by Muledump)
  * ``verifyage`` => guid, password, ignore, isAgeVerified, gameClientVersion
  * [`acceptTOS`](responses/account/acceptTOS.xml) => accessToken
@@ -146,11 +146,12 @@ Please note that DECA can add or remove links at any time.
  * ``*addStar``
  * ``*addIgnore``
  * [`getDustCost`](responses/account/getDustCost.txt)
- * ``purchaseCharSlot`` => guid, password
+ * [`purchaseCharSlot`](responses/account/purchaseCharSlot.xml) => accessToken
  * ``*purchaseVaultChest``
  * ``purchaseSkin`` => guid, password, skinType
- * ``purchaseMysteryBox`` => guid, password, boxId, quantity, price, currency
- * ``purchasePackage`` => guid, password, boxId, quantity, price, currency
+ * [`purchaseMysteryBox`](responses/account/purchaseMysteryBox.xml) => accessToken, boxId, quantity, price, currency
+ * [`purchasePackage`](responses/account/purchasePackage.xml) => accessToken, boxId, quantity, price, currency
+ * ``purchaseCustomization`` => *`Missing Parameters`*
  * [`ownedSkins`](responses/account/ownedSkins.xml) => accessToken
  * [`getOwnedPetSkins`](responses/account/getOwnedPetSkins.xml) => accessToken
  * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
@@ -163,7 +164,7 @@ Please note that DECA can add or remove links at any time.
  * ``ban`` => Returns internal error
  * ``v`` => a, b(Getting the captcha); a, action, g-recaptcha-response(Submitting the captcha)
  * ``*claimLoginReward``
- * ``saveSecurityQuestions`` => guid, password, answers (encoded in base64 and split by a pipe operator [|])
+ * [`saveSecurityQuestions`](responses/account/saveSecurityQuestions.xml) => accessToken, answers (encoded in base64 and split by a pipe operator [|])
  * ``forgotpasswordPage`` => links to a page where you enter your email
  * ``isEmailVerified`` => guid, password
  * ``signupDecaEmail`` => notifyMe (1 or 0), guid, password, email
