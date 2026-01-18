@@ -85,10 +85,9 @@ Please note that DECA can add or remove links at any time.
 ``credits/``
  * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
  * [`paymentToken`](responses/credits/paymentToken.json) => accessToken, type
- * ``pwpurchase`` => iframeUrl (json with these params: token, production)
  * [`add`](responses/credits/add.html) => tok, exp, guid, provider, jwt, price, paymentid
  * [`done`](responses/credits/done.html)
- * ``error``
+ * [`error`](responses/credits/error.html)
  * ``kabamadd`` => naid, signedRequest, createdat (removed)
  * ``token`` => guid, password
 
@@ -312,3 +311,4 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
  * ``getBoxes`` => guid, password, version (seems to accept any float like 1.0)
 ``credits/``
  * ``getoffers`` => guid, password
+ * ``pwpurchase`` => iframeUrl (json with these params: token, production)
