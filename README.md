@@ -151,13 +151,15 @@ Please note that DECA can add or remove links at any time.
  * ``purchaseSkin`` => guid, password, skinType
  * ``purchaseMysteryBox`` => guid, password, boxId, quantity, price, currency
  * ``purchasePackage`` => guid, password, boxId, quantity, price, currency
-  * [`getOwnedPetSkins`](responses/account/getOwnedPetSkins.xml) => accessToken
+ * [`ownedSkins`](responses/account/ownedSkins.xml) => accessToken
+ * [`getOwnedPetSkins`](responses/account/getOwnedPetSkins.xml) => accessToken
  * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
  * ``sendVerifyEmail`` => guid, password
  * ``extendAccessToken`` => *`Missing Parameters`*
  * [`forgotPassword`](responses/account/forgotPassword.xml) => guid
  * [`changePassword`](responses/account/changePassword.xml) => guid, password, newPassword
  * [`getCredits`](responses/account/getCredits.xml) => accessToken
+ * [`listPowerUpStats`](responses/account/listPowerUpStats.xml) => accessToken
  * ``ban`` => Returns internal error
  * ``v`` => a, b(Getting the captcha); a, action, g-recaptcha-response(Submitting the captcha)
  * ``*claimLoginReward``
@@ -167,7 +169,7 @@ Please note that DECA can add or remove links at any time.
  * ``signupDecaEmail`` => notifyMe (1 or 0), guid, password, email
  * ``spammer`` => Returns internal error
  * ``servers`` => guid, password
- * ``list`` => guid, password, type(1:ignored or 0:locked)
+ * [`list`](responses/account/list.xml) => accessToken, type(1:ignored or 0:locked)
 
 ``supportCampaign/``
  * ``claim`` => guid, password
