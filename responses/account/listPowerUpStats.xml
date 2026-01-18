@@ -1,3 +1,5 @@
+<!-- Exaltation Dungeon Completes on each Character -->
+<!-- 75+ is Max 5/5 Stat (keeps incrementing even after max) -->
 <AccountPowerups>
   <ClassPowerup>
     <Class>803</Class>
