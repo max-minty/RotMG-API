@@ -42,7 +42,7 @@ Please note that DECA can add or remove links at any time.
 | `password` | `password123` | User password (plaintext, sent over HTTPS) |
 | `accessToken` | `eyJhbGciOiJIUzI1...uQ==` | Generated on Login (Expires after 12h) |
 | `clientToken` | `0` | |
-
+| `type` | `Unity`| |
 ``/``
  * ``logowtext.png``
  * ``realmlogo.png``
@@ -83,9 +83,8 @@ Please note that DECA can add or remove links at any time.
  * ``deals`` => guid, password, version (seems to accept any float like 1.0)
 
 ``credits/``
- * ``getVirtualItemsList`` => accessToken
-   - List of Available Gold Purchase Options
- * ``getoffers`` => guid, password
+ * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
+ * [`paymentToken`](responses/credits/paymentToken.json) => accessToken, type
  * ``pwpurchase`` => iframeUrl (json with these params: token, production)
  * ``add`` => tok, exp, guid, provider, jwt, price, paymentid
  * ``done``
@@ -311,3 +310,5 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
 ## Deprecated / Replaced
 ``mysterybox/``
  * ``getBoxes`` => guid, password, version (seems to accept any float like 1.0)
+``credits/``
+ * ``getoffers`` => guid, password
