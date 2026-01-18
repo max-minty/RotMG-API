@@ -1,0 +1,154 @@
+<!-- Account Information / Data -->
+<Account>
+  <AccountLvl>68</AccountLvl>
+  <AccountLvlClaimed>50</AccountLvlClaimed>
+  <ALXPCurrent>5809926</ALXPCurrent>
+  <AccountLVLRewardCharStartWith>768:T4,T2,T4,Ring of Greater Defense;775:T4,T2,T4,Ring of Greater Defense;782:T4,T2,T4,Ring of Greater Defense;784:T4,T2,T4,Ring of Greater Defense;797:T4,T2,T4,Ring of Greater Defense;798:T4,T2,T4,Ring of Greater Defense;799:T4,T2,T4,Ring of Greater Defense;800:T4,T2,T4,Ring of Greater Defense;801:T4,T2,T4,Ring of Greater Defense;802:T4,T2,T4,Ring of Greater Defense;803:T4,T2,T4,Ring of Greater Defense;804:T4,T2,T4,Ring of Greater Defense;805:T4,T2,T4,Ring of Greater Defense;806:T4,T2,T4,Ring of Greater Defense;785:T4,T2,T4,Ring of Greater Defense;796:T4,T2,T4,Ring of Greater Defense;817:T4,T2,T4,Ring of Greater Defense;818:T4,T2,T4,Ring of Greater Defense</AccountLVLRewardCharStartWith>
+  <AccountLVLRewardBoostExp>6</AccountLVLRewardBoostExp>
+  <AccountLVLRewardBoostLoot>4</AccountLVLRewardBoostLoot>
+  <AccountLVLRewardDiscountBP>70</AccountLVLRewardDiscountBP>
+  <Credits>11</Credits>
+  <FortuneToken>0</FortuneToken>
+  <UnityCampaignPoints>0</UnityCampaignPoints>
+  <NextCharSlotPrice>1000</NextCharSlotPrice>
+  <EarlyGameEventTracker>99</EarlyGameEventTracker>
+  <AccountId>6129854682016404</AccountId>
+  <CreationTimestamp>1426370972</CreationTimestamp>
+  <FavoritePet>74</FavoritePet>
+  <FavoriteEntrance>1996</FavoriteEntrance>
+  <HasGifts/>
+  <VerifiedEmail/>
+  <TDone/>
+  <MaxNumChars>41</MaxNumChars>
+  <muted/>
+  <MutedUntil>1715648909</MutedUntil>
+  <LastServer>3.140.254.133</LastServer>
+  <TeleportWait>0</TeleportWait>
+  <Originating>None</Originating>
+  <PetYardType>5</PetYardType>
+  <LastLogin>2026-01-18 08:41:51.052131</LastLogin>
+  <ForgeFireEnergy>2000</ForgeFireEnergy>
+  <RegularForgeFireBlueprints>23732,14336,590,3395,1894,28830,3112,55383,306,6203,594,28844,14816,596,49694,19951,4310,28848,28837,55381,2988,1408,1977,9659,28856,3181,1177,3073,19948,593,1202,19950,4308,17501,46072,3123,2622,28838,13986,28835,30053,9152,4309,23919,14992,1953,28847,8386,3093,588,55414,2563,4255,2517,2881,29768,2987,589,13987,28839,3294,2635,24834,2556,3077,46071,14471,3075,310,2109,28829,3111,2321,49690,592,14465,2624,28843,2977,1201,595,3100,3091,3074,14470,28832,2112,2557,17499,1801,17563,580,598,49696,597</RegularForgeFireBlueprints>
+  <Campaigns/>
+  <Name>Username</Name>
+  <NameChosen/>
+  <Converted/>
+  <IsAgeVerified>1</IsAgeVerified>
+  <SecurityQuestions>
+    <HasSecurityQuestions>1</HasSecurityQuestions>
+    <ShowSecurityQuestionsDialog>0</ShowSecurityQuestionsDialog>
+    <SecurityQuestionsKeys>
+      <SecurityQuestionsKey>SecurityQuestionsDialog.question1</SecurityQuestionsKey>
+      <SecurityQuestionsKey>SecurityQuestionsDialog.question2</SecurityQuestionsKey>
+      <SecurityQuestionsKey>SecurityQuestionsDialog.question3</SecurityQuestionsKey>
+    </SecurityQuestionsKeys>
+  </SecurityQuestions>
+  <Stats>
+    <ClassStats objectType="0x300">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>1211</BestBaseFame>
+      <BestTotalFame>5526</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x307">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>11663</BestBaseFame>
+      <BestTotalFame>32033</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x30e">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>159392</BestBaseFame>
+      <BestTotalFame>159392</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x310">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>433</BestBaseFame>
+      <BestTotalFame>2653</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x31d">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>4234</BestBaseFame>
+      <BestTotalFame>12639</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x31e">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>5299</BestBaseFame>
+      <BestTotalFame>5299</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x31f">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>39084</BestBaseFame>
+      <BestTotalFame>39084</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x320">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>420</BestBaseFame>
+      <BestTotalFame>1294</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x321">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>124938</BestBaseFame>
+      <BestTotalFame>124938</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x322">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>1306</BestBaseFame>
+      <BestTotalFame>2005</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x323">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>493</BestBaseFame>
+      <BestTotalFame>1248</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x324">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>125302</BestBaseFame>
+      <BestTotalFame>125302</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x325">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>3405</BestBaseFame>
+      <BestTotalFame>8910</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x326">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>818</BestBaseFame>
+      <BestTotalFame>1118</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x311">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>1001</BestBaseFame>
+      <BestTotalFame>4244</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x31c">
+      <BestLevel>1</BestLevel>
+      <BestBaseFame>0</BestBaseFame>
+      <BestTotalFame>0</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x331">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>20</BestBaseFame>
+      <BestTotalFame>20</BestTotalFame>
+    </ClassStats>
+    <ClassStats objectType="0x332">
+      <BestLevel>20</BestLevel>
+      <BestBaseFame>12249</BestBaseFame>
+      <BestTotalFame>12249</BestTotalFame>
+    </ClassStats>
+    <BestCharFame>73847</BestCharFame>
+    <TotalFame>217271</TotalFame>
+    <Fame>2466</Fame>
+  </Stats>
+  <Guild id="6216713414925650">
+    <Name>GuildName</Name>
+    <Rank>30</Rank>
+  </Guild>
+  <AccessToken>AccessTokenHere</AccessToken>
+  <AccessTokenTimestamp>1768725738</AccessTokenTimestamp>
+  <AccessTokenExpiration>86400</AccessTokenExpiration>
+  <OwnedSkins>872,856,29770,902,19427,19432,19428,888,29799,913,29801,29815,851,29809,900,8969,8968,29790,32654,5860,9314,24593,9143,807,885,10971,10169,10209,30813,915,29845,19546,31282,31288,31422,31440,31340,30737,31496,50862,30960,19540,9441,10967,19548,30950,10199,30942,6026,52046,9501,51501,51369,9513,30954,9519,32677,30948</OwnedSkins>
+  <OwnedTitles>39441,39436,51276,39435,39421,39424,39429,39437,39425,4066,4067,41373,39438,39440,39439,39442,39434,39446</OwnedTitles>
+  <OwnedEmotes>49773,51337,49317,49321,49320</OwnedEmotes>
+  <OwnedEntrances>1996</OwnedEntrances>
+  <Discoverable/>
+  <DiscoveryIcon>46</DiscoveryIcon>
+</Account>
