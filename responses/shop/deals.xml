@@ -1,0 +1,990 @@
+<?xml version="1.0"?>
+<Deals>
+  <MiniGames version="1768715929.260803">
+    <MysteryBox id="7776" title="Get Buffed Box" weight="5500">
+      <Description/>
+      <Contents>29652,29652,29652,29652,29652,6731,6731,6731,6731,6731,31883,31883,31883,31883,31883,3180,3180,3180,3180,3180,3177,3177,3177,3177,3177,3176,3176,3176,3176,3176;3180,18522,18516;29652;31883;6731;3180,3180;3266,3266</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="149" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-16 09:30:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>29652,29652,29652,29652,29652,6731,6731,6731,6731,6731,31883,31883,31883,31883,31883,3180,3180,3180,3180,3180,3177,3177,3177,3177,3177,3176,3176,3176,3176,3176</Jackpots>
+      <DisplayedItems>29652,6731,31883,3180,3177</DisplayedItems>
+      <EndTime>2026-01-19 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Deals,Utility</Category>
+      <Platform>0</Platform>
+      <Background>8</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="7792" title="Angelic Bard ST" weight="6600">
+      <Description/>
+      <Contents>19961,19962,19963,19964,9398,8866,8866,8866;19961,19962,19963,19964,8866,8866;19961,19962,19963,19964,9398;8866,8866;9398;8866;19961;19962;19963;19964;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>19961,19962,19963,19964,9398,8866,8866,8866|19961,19962,19963,19964,8866,8866|19961,19962,19963,19964,9398</Jackpots>
+      <DisplayedItems>19961,19962,19963,19964,9398</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7799" title="Unlock The Seasonal Vault Box" weight="9000">
+      <Description/>
+      <Contents>26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782;26782,26782,26782,26782,26782,26782,26782,26782;26782,26782,26782,26782,26782,26782;26782,26782,26782,26782,26782;26782,26782,26782,26782;26782,26782,26782;26782,26782</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="899" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-16 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782,26782|26782,26782,26782,26782,26782,26782,26782,26782|26782,26782,26782,26782,26782,26782</Jackpots>
+      <DisplayedItems>26782,26782,26782,26782,26782</DisplayedItems>
+      <EndTime>2026-01-23 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Deals,Utility</Category>
+      <Platform>0</Platform>
+      <Background>8</Background>
+      <Sale price="-1" currency="0"/>
+      <Seasonal/>
+    </MysteryBox>
+    <MysteryBox id="7786" title="Swarming Huntress ST" weight="6600">
+      <Description/>
+      <Contents>2295,2296,2297,2298,19408,8866,8866,8866;2295,2296,2297,2298,8866,8866;2295,2296,2297,2298,19408;8866,8866;19408;8866;2295;2296;2297;2298;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>2295,2296,2297,2298,19408,8866,8866,8866|2295,2296,2297,2298,8866,8866|2295,2296,2297,2298,19408</Jackpots>
+      <DisplayedItems>2295,2296,2297,2298,19408</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="4915" title="Reforged Sulphur Box" weight="4550">
+      <Description/>
+      <Contents>816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814;816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814;816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814;815;814;815;814;813,813;814;813,813;812,812,812;812,812;813,813</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="149" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2024-01-16 08:00:01</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814|816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814|816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814</Jackpots>
+      <DisplayedItems>816,815,814</DisplayedItems>
+      <EndTime/>
+      <Rolls>1</Rolls>
+      <Category>Forge</Category>
+      <Platform>0</Platform>
+      <Background>8</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="5616" title="Choice Fortune Box" weight="8300">
+      <Description/>
+      <Contents>33693,51672,51672,51672,33698;33692,51672,51672,51672,33697;51672;12055,12055;12055;12050;12045;12044;12043;12042;12041;12040;12039;12038</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="149" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2024-11-05 10:00:01</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>33693,51672,51672,51672,33698|33692,51672,51672,51672,33697|51672</Jackpots>
+      <DisplayedItems>33693,51672,51672,51672,33698</DisplayedItems>
+      <EndTime/>
+      <Rolls>1</Rolls>
+      <Category>Skins</Category>
+      <Platform>0</Platform>
+      <Background>2</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="7785" title="Hollow King ST" weight="6600">
+      <Description/>
+      <Contents>2524,2525,2526,2527,19575,8866,8866,8866;2524,2525,2526,2527,8866,8866;2524,2525,2526,2527,19575;8866,8866;19575;8866;2524;2525;2526;2527;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>2524,2525,2526,2527,19575,8866,8866,8866|2524,2525,2526,2527,8866,8866|2524,2525,2526,2527,19575</Jackpots>
+      <DisplayedItems>2524,2525,2526,2527,19575</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7768" title="Sulfurous Wetlands Keys" weight="3400">
+      <Description/>
+      <Contents>25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497;25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497;25497,25497,25497,25497,25497,25497,25497,25497,25497,25497;25497,25497,25497,25497,25497;25497,25497,25497,25497;25497,25497,25497;25497,25497;25497|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 09:30:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497|25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497,25497|3266,31883,813,3177,3176,3180</Jackpots>
+      <DisplayedItems>25497</DisplayedItems>
+      <EndTime>2026-01-20 10:00:00</EndTime>
+      <Rolls>2</Rolls>
+      <Category>Keys</Category>
+      <Platform>0</Platform>
+      <Background>9</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="7789" title="Horrific Sorcerer ST" weight="6600">
+      <Description/>
+      <Contents>3004,3005,3006,3007,28678,8866,8866,8866;3004,3005,3006,3007,8866,8866;3004,3005,3006,3007,28678;8866,8866;28678;8866;3004;3005;3006;3007;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>3004,3005,3006,3007,28678,8866,8866,8866|3004,3005,3006,3007,8866,8866|3004,3005,3006,3007,28678</Jackpots>
+      <DisplayedItems>3004,3005,3006,3007,28678</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7783" title="Swoll Paladin ST" weight="6600">
+      <Description/>
+      <Contents>1189,1190,1191,1192,9604,8866,8866,8866;1189,1190,1191,1192,8866,8866;1189,1190,1191,1192,9604;8866,8866;9604;8866;1189;1190;1191;1192;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>1189,1190,1191,1192,9604,8866,8866,8866|1189,1190,1191,1192,8866,8866|1189,1190,1191,1192,9604</Jackpots>
+      <DisplayedItems>1189,1190,1191,1192,9604</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7784" title="Flesh Collector ST" weight="6600">
+      <Description/>
+      <Contents>3032,3033,3034,3035,1306,8866,8866,8866;3032,3033,3034,3035,8866,8866;3032,3033,3034,3035,1306;8866,8866;1306;8866;3032;3033;3034;3035;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>3032,3033,3034,3035,1306,8866,8866,8866|3032,3033,3034,3035,8866,8866|3032,3033,3034,3035,1306</Jackpots>
+      <DisplayedItems>3032,3033,3034,3035,1306</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7779" title="Twilight Archmage ST" weight="6600">
+      <Description/>
+      <Contents>8691,8692,8693,8694,9605,8866,8866,8866;8691,8692,8693,8694,8866,8866;8691,8692,8693,8694,9605;8866,8866;9605;8866;8691;8692;8693;8694;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>8691,8692,8693,8694,9605,8866,8866,8866|8691,8692,8693,8694,8866,8866|8691,8692,8693,8694,9605</Jackpots>
+      <DisplayedItems>8691,8692,8693,8694,9605</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7780" title="Priest of Geb ST" weight="6600">
+      <Description/>
+      <Contents>9055,9054,9052,9053,9601,8866,8866,8866;9055,9054,9052,9053,8866,8866;9055,9054,9052,9053,9601;8866,8866;9601;8866;9055;9054;9052;9053;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>9055,9054,9052,9053,9601,8866,8866,8866|9055,9054,9052,9053,8866,8866|9055,9054,9052,9053,9601</Jackpots>
+      <DisplayedItems>9055,9054,9052,9053,9601</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7797" title="S26 Special I" weight="8500">
+      <Description/>
+      <Contents>52045;5871;10186;25019,25019;29652;3177,3177,3177</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="369" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots/>
+      <DisplayedItems>25019,52045,5871,10186,3177</DisplayedItems>
+      <EndTime>2026-01-20 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Deals,Keys</Category>
+      <Platform>0</Platform>
+      <Background>4</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="7791" title="Akuma Slayer Samurai ST" weight="6600">
+      <Description/>
+      <Contents>8254,3900,8256,8257,29989,8866,8866,8866;8254,3900,8256,8257,8866,8866;8254,3900,8256,8257,29989;8866,8866;29989;8866;8254;3900;8256;8257;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>8254,3900,8256,8257,29989,8866,8866,8866|8254,3900,8256,8257,8866,8866|8254,3900,8256,8257,29989</Jackpots>
+      <DisplayedItems>8254,3900,8256,8257,29989</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7781" title="Dragon Tamer Warrior ST" weight="6600">
+      <Description/>
+      <Contents>32700,32699,32697,32698,32702,8866,8866,8866;32700,32699,32697,32698,8866,8866;32700,32699,32697,32698,32702;8866,8866;32702;8866;32700;32699;32697;32698;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>32700,32699,32697,32698,32702,8866,8866,8866|32700,32699,32697,32698,8866,8866|32700,32699,32697,32698,32702</Jackpots>
+      <DisplayedItems>32700,32699,32697,32698,32702</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7778" title="Phantom Archer ST" weight="6600">
+      <Description/>
+      <Contents>7748,7749,7750,7751,24269,8866,8866,8866;7748,7749,7750,7751,8866,8866;7748,7749,7750,7751,24269;8866,8866;24269;8866;7748;7749;7750;7751;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>7748,7749,7750,7751,24269,8866,8866,8866|7748,7749,7750,7751,8866,8866|7748,7749,7750,7751,24269</Jackpots>
+      <DisplayedItems>7748,7749,7750,7751,24269</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7790" title="Raijin Ninja ST" weight="6600">
+      <Description/>
+      <Contents>7757,7768,7759,7760,24256,8866,8866,8866;7757,7768,7759,7760,8866,8866;7757,7768,7759,7760,24256;8866,8866;24256;8866;7757;7768;7759;7760;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>7757,7768,7759,7760,24256,8866,8866,8866|7757,7768,7759,7760,8866,8866|7757,7768,7759,7760,24256</Jackpots>
+      <DisplayedItems>7757,7768,7759,7760,24256</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="4245" title="Key Box" weight="3200">
+      <Description/>
+      <Contents>8972,8972,8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971,8971,8971;8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971;8972,8972,8972,8972,8972,8971,8971,8971,8971,8971;8972,8972,8972,8971,8971,8971;8972,8972,8971,8971;8972,8971;8972;8971,8971</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="99" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2023-06-01 08:00:01</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>8972,8972,8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971,8971,8971|8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971|8972,8972,8972,8972,8972,8971,8971,8971,8971,8971</Jackpots>
+      <DisplayedItems>8972,8971</DisplayedItems>
+      <EndTime/>
+      <Rolls>1</Rolls>
+      <Category>Keys</Category>
+      <Platform>0</Platform>
+      <Background>9</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="7777" title="Skuld Rogue ST" weight="6600">
+      <Description/>
+      <Contents>10064,10065,10066,10067,9602,8866,8866,8866;10064,10065,10066,10067,8866,8866;10064,10065,10066,10067,9602;8866,8866;9602;8866;10064;10065;10066;10067;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>10064,10065,10066,10067,9602,8866,8866,8866|10064,10065,10066,10067,8866,8866|10064,10065,10066,10067,9602</Jackpots>
+      <DisplayedItems>10064,10065,10066,10067,9602</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="6503" title="Super Ambrosia Box III" weight="5100">
+      <Description/>
+      <Contents>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276;3276,3276,3276,3276,3276;3276,3276,3276,3276;3276,3276,3276;3276,3276;3276;26000;25999;25998</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="259" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2025-04-29 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276</Jackpots>
+      <DisplayedItems>3276</DisplayedItems>
+      <EndTime/>
+      <Rolls>1</Rolls>
+      <Category>Food</Category>
+      <Platform>0</Platform>
+      <Background>3</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="7793" title="Scientific Summoner ST" weight="6600">
+      <Description/>
+      <Contents>14226,14227,14228,14229,30700,8866,8866,8866;14226,14227,14228,14229,8866,8866;14226,14227,14228,14229,30700;8866,8866;30700;8866;14226;14227;14228;14229;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>14226,14227,14228,14229,30700,8866,8866,8866|14226,14227,14228,14229,8866,8866|14226,14227,14228,14229,30700</Jackpots>
+      <DisplayedItems>14226,14227,14228,14229,30700</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7770" title="Spectral Penitentiary Keys" weight="3400">
+      <Description/>
+      <Contents>23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690;23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690;23690,23690,23690,23690,23690,23690,23690,23690,23690,23690;23690,23690,23690,23690,23690;23690,23690,23690,23690;23690,23690,23690;23690,23690;23690|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="299" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 09:30:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690|23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690,23690|3266,31883,813,3177,3176,3180</Jackpots>
+      <DisplayedItems>23690</DisplayedItems>
+      <EndTime>2026-01-20 10:00:00</EndTime>
+      <Rolls>2</Rolls>
+      <Category>Keys</Category>
+      <Platform>0</Platform>
+      <Background>9</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="4246" title="QoL Box" weight="200">
+      <Description/>
+      <Contents>3180,3266,3176,3177,316,316,5072,5072,18522,18516;3266,3176,3177,3180;18522;18516;3180;3177;3266;3176</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="69" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2023-06-01 08:00:01</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>3180,3266,3176,3177,316,316,5072,5072,18522,18516|3266,3176,3177,3180</Jackpots>
+      <DisplayedItems>3180,3266,3176,3177,316</DisplayedItems>
+      <EndTime/>
+      <Rolls>1</Rolls>
+      <Category>Utility</Category>
+      <Platform>0</Platform>
+      <Background>8</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="7788" title="Lost Golem Trickster ST" weight="6600">
+      <Description/>
+      <Contents>600,601,602,603,19530,8866,8866,8866;600,601,602,603,8866,8866;600,601,602,603,19530;8866,8866;19530;8866;600;601;602;603;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>600,601,602,603,19530,8866,8866,8866|600,601,602,603,8866,8866|600,601,602,603,19530</Jackpots>
+      <DisplayedItems>600,601,602,603,19530</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7782" title="Battle Attire Knight ST" weight="6600">
+      <Description/>
+      <Contents>23521,23520,23518,23519,9603,8866,8866,8866;23521,23520,23518,23519,8866,8866;23521,23520,23518,23519,9603;8866,8866;9603;8866;23521;23520;23518;23519;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>23521,23520,23518,23519,9603,8866,8866,8866|23521,23520,23518,23519,8866,8866|23521,23520,23518,23519,9603</Jackpots>
+      <DisplayedItems>23521,23520,23518,23519,9603</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7794" title="Tidal Wave Kensei ST" weight="6600">
+      <Description/>
+      <Contents>14866,14867,14868,14869,31285,8866,8866,8866;14866,14867,14868,14869,8866,8866;14866,14867,14868,14869,31285;8866,8866;31285;8866;14866;14867;14868;14869;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>14866,14867,14868,14869,31285,8866,8866,8866|14866,14867,14868,14869,8866,8866|14866,14867,14868,14869,31285</Jackpots>
+      <DisplayedItems>14866,14867,14868,14869,31285</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7787" title="Phylactery Mystic ST" weight="6600">
+      <Description/>
+      <Contents>9056,9057,9058,9059,9606,8866,8866,8866;9056,9057,9058,9059,8866,8866;9056,9057,9058,9059,9606;8866,8866;9606;8866;9056;9057;9058;9059;8646;8645;8644;8643</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>9056,9057,9058,9059,9606,8866,8866,8866|9056,9057,9058,9059,8866,8866|9056,9057,9058,9059,9606</Jackpots>
+      <DisplayedItems>9056,9057,9058,9059,9606</DisplayedItems>
+      <EndTime>2026-01-18 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Equipment</Category>
+      <Platform>0</Platform>
+      <Background>7</Background>
+      <Sale price="-1" currency="0"/>
+      <Carousel id="203"/>
+    </MysteryBox>
+    <MysteryBox id="7775" title="Unlock The Char Box" weight="9000">
+      <Description/>
+      <Contents>810,810,810,810,810,810,810,810,810,810;810,810,810,810,810,810,810,810;810,810,810,810,810,810;810,810,810,810,810;810,810,810,810;810,810,810;810,810;810</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="899" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2026-01-13 09:30:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>810,810,810,810,810,810,810,810,810,810|810,810,810,810,810,810,810,810|810,810,810,810,810,810</Jackpots>
+      <DisplayedItems>810,810,810,810,810</DisplayedItems>
+      <EndTime>2026-01-19 10:00:00</EndTime>
+      <Rolls>1</Rolls>
+      <Category>Deals,Utility</Category>
+      <Platform>0</Platform>
+      <Background>8</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="6501" title="Celestial Stones Box" weight="8700">
+      <Description/>
+      <Contents>24772,24772,24772,24772,24772;24762,24762,24762,24762,24762;24757,24757,24757,24757,24757;24767;24762;24760;24757;24756;24755</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="429" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2025-04-29 09:10:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>24772,24772,24772,24772,24772|24762,24762,24762,24762,24762|24757,24757,24757,24757,24757</Jackpots>
+      <DisplayedItems>24772</DisplayedItems>
+      <EndTime/>
+      <Rolls>1</Rolls>
+      <Category>Skins</Category>
+      <Platform>0</Platform>
+      <Background>2</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+    <MysteryBox id="6504" title="Super Ambrosia Box II" weight="5110">
+      <Description/>
+      <Contents>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276;3276,3276,3276,3276,3276;3276,3276,3276,3276;3276,3276,3276;3276,3276;3276;3271;3272;3274</Contents>
+      <BonusPoints>-1</BonusPoints>
+      <Price amount="199" currency="0"/>
+      <Image/>
+      <Icon/>
+      <StartTime>2025-04-29 10:00:00</StartTime>
+      <Left>-1</Left>
+      <Total>-1</Total>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Tags/>
+      <Slot>0</Slot>
+      <Jackpots>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276</Jackpots>
+      <DisplayedItems>3276</DisplayedItems>
+      <EndTime/>
+      <Rolls>1</Rolls>
+      <Category>Food</Category>
+      <Platform>0</Platform>
+      <Background>3</Background>
+      <Sale price="-1" currency="0"/>
+    </MysteryBox>
+  </MiniGames>
+  <Packages version="1768716148.192202">
+    <Package id="24526" title="Vault Bundle Pack" weight="5400">
+      <Description/>
+      <Contents>811,811,811,811,811,811</Contents>
+      <Price amount="3000" currency="0"/>
+      <StartTime>2025-04-29 10:00:00</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime/>
+      <Image>https://storage.googleapis.com/rotmg_images_public/Packages/vault_bundle_pack_general.png</Image>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/vault_bundle_packx6_popup.png</PopupImage>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Utility</Category>
+      <Background>0</Background>
+      <Platform>0</Platform>
+      <DisplayedItems/>
+      <Sale price="2599" currency="0"/>
+    </Package>
+    <Package id="24855" title="Adventurer&#x2019;s Utility Pack" weight="8800">
+      <Description/>
+      <Contents>3180,3180,3180,65280,65280,65280,31883,31883,31883</Contents>
+      <Price amount="1650" currency="0"/>
+      <StartTime>2026-01-16 09:30:00</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime>2026-01-22 10:00:00</EndTime>
+      <Image/>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage/>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Deals,Utility</Category>
+      <Background>4</Background>
+      <Platform>0</Platform>
+      <DisplayedItems>3180,65280,31883</DisplayedItems>
+      <Sale price="990" currency="0"/>
+    </Package>
+    <Package id="23217" title="Character Slot" weight="20000">
+      <Description>Can only be purchased once per account!</Description>
+      <Contents>810</Contents>
+      <Price amount="12000" currency="1"/>
+      <StartTime>2020-08-19 00:00:00</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>1</MaxPurchase>
+      <PurchaseLeft>1</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime/>
+      <Image/>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage/>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Deals,Utility</Category>
+      <Background>4</Background>
+      <Platform>0</Platform>
+      <DisplayedItems>810</DisplayedItems>
+      <Sale price="-1" currency="0"/>
+    </Package>
+    <Package id="24853" title="Weekly Key Pack I" weight="9250">
+      <Description/>
+      <Contents>25497,25497,25497,25497,23690,23690,3266,3180</Contents>
+      <Price amount="1000" currency="0"/>
+      <StartTime>2026-01-13 09:30:00</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>2</MaxPurchase>
+      <PurchaseLeft>2</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime>2026-01-20 10:00:00</EndTime>
+      <Image/>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage/>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Deals,Keys</Category>
+      <Background>9</Background>
+      <Platform>0</Platform>
+      <DisplayedItems>25497,23690,3266,3180</DisplayedItems>
+      <Sale price="399" currency="0"/>
+    </Package>
+    <Package id="24857" title="Seasonal Pack" weight="10000">
+      <Description/>
+      <Contents>24767,26783,26783,6731,65317,65318,65319,65316,29652,29652,29652</Contents>
+      <Price amount="4780" currency="0"/>
+      <StartTime>2026-01-13 10:00:00</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>2</MaxPurchase>
+      <PurchaseLeft>2</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime>2026-01-27 10:00:00</EndTime>
+      <Image/>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/Seasonal-Pack-popup.png</PopupImage>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Deals,Equipment</Category>
+      <Background>4</Background>
+      <Platform>0</Platform>
+      <DisplayedItems>24767,26783,6731,65317,29652</DisplayedItems>
+      <Sale price="2199" currency="0"/>
+    </Package>
+    <Package id="24525" title="Char Slots Pack" weight="5300">
+      <Description/>
+      <Contents>810,810,810</Contents>
+      <Price amount="3000" currency="0"/>
+      <StartTime>2025-04-29 10:00:00</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime/>
+      <Image>https://storage.googleapis.com/rotmg_images_public/Packages/char_slot_pack2_general.png</Image>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/char_slot_pack2_popup.png</PopupImage>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Utility</Category>
+      <Background>0</Background>
+      <Platform>0</Platform>
+      <DisplayedItems/>
+      <Sale price="2599" currency="0"/>
+    </Package>
+    <Package id="24843" title="January Monthly Pack" weight="9500">
+      <Description/>
+      <Contents>3180,6731,8866,25497,25497,23690,1932,1932,3293,3290,2991,3266,3266</Contents>
+      <Price amount="3400" currency="0"/>
+      <StartTime>2026-01-06 10:00:00</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>1</MaxPurchase>
+      <PurchaseLeft>1</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime>2026-01-31 10:00:00</EndTime>
+      <Image/>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage/>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Deals</Category>
+      <Background>4</Background>
+      <Platform>0</Platform>
+      <DisplayedItems>3180,6731,8866,23690,2991</DisplayedItems>
+      <Sale price="499" currency="0"/>
+    </Package>
+    <Package id="24523" title="Ambrosia Pentapack" weight="5120">
+      <Description/>
+      <Contents>3276,3276,3276,3276,3276</Contents>
+      <Price amount="5000" currency="0"/>
+      <StartTime>2025-04-29 10:00:01</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime/>
+      <Image>https://storage.googleapis.com/rotmg_images_public/Packages/ambrosia_pentapack_general.png</Image>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/ambrosia_pentapack_popup.png</PopupImage>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Food</Category>
+      <Background>0</Background>
+      <Platform>0</Platform>
+      <DisplayedItems/>
+      <Sale price="3749" currency="0"/>
+    </Package>
+    <Package id="23216" title="Vault Chest" weight="20000">
+      <Description>Can only be purchased once per account!</Description>
+      <Contents>811</Contents>
+      <Price amount="8000" currency="1"/>
+      <StartTime>2020-08-19 00:00:00</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>1</MaxPurchase>
+      <PurchaseLeft>1</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime/>
+      <Image/>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage/>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Deals,Utility</Category>
+      <Background>6</Background>
+      <Platform>0</Platform>
+      <DisplayedItems>811</DisplayedItems>
+      <Sale price="-1" currency="0"/>
+    </Package>
+    <Package id="24527" title="Seasonal Vault Bundle Pack" weight="4401">
+      <Description/>
+      <Contents>26782,26782,26782,26782,26782,26782</Contents>
+      <Price amount="3000" currency="0"/>
+      <StartTime>2025-04-29 10:00:01</StartTime>
+      <Left>-1</Left>
+      <MaxPurchase>-1</MaxPurchase>
+      <PurchaseLeft>-1</PurchaseLeft>
+      <Total>-1</Total>
+      <Tags/>
+      <Slot>0</Slot>
+      <EndTime/>
+      <Image>https://storage.googleapis.com/rotmg_images_public/Packages/vault_bundle_pack_general.jpg</Image>
+      <ShowOnLogin>0</ShowOnLogin>
+      <CharSlot>0</CharSlot>
+      <VaultSlot>0</VaultSlot>
+      <Gold>0</Gold>
+      <PopupImage/>
+      <BonusPoints>-1</BonusPoints>
+      <Category>Deals,Utility</Category>
+      <Background>0</Background>
+      <Platform>0</Platform>
+      <DisplayedItems/>
+      <Sale price="2599" currency="0"/>
+      <Seasonal/>
+    </Package>
+  </Packages>
+</Deals>
