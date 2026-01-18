@@ -1,0 +1,10 @@
+<!-- Always Responds with Success -->
+<Success/>
+
+OR
+
+<!-- If Security Questions are Unset -->
+<Error>SecurityQuestionsDialog.wrongAnswersAmount</Error>
+
+<!-- Encoded URL as Dog, Blue, Pizza -->
+<!-- &answers=ZG9n%7CYmx1ZQ%3D%3D%7CcGl6emE%3D -->
