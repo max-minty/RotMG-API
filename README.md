@@ -183,13 +183,13 @@ Please note that DECA can add or remove links at any time.
 * [`getConfig`](responses/accountLevelRewards/getConfig.json) => accessToken
 
 ``supportCampaign/``
- * ``claim`` => guid, password
- * ``unlock`` => guid, password
- * ``donate`` => guid, password, amount
- * ``status`` => guid, password
- * ``create``
- * ``getinfo``
- * ``getUnitySupporters`` => guid, password, page
+ * [`claim`](responses/supportCampaign/claim.xml) => accessToken
+ * [`donate`](responses/supportCampaign/donate.xml) => accessToken
+ * [`unlock`](responses/supportCampaign/unlock.xml) => accessToken
+ * [`status`](responses/supportCampaign/status.xml) => accessToken
+ * [`create`](responses/supportCampaign/create.xml) => (responds with <Error>Server error<Error/>)
+ * ``getinfo`` => (responds with nothing if no unity campaign active)
+ * [`getUnitySupporters`](responses/supportCampaign/getUnitySupporters.xml) => accessToken, page
  
 ``fame/``
  * ``list`` => timespan (week, month, all), &charId, &accountId
@@ -211,6 +211,7 @@ Please note that DECA can add or remove links at any time.
 * ``getSeasons`` => guid, password, gameClientVersion
 * [`battlePass/buyExaltedPass`](responses/season/battlePass/buyExaltedPass.json) => accessToken
 * [`bpInfo`](responses/season/bpInfo.json) => accessToken
+* [`seasonInfo`](responses/season/seasonInfo.json) => accessToken
 
 
 ``crucibles/``
@@ -299,7 +300,7 @@ Please note that DECA can add or remove links at any time.
  * ``purchaseOffer`` => steamid, data
  * ``register`` => newGUID, newPassword, entrytag (disabled)
  * ``link`` (disabled)
- * ``getoffers``
+* [`getoffers`](responses/steamworks/getoffers.xml)
 
 ``kongregate/``
  * ``getcredentials`` => userId, gameAuthToken
