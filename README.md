@@ -45,7 +45,7 @@ Please note that DECA can add or remove links at any time.
 | `languageType` | `en` | Language code (en, de, fr, etc.) |
 | `guid` | `player@example.com` | User email/username |
 | `password` | `password123` | User password (plaintext, sent over HTTPS) |
-| `accessToken` | `eyJhbGciOiJIUzI1...uQ==` | Generated on Login (Expires after 12h) |
+| `accessToken` | `eyJhbGciOiJIUzI1...uQ==` | Generated on Login (Expires after 24h) |
 | `clientToken` | `0` | |
 | `type` | `Unity` | Used in credits |
 | `version` | `1.0` | Required in XML Responses |
