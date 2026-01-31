@@ -196,10 +196,7 @@ Please note that DECA can add or remove links at any time.
  * [`getUnitySupporters`](responses/supportCampaign/getUnitySupporters.xml) => accessToken, page
  
 ``fame/``
- * ``list`` => timespan (week, month, all), &charId, &accountId
- * ``challengerSeasonList`` => guid, password
- * ``challengerLeaderboard`` => accountId, charId, timespan (same as fame/list)
- * ``challengerAccountLeaderboard`` => accountId, charId, timespan (same as fame/list)
+* [`list`](responses/fame/list.xml) => timespan (week, month, all), charId, accountId, accessToken
 
 ``calendar/``
 * [`getForClient`](responses/calendar/getForClient.json) => guid, accessToken
@@ -245,8 +242,8 @@ Please note that DECA can add or remove links at any time.
  * ``delete`` => guid, password, charId, reason (seems to be always 1)
 
 ``inGameNews/``
- * ``getNews``
- 
+ * [`getNews`](responses/inGameNews/getNews.txt)
+
  ``unityNews/``
  * [`getNews`](responses/unityNews/getNews.html)
 
@@ -362,6 +359,11 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
 ``events/``
 
 ``exalt/``
+
+``fame/``
+ * ``challengerSeasonList`` => guid, password
+ * ``challengerLeaderboard`` => accountId, charId, timespan (same as fame/list)
+ * ``challengerAccountLeaderboard`` => accountId, charId, timespan (same as fame/list)
 
 ``kabam/``
  * ``getcredentials`` => userId, signedRequest, entrytag
