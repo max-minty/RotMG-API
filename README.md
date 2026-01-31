@@ -61,24 +61,14 @@ Please note that DECA can add or remove links at any time.
 | `version` | `1.0` |  |
 
 ``/``
- * ``logowtext.png``
- * ``realmlogo.png``
- * ``version.txt`` => time (unix time)
- * ``servers.txt``
- * ``crossdomain.xml``
- * ``draw.html``
- * ``draw/html``
+ * [`version.txt`](responses/version.txt) => time (unix time)
+ * [`crossdomain.xml`](responses/crossdomain.xml)
  * ``TMLoader{version}.swf``
  * ``TextureMaker{version}.swf``
  * ``AGCloader{version}.swf``
- * ``client``
+ * ``client`` => redirects to *`/AssembleeGameClient1769504128.swf`*
  * ``AssembleeGameClient{version}.swf``
  * ``playerProductInstall.swf``
- * ``UGDTermsofUse.html``
- * ``kongregate.html``
- * ``xd.html``
- * ``PrivacyPolicy.html``
- * ``kabam.html``
  * ``app.yaml``
  * ``index.yaml``
  * ``dispatch.yaml``
@@ -344,6 +334,18 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
 
 
 ## Deprecated OR Replaced
+``/``
+ * ``logowtext.png``
+ * ``realmlogo.png``
+ * ``draw.html``
+ * ``draw/html``
+ * ``servers.txt``
+ * ``UGDTermsofUse.html``
+ * ``kongregate.html``
+ * ``xd.html``
+ * ``PrivacyPolicy.html``
+ * ``kabam.html``
+
 ``account/``
  * ``login``
  * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
