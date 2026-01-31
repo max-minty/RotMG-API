@@ -124,7 +124,7 @@ Please note that DECA can add or remove links at any time.
 
 ``admin/`` => Takes you to google sign in
 
-* [`data`](responses/data.html) => prints a message saying invalid login, previously was "you are forbidden to access this page"
+[``data/``](responses/data.html) => prints a message saying invalid login, previously was "you are forbidden to access this page"
 
 ``log/``
 * [`logout`](responses/log/logout.xml) => accessToken
