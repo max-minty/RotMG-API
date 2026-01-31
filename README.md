@@ -322,36 +322,36 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
  * ``/resetemote`` => clears all assigned emotes in emote wheel slot
  * ``/setemote <slot 1-8> <emoteID>`` => sets the emote to an emote wheel slot
  * ``/setvictory <emoteID>`` => sets the victory emote. must have the emote unlocked or will respond with unrecognized command
- * ``/tell <player name> <text>``, ``/t `` => sends a private message to a player
+ * [`/tell <player name> <text>`](controllers/commands/tell.as), [`/t `](controllers/commands/tell.as) => sends a private message to a player
  * ``/teleport <player name>``, ``/tp `` => teleports you to a player
- * ``/trade <player name>`` => opens a trade request with a player. Will not work if the player is not nearby
+ * [`/trade <player name>`](controllers/commands/trade.as) => opens a trade request with a player. Will not work if the player is not nearby
  * ``/tutorial`` => enters the tutorial
  * ``/unignore <player name>`` => removes the player accountID from your ignore list (ref. account/list)
  * ``/yell <text>`` => broadcasts your message throughout the entire Nexus (instead of within 15 tiles)
  * ``/resetCalendar``
- * ``/resetDailyQuests``
  * ``/resetPackagePopup``
  * ``/resetBPStartPopup``
  * ``/resetBPReminderPopup``
  * ``/resetBPEndPopup``
 
 ## In-game Admin Commands
- * ``/create <?>`` *`Missing Parameters`* (You are not an admin)
- * ``/createn <?>`` *`Missing Parameters`* (You are not an admin)
- * ``/enter <?>`` *`Missing Parameters`* (You are not an admin)
- * ``/cond <?> <effectID>`` => *`Missing Parameters`* (You are not an admin)
- * ``/gift <?>`` *`Missing Parameters`* (You are not an admin)
+ * [`/akick <player name> <reason>`](controllers/commands/akick.as) => reason:(Multiboxing, RWT, Cheating)
+ * ``/create <?>`` *`Missing Arg`* (You are not an admin)
+ * ``/createn <?>`` *`Missing Arg`* (You are not an admin)
+ * ``/enter <?>`` *`Missing Arg`* (You are not an admin)
+ * ``/cond <?> <effectID>`` => *`Missing Arg`* (You are not an admin)
+ * ``/gift <?>`` *`Missing Arg`* (You are not an admin)
  * ``/kill <player name>`` (You are not an admin)
  * ``/genocide`` (You are not an admin)
- * ``/map <?>`` *`Missing Parameters`* (You are not an admin)
- * ``/move <?>`` *`Missing Parameters`* (You are not an admin)
- * ``/setpiece <?>`` *`Missing Parameters`* (You are not an admin)
+ * ``/map <?>`` *`Missing Arg`* (You are not an admin)
+ * ``/move <?>`` *`Missing Arg`* (You are not an admin)
+ * ``/setpiece <?>`` *`Missing Arg`* (You are not an admin)
  * ``/spawn <objectID/objectType/displayName>`` (You are not an admin)
  * ``/unadmin <player name>`` (You are not an admin)
  * ``/vanish`` (You are not an admin)
- * ``/mute <player name> <?> <?>`` => *`Missing Parameters`* (You are not an admin)
- * ``/unmute <player name> <?> <?>`` => *`Missing Parameters`* (You are not an admin)
-
+ * [`/mute <player name>`](controllers/commands/mute.as) => mutes the player permanently, (your msg will apear in game for you, but no one can see it)
+ * [`/unmute <player name>`](controllers/commands/unmute.as) => unmutes the player
+ * [`/resetDailyQuests`](controllers/commands/resetDailyQuest.as) => responses with nothing, but requires admin. sends /dailyquest/resetDailyQuestsAdmin endpoint
 
 ## Deprecated OR Replaced
 ``/``
