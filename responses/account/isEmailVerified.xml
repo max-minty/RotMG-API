@@ -3,3 +3,11 @@
 OR
 
 <VerifiedEmail>False</VerifiedEmail>
+
+OR
+
+<Error>Error.invalidEmail</Error>
+
+OR
+
+<Error>Invalid account</Error>
