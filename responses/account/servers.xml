@@ -1,5 +1,17 @@
 <!-- In-game Server Information (DNS, Location) -->
 <Servers>
+  
+  <!-- EXAMPLE of a server set as Admins Only -->
+  <Server>
+    <Name>USWest2</Name>
+    <DNS>18.184.218.174</DNS>
+    <Lat>54.69</Lat>
+    <Long>25.28</Long>
+    <Usage>0.00</Usage>
+    <isAdminOnly>1</isAdminOnly>
+  </Server>
+  
+  <!-- Normal -->
   <Server>
     <Name>EUEast</Name>
     <DNS>18.184.218.174</DNS>
