@@ -1,0 +1,263 @@
+<!-- Legends Leaderboard. Extra Comments Below (Scroll Down) -->
+<!-- accountId and charId is not required, but is to fetch a dead character's leaderboard position -->
+<!-- NOTE: every death is added to Legends Leaderboards, but Legends only show 20 entries per category. -->
+<!-- Scroll Down for example accountId and charId -->
+
+<FameList timespan="all">
+<FameListElem accountId="6754078112677888" charId="15">
+  <Name>Donphan</Name>
+  <ObjectType>796</ObjectType>
+  <Tex1>4103</Tex1>
+  <Tex2>4362</Tex2>
+  <Shader>12585</Shader>
+  <Texture>9527</Texture>
+  <Equipment>32437,5278,17846,14214,37521,20605,3266,3266,3926,3913,3266,3266,7200,9727,3266,3177,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>11257092</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6702162323111936" charId="2">
+  <Name>PopeLeoXiV</Name>
+  <ObjectType>784</ObjectType>
+  <Tex1>4106</Tex1>
+  <Tex2>4390</Tex2>
+  <Shader>0</Shader>
+  <Texture>9503</Texture>
+  <Equipment>65505,38298,17929,5147,20900,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,38551,65518,65517,14910,14218,-1,-1,65512</Equipment>
+  <TotalFame>11112531</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6126228945502208" charId="970">
+  <Name>XXRaGeXx</Name>
+  <ObjectType>782</ObjectType>
+  <Tex1>4103</Tex1>
+  <Tex2>5048</Tex2>
+  <Shader>13005</Shader>
+  <Texture>9501</Texture>
+  <Equipment>2320,20303,17928,14895,2038,9066,9068,9066,9071,5164,46072,9068,9071,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>10109727</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6303248576151552" charId="185">
+  <Name>Xebec</Name>
+  <ObjectType>806</ObjectType>
+  <Tex1>41879</Tex1>
+  <Tex2>5000</Tex2>
+  <Shader>12501</Shader>
+  <Texture>9523</Texture>
+  <Equipment>14464,8290,28848,14895,20882,38501,28832,1276,28846,19291,1421,19265,587,9724,9727,9729,9730,7200,9726,9725,9731,20901,3087,20901,9726,9725,9729,34670</Equipment>
+  <TotalFame>7815837</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="5933443624992768" charId="601">
+  <Name>dev</Name>
+  <ObjectType>803</ObjectType>
+  <Tex1>4103</Tex1>
+  <Tex2>4359</Tex2>
+  <Shader>0</Shader>
+  <Texture>8968</Texture>
+  <Equipment>2320,2041,28837,23624,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>7617156</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6296660044808192" charId="292">
+  <Name>Knife</Name>
+  <ObjectType>768</ObjectType>
+  <Tex1>0</Tex1>
+  <Tex2>0</Tex2>
+  <Shader>13041</Shader>
+  <Texture>9497</Texture>
+  <Equipment>3082,38525,1527,5313,65515,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>7483148</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6297427090472960" charId="43">
+  <Name>Osaka</Name>
+  <ObjectType>805</ObjectType>
+  <Tex1>4853</Tex1>
+  <Tex2>5109</Tex2>
+  <Shader>0</Shader>
+  <Texture>9521</Texture>
+  <Equipment>2496,1977,28837,65512,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,3210</Equipment>
+  <TotalFame>7329236</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="5657762958344192" charId="38">
+  <Name>sienna</Name>
+  <ObjectType>817</ObjectType>
+  <Tex1>4205</Tex1>
+  <Tex2>4461</Tex2>
+  <Shader>13035</Shader>
+  <Texture>30727</Texture>
+  <Equipment>-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,34662</Equipment>
+  <TotalFame>7304136</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="5859328479133696" charId="17">
+  <Name>StateMachine</Name>
+  <ObjectType>782</ObjectType>
+  <Tex1>0</Tex1>
+  <Tex2>0</Tex2>
+  <Shader>0</Shader>
+  <Texture>9501</Texture>
+  <Equipment>580,17720,28837,5326,2991,2991,2991,23334,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,2991,2991,2991,2991,2991,2991,2991,-1</Equipment>
+  <TotalFame>7262866</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6540974357544960" charId="103">
+  <Name>Epistemology</Name>
+  <ObjectType>798</ObjectType>
+  <Tex1>0</Tex1>
+  <Tex2>0</Tex2>
+  <Shader>0</Shader>
+  <Texture>9487</Texture>
+  <Equipment>-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>6666666</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6078365954998272" charId="2726">
+  <Name>ImBullet</Name>
+  <ObjectType>802</ObjectType>
+  <Tex1>16777216</Tex1>
+  <Tex2>25886720</Tex2>
+  <Shader>0</Shader>
+  <Texture>8977</Texture>
+  <Equipment>2509,2880,28848,14214,5439,1226,2988,1157,20604,28832,20480,1212,49468,53822,2981,3167,3074,3096,4310,3088,2574,34635,17563,-1,-1,17563,594,592</Equipment>
+  <TotalFame>6529658</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="4892436990787584" charId="1417">
+  <Name>Guava</Name>
+  <ObjectType>805</ObjectType>
+  <Tex1>4747</Tex1>
+  <Tex2>4920</Tex2>
+  <Shader>12431</Shader>
+  <Texture>31340</Texture>
+  <Equipment>2496,8289,28837,2625,2988,14265,1156,2990,49693,23354,17719,594,49696,26096,20745,14218,8844,37466,8997,14427,46449,3266,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>5716315</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="4634963576553472" charId="30">
+  <Name>Sovereign</Name>
+  <ObjectType>799</ObjectType>
+  <Tex1>4208</Tex1>
+  <Tex2>4464</Tex2>
+  <Shader>0</Shader>
+  <Texture>19553</Texture>
+  <Equipment>65504,2854,3928,598,3073,19973,38294,23518,2026,1389,1412,32024,40727,40727,40727,1211,40727,40727,40727,40727,40727,40727,40727,40727,40727,40727,40727,40727</Equipment>
+  <TotalFame>5690056</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6408678801145856" charId="92">
+  <Name>KA</Name>
+  <ObjectType>805</ObjectType>
+  <Tex1>4103</Tex1>
+  <Tex2>4359</Tex2>
+  <Shader>0</Shader>
+  <Texture>19548</Texture>
+  <Equipment>14218,8289,28837,2988,24834,1977,-1,14465,5579,49693,-1,40613,-1,-1,-1,-1,-1,21103,40628,40628,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>5664945</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="5777760655638528" charId="428">
+  <Name>eli</Name>
+  <ObjectType>801</ObjectType>
+  <Tex1>4103</Tex1>
+  <Tex2>4399</Tex2>
+  <Shader>12987</Shader>
+  <Texture>9513</Texture>
+  <Equipment>580,8285,17929,14895,2320,17499,32485,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>5400553</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="4690748780052480" charId="940">
+  <Name>viola</Name>
+  <ObjectType>801</ObjectType>
+  <Tex1>4232</Tex1>
+  <Tex2>4486</Tex2>
+  <Shader>13041</Shader>
+  <Texture>9513</Texture>
+  <Equipment>580,1211,20706,2988,3075,32485,2040,20883,21103,20883,20883,20883,20883,20883,20883,20883,20883,20883,20883,20883,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>5189292</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="5802377172942848" charId="2">
+  <Name>Lathander</Name>
+  <ObjectType>784</ObjectType>
+  <Tex1>4136</Tex1>
+  <Tex2>4392</Tex2>
+  <Shader>0</Shader>
+  <Texture>41907</Texture>
+  <Equipment>41818,41831,1772,593,65511,608,21227,14895,26096,14465,2040,5147,28834,32026,49535,-1,-1,-1,-1,-1,1412,-1,49535,49535,-1,-1,-1,-1</Equipment>
+  <TotalFame>5056038</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6198997187428352" charId="368">
+  <Name>Uberer</Name>
+  <ObjectType>805</ObjectType>
+  <Tex1>4211</Tex1>
+  <Tex2>4393</Tex2>
+  <Shader>12299</Shader>
+  <Texture>30749</Texture>
+  <Equipment>2496,20466,1156,20795,6203,49693,14214,17691,8289,14265,65512,2496,2594,-1,3815,2985,2594,3810,1977,-1</Equipment>
+  <TotalFame>4831602</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="6303248576151552" charId="176">
+  <Name>Xebec</Name>
+  <ObjectType>782</ObjectType>
+  <Tex1>4120</Tex1>
+  <Tex2>4467</Tex2>
+  <Shader>0</Shader>
+  <Texture>19560</Texture>
+  <Equipment>580,20303,28837,2625,13988,19254,29836,29836,32030,-1,-1,-1,41652,3293,3293,3293,3293,3293,3293,3293,2991,2991,2991,2991,2991,2991,2991,2991</Equipment>
+  <TotalFame>4595812</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+<FameListElem accountId="5698571325145088" charId="1830">
+  <Name>Lucian</Name>
+  <ObjectType>801</ObjectType>
+  <Tex1>4103</Tex1>
+  <Tex2>4488</Tex2>
+  <Shader>0</Shader>
+  <Texture>10185</Texture>
+  <Equipment>580,1211,2040,65512,1412,1895,3293,32021,49535,1412,2991,1412,49535,3293,4252,1412,4252,4252,3293,4252,5270,2991,2991,4252,49535,49535,5270,5270</Equipment>
+  <TotalFame>4149899</TotalFame>
+  <Version>1</Version>
+</FameListElem>
+
+
+
+<!-- This is a player who recently died but is not on top Legends leaderboards in-game -->
+<!-- accountID - 63882423123272, charId - 1 (their first character) -->
+<!-- (Not a real AccountID or Name) -->
+<MyFameListElem accountId="63882423123272" charId="1">
+  <Name>JaneDoe</Name>
+  <ObjectType>782</ObjectType>
+  <Tex1>0</Tex1>
+  <Tex2>0</Tex2>
+  <Shader>0</Shader>
+  <Texture>0</Texture>
+  <Equipment>2711,2606,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+  <TotalFame>22</TotalFame>
+  <Version>0</Version>
+</MyFameListElem>
+</FameList>
