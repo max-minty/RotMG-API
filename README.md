@@ -129,7 +129,7 @@ Please note that DECA can add or remove links at any time.
 ``log/``
 * [`logout`](responses/log/logout.xml) => accessToken
  * ``logFteStep`` => game_net_user_id, game_net, play_platform, guid, password, fteStepCompleted (used for tracking tutorial progress, removed)
- * ``logGameModePlayed`` => seasonID, gameMode (Legacy or Challenger), guid, password
+ * [`logGameModePlayed`](responses/log/logGameModePlayed.xml) => seasonID, gameMode (Legacy or Challenger), accessToken
 
 ``server/`` => all of these urls are internal
  * ``list``
@@ -144,12 +144,11 @@ Please note that DECA can add or remove links at any time.
  * [`register`](responses/account/register.xml) => newPassword, entrytag, newGUID, name(not needed), isAgeVerified, guid, signedUpKabamEmail (0 or 1)
  * [`verify`](responses/account/verify.xml) => guid, password, clientToken (0) (used by Muledump)
  * [`verifyAccessTokenClient`](responses/account/verifyAccessTokenClient.xml) => accessToken
- * ``verifyage`` => guid, password, ignore, isAgeVerified, gameClientVersion
+ * [`verifyage`](responses/account/verifyage.xml) => guid, accessToken
  * [`acceptTOS`](responses/account/acceptTOS.xml) => accessToken
  * [`changeEmail`](responses/account/changeEmail.xml) => guid, password, newGuid (always returns emailAlreadyVerified)
  * ``playFortuneGame`` => choice, status, currency (2 for fortune tokens or 0 for gold)
  * ``rp`` => a, b
- * ``login``
  * [`setName`](responses/account/setName.xml) => accessToken, name
  * ``setName`` => guid, password, name
  * ``validateEmail`` (removed, changed to isEmailVerified)
@@ -159,7 +158,7 @@ Please note that DECA can add or remove links at any time.
  * [`getDustCost`](responses/account/getDustCost.txt)
  * [`purchaseCharSlot`](responses/account/purchaseCharSlot.xml) => accessToken
  * ``*purchaseVaultChest``
- * ``purchaseSkin`` => guid, password, skinType
+ * ``purchaseSkin`` => *`Missing Parameters`* accessToken, skinType, *`skinID*`*, *`currency*`*, *`quantity*`*
  * [`purchaseMysteryBox`](responses/account/purchaseMysteryBox.xml) => accessToken, boxId, quantity, price, currency
  * [`purchasePackage`](responses/account/purchasePackage.xml) => accessToken, boxId, quantity, price, currency
  * ``purchaseCustomization`` => *`Missing Parameters`*
@@ -174,12 +173,12 @@ Please note that DECA can add or remove links at any time.
  * [`listPowerUpStats`](responses/account/listPowerUpStats.xml) => accessToken
  * ``setNewsletterEmail`` => *`Missing Parameters`*
  * ``ban`` => Returns internal error
- * ``v`` => a, b(Getting the captcha); a, action, g-recaptcha-response(Submitting the captcha)
- * ``*claimLoginReward``
+ * [`v`](responses/account/v.html) => a, b(Getting the captcha); a, action, g-recaptcha-response(Submitting the captcha)
+ * ``*claimLoginReward`` => *`Missing Parameters`*
  * [`saveSecurityQuestions`](responses/account/saveSecurityQuestions.xml) => accessToken, answers (encoded in base64 and split by a pipe operator [|])
  * ``forgotpasswordPage`` => links to a page where you enter your email
- * ``isEmailVerified`` => guid, password
- * ``signupDecaEmail`` => notifyMe (1 or 0), guid, password, email
+ * [`isEmailVerified`](responses/account/isEmailVerified.xml) => guid, accessToken
+ * [`signupDecaEmail`](responses/account/signupDecaEmail.xml) => notifyMe (1 or 0), guid, password, email
  * ``spammer`` => Returns internal error
  * [`servers`](responses/account/servers.xml) => accessToken
  * [`list`](responses/account/list.xml) => accessToken, type(1:ignored or 0:locked)
@@ -268,12 +267,6 @@ Please note that DECA can add or remove links at any time.
  * ``*createPet``
  * ``*yardupgrade``
 
-``news/`` => Takes you to google sign in
-
-``arena/``
- * ``getRecords`` => type (weekly, personal, alltime), guid, password
- * ``getPersonalBest`` => guid, password
-
 ``guild/``
  * ``*changeRank``
  * ``*removeMember``
@@ -283,16 +276,6 @@ Please note that DECA can add or remove links at any time.
  * [`listMembers`](responses/guild/listMembers.xml) => accessToken
  * ``*purchase``
 
-``kabam/``
- * ``getcredentials`` => userId, signedRequest, entrytag
- * ``link`` => kabamemail, kabampassword, email, password
- * ``verify`` => kabamemail, kabampassword
-
-``migrate/``
- * ``doMigration`` => guid, password
- * ``progress`` => guid
- * ``userAccountReset`` => guid, password (returns Failure, testing environment only)
-
 ``steamworks/``
  * ``finalizePurchase`` => appid, orderid, authorized (1 or 0)
  * ``getcredentials`` => userId
@@ -301,44 +284,16 @@ Please note that DECA can add or remove links at any time.
  * ``link`` (disabled)
 * [`getoffers`](responses/steamworks/getoffers.xml)
 
-``kongregate/``
- * ``getcredentials`` => userId, gameAuthToken
- * ``register`` => userId, username, gameAuthToken, newGUID, newPassword, entrytag
- * ``link`` (disabled)
- * ``internalRegister`` => userId, username, gameAuthToken, guid
- * ``getoffers``
- * ``callback`` 
- * May be related: https://docs.kongregate.com/docs/server-side-http#section-callback-format
-
-``clientError/``
- * ``add`` => text, guid
-
 ``ugc/`` (User Generated Content)
  * ``save`` => guid, password, name, description, width, height, mapjm, tags, totalObjects, totalTiles, thumbnail, overwrite (on or off) (seems to always return <Error>Invalid permissions</Error>)
  * ``*get``
-
-``sfx/``
- * => too many mp3 files to list (you can find these in pserver sources)
- * See: https://realmofthemadgod.fandom.com/wiki/Sounds
- 
-``music/``
- * ``sorc.mp3`` => main theme for RotMG
  
 ``build/``
- * ``toolsVersion`` =>  page responds with "Page not found", but directory exists. probably deprecated. 
+ * ``toolsVersion`` =>  page responds with "Page not found", but directory exists. client directs to it. 
 
 ``survey/``
  * ``add`` => Returns 500 error
  * ``*delete``
-
-``events/``
-
-``exalt/``
-
-``platforms/``
- * ``kabam`` => Error 405. Method GET not allowed.
-
-``cronJob/`` => Takes you to google sign in
 
 ``eventlog/`` => Access is forbidden
 
@@ -380,10 +335,59 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
  * ``/resetBPReminderPopup``
  * ``/resetBPEndPopup``
 
-## Deprecated / Replaced
+
+## Deprecated OR Replaced
+``account/``
+ * ``login``
+ * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
+
+``arena/``
+ * ``getRecords`` => type (weekly, personal, alltime), guid, password
+ * ``getPersonalBest`` => guid, password
+
 ``mysterybox/``
  * ``getBoxes`` => guid, password, version (seems to accept any float like 1.0)
+
 ``credits/``
  * ``getoffers`` => guid, password
  * ``pwpurchase`` => iframeUrl (json with these params: token, production)
  * ``kabamadd`` => naid, signedRequest, createdat (removed)
+``news/`` => Takes you to google sign in
+
+``clientError/``
+ * ``add`` => text, guid
+
+``cronJob/`` => Takes you to google sign in
+
+``events/``
+
+``exalt/``
+
+``kabam/``
+ * ``getcredentials`` => userId, signedRequest, entrytag
+ * ``link`` => kabamemail, kabampassword, email, password
+ * ``verify`` => kabamemail, kabampassword
+
+``kongregate/``
+ * ``getcredentials`` => userId, gameAuthToken
+ * ``register`` => userId, username, gameAuthToken, newGUID, newPassword, entrytag
+ * ``link`` (disabled)
+ * ``internalRegister`` => userId, username, gameAuthToken, guid
+ * ``getoffers``
+ * ``callback`` 
+ * May be related: https://docs.kongregate.com/docs/server-side-http#section-callback-format
+
+``migrate/``
+ * ``doMigration`` => guid, password
+ * ``progress`` => guid
+ * ``userAccountReset`` => guid, password (returns Failure, testing environment only)
+
+``music/``
+ * ``sorc.mp3`` => main theme for RotMG
+
+``platforms/``
+ * ``kabam`` => Error 405. Method GET not allowed.
+
+``sfx/``
+ * => too many mp3 files to list (you can find these in pserver sources)
+ * See: https://realmofthemadgod.fandom.com/wiki/Sounds
