@@ -202,22 +202,12 @@ Please note that DECA can add or remove links at any time.
  * ``challengerLeaderboard`` => accountId, charId, timespan (same as fame/list)
  * ``challengerAccountLeaderboard`` => accountId, charId, timespan (same as fame/list)
 
-``dailyLogin/``
- * ``fetchCalendar`` => guid, password
-
 ``calendar/``
 * [`getForClient`](responses/calendar/getForClient.json) => guid, accessToken
 
 ``craigsgift/``
 * [`buy`](responses/craigsgift/buy.json) => *`Missing Parameters`*
 * [`info`](responses/craigsgift/info.json) => accessToken
-
-``season/``
-* ``getSeasons`` => guid, password, gameClientVersion
-* [`battlePass/buyExaltedPass`](responses/season/battlePass/buyExaltedPass.json) => accessToken
-* [`bpInfo`](responses/season/bpInfo.json) => accessToken
-* [`seasonInfo`](responses/season/seasonInfo.json) => accessToken
-
 
 ``crucibles/``
 * [`info`](responses/crucibles/info.xml) => (responds with Only server can request info)
@@ -238,6 +228,11 @@ Please note that DECA can add or remove links at any time.
 * [`getCompetitionScore`](responses/missions/getCompetitionScore.xml) => accessToken (responds with nothing if no Competition / Community Event active)
 * [`getPlayerMissions`](responses/missions/getPlayerMissions.xml) => accessToken
 
+``season/``
+* ``getSeasons`` => guid, password, gameClientVersion
+* [`battlePass/buyExaltedPass`](responses/season/battlePass/buyExaltedPass.json) => accessToken
+* [`bpInfo`](responses/season/bpInfo.json) => accessToken
+* [`seasonInfo`](responses/season/seasonInfo.json) => accessToken
 
 ``char/``
  * ``list`` => guid, password, [challenger (false/true)][muleDump (true/false)]
@@ -254,8 +249,7 @@ Please note that DECA can add or remove links at any time.
  * ``getNews``
  
  ``unityNews/``
-* ``getNews``
-
+ * [`getNews`](responses/unityNews/getNews.html)
 
 ``friends/``
  * [`requestFriend`](responses/friends/requestFriend.xml) => accessToken, targetName
@@ -331,6 +325,7 @@ Please note that DECA can add or remove links at any time.
  * ``sorc.mp3`` => main theme for RotMG
  
 ``build/``
+ * ``toolsVersion`` =>  page responds with "Page not found", but directory exists. probably deprecated. 
 
 ``survey/``
  * ``add`` => Returns 500 error
