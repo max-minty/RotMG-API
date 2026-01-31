@@ -306,31 +306,51 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
 
 
 ## In-game Commands
- * ``/class``, ``/c``, ``/classes``
- * ``/guild ``, ``/g `` => text (guild chat)
- * ``/help``, ``/h``
- * ``/ignore `` => username
- * ``/join `` => guild (accept guild invite)
- * ``/kick `` => username (dungeon owner that popped in bazaar)
- * ``/cond `` => username (You are not an admin)
- * ``/log``
- * ``/mute `` => username (You are not an admin)
- * ``/unmute `` => username (You are not an admin)
- * ``/party ``, ``/p `` => text (party chat)
- * ``/partyleave``, ``/pleave``
- * ``/pinvite `` => username
- * ``/tell ``, ``/t `` => text (private chat)
- * ``/teleport ``, ``/tp `` => username (teleport to player)
- * ``/trade `` => username (trade a player)
- * ``/resetemote`` => (clears the assigned emotes in slot)
- * ``/setemote`` => slot, emoteID (i.e `/setemote 1 49317` - White Bag Emote)
- * ``/setvictory`` => emoteID (i.e `/setvictory 49317` - White Bag Emote)
+ * ``/addfriend <player name>`` => sends a friend request to a player
+ * ``/class``, ``/c``, ``/classes`` => counts the players of each class present in the current map
+ * ``/event`` => displays the list of dungeon events that are currently active in the logs
+ * ``/guild <text>``, ``/g `` => sends a guild message
+ * ``/help``, ``/h`` => shows a partial list of commands in the chat window
+ * ``/ignore <player name>`` => adds the player accountID to your ignore list (ref. account/list)
+ * ``/join <guild name>`` => accepts the guild invitation
+ * ``/kick <player name>`` => kicks a player from the dungeon. must be dungeon owner and opened in a bazaar
+ * ``/lock <player name>`` => locks a player. player must be on the current map.
+ * ``/log`` => Opens the Log UI
+ * ``/party <text>``, ``/p <text>`` => sends a party message
+ * ``/partyleave``, ``/pleave`` => leaves the current party
+ * ``/pinvite <player name>`` => sends a party invite request to a player
+ * ``/resetemote`` => clears all assigned emotes in emote wheel slot
+ * ``/setemote <slot 1-8> <emoteID>`` => sets the emote to an emote wheel slot
+ * ``/setvictory <emoteID>`` => sets the victory emote. must have the emote unlocked or will respond with unrecognized command
+ * ``/tell <player name> <text>``, ``/t `` => sends a private message to a player
+ * ``/teleport <player name>``, ``/tp `` => teleports you to a player
+ * ``/trade <player name>`` => opens a trade request with a player. Will not work if the player is not nearby
+ * ``/tutorial`` => enters the tutorial
+ * ``/unignore <player name>`` => removes the player accountID from your ignore list (ref. account/list)
+ * ``/yell <text>`` => broadcasts your message throughout the entire Nexus (instead of within 15 tiles)
  * ``/resetCalendar``
  * ``/resetDailyQuests``
  * ``/resetPackagePopup``
  * ``/resetBPStartPopup``
  * ``/resetBPReminderPopup``
  * ``/resetBPEndPopup``
+
+## In-game Admin Commands
+ * ``/create <?>`` *`Missing Parameters`* (You are not an admin)
+ * ``/createn <?>`` *`Missing Parameters`* (You are not an admin)
+ * ``/enter <?>`` *`Missing Parameters`* (You are not an admin)
+ * ``/cond <?> <effectID>`` => *`Missing Parameters`* (You are not an admin)
+ * ``/gift <?>`` *`Missing Parameters`* (You are not an admin)
+ * ``/kill <player name>`` (You are not an admin)
+ * ``/genocide`` (You are not an admin)
+ * ``/map <?>`` *`Missing Parameters`* (You are not an admin)
+ * ``/move <?>`` *`Missing Parameters`* (You are not an admin)
+ * ``/setpiece <?>`` *`Missing Parameters`* (You are not an admin)
+ * ``/spawn <objectID/objectType/displayName>`` (You are not an admin)
+ * ``/unadmin <player name>`` (You are not an admin)
+ * ``/vanish`` (You are not an admin)
+ * ``/mute <player name> <?> <?>`` => *`Missing Parameters`* (You are not an admin)
+ * ``/unmute <player name> <?> <?>`` => *`Missing Parameters`* (You are not an admin)
 
 
 ## Deprecated OR Replaced
