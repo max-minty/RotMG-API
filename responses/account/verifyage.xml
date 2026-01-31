@@ -1,0 +1,9 @@
+<Success/>
+
+OR
+
+<Error>Error.accountNotFound</Error>
+
+OR
+
+<Error>Error.invalidEmail</Error>
