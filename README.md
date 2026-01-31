@@ -124,8 +124,7 @@ Please note that DECA can add or remove links at any time.
 
 ``admin/`` => Takes you to google sign in
 
-``data/``
- * => prints a message saying you are forbidden to access this page
+* [`data`](responses/data.html) => prints a message saying invalid login, previously was "you are forbidden to access this page"
 
 ``log/``
 * [`logout`](responses/log/logout.xml) => accessToken
@@ -136,6 +135,10 @@ Please note that DECA can add or remove links at any time.
  * ``list``
  * ``add``
  * ``remove``
+
+``serverStatus/`` => all of these urls are internal
+ * [`getServerStatus`](responses/serverStatus/getServerStatus.xml) => accessToken, game_net (Unity), play_platform (Unity), game_net_user_id
+
 
 ``account/``
  * [`register`](responses/account/register.xml) => newPassword, entrytag, newGUID, name(not needed), isAgeVerified, guid, signedUpKabamEmail (0 or 1)
