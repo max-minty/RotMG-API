@@ -1,0 +1,7 @@
+<!-- You don't actually need any parameters for this request but client adds it anyways -->
+<ServerStatus>
+	<Type>YELLOW</Type>
+	<Link></Link>
+	<Text>Scheduled Maintenance: Feb 3rd @ 11AM CST for our upcoming release.</Text>
+	<Date>1634033756</Date>
+</ServerStatus>
