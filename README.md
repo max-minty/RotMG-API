@@ -80,7 +80,7 @@ Please note that DECA can add or remove links at any time.
 ``app/``
  * ``globalNews``
  * ``getLanguageStrings`` => languageType (en)
- * [`init`](app/init.xml) => platform (standalonewindows64 or standalonewindows), key (seems to be hardcoded - 9KnJFxtTvLu2frXv for windows), game_net (Unity), play_platform (Unity), game_net_user_id
+ * [`init`](responses/app/init.xml) => platform (standalonewindows64 or standalonewindows), key (seems to be hardcoded - 9KnJFxtTvLu2frXv for windows), game_net (Unity), play_platform (Unity), game_net_user_id
  * ``publicStaticData`` => dataType (powerUpSettings)
 
 ``package/``
