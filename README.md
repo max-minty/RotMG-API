@@ -170,9 +170,6 @@ Please note that DECA can add or remove links at any time.
 ``accountLevelRewards/``
 * [`getConfig`](responses/accountLevelRewards/getConfig.json) => accessToken
 
-``fame/``
-* [`list`](responses/fame/list.xml) => timespan (week, month, all), charId, accountId, accessToken
-
 ``calendar/``
 * [`getForClient`](responses/calendar/getForClient.json) => guid, accessToken
 
@@ -211,6 +208,9 @@ Please note that DECA can add or remove links at any time.
 
 ``dungeonEvent/``
 * [`getClientEvents`](responses/dungeonEvent/getClientEvents.txt)
+
+``fame/``
+* [`list`](responses/fame/list.xml) => timespan (week, month, all), charId, accountId, accessToken
 
 ``friends/``
  * [`requestFriend`](responses/friends/requestFriend.xml) => accessToken, targetName
