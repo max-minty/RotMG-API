@@ -39,16 +39,26 @@ Please note that DECA can add or remove links at any time.
 ### Known URL Parameters (Sorted by key:value, or example value)
 | Parameter | Example Value | Description |
 |-----------|---------------|-------------|
-| `game_net` | `rotmg` | Game network identifier |
-| `gameClientVersion` | `X31.2.3` | Current game client version |
-| `game_net_user_id` | `_empty_` |  |
-| `languageType` | `en` | Language code (en, de, fr, etc.) |
-| `guid` | `player@example.com` | User email/username |
-| `password` | `password123` | User password (plaintext, sent over HTTPS) |
-| `accessToken` | `eyJhbGciOiJIUzI1...uQ==` | Generated on Login (Expires after 24h) |
+| `accessToken` | `eyJhbGciOiJIUzI1...uQ==` | Generated via account/verify (Expires after 24h) |
+| `charId` | `12` | Player Character ID (auto increments on new character) |
 | `clientToken` | `0` | |
-| `type` | `Unity` | Used in credits |
-| `version` | `1.0` | Required in XML Responses |
+| `email` | `player@example.com` | User email |
+| `gameClientVersion` | `X31.2.3` | Current game client version |
+| `game_net` | `rotmg` or `Unity` | Game network identifier |
+| `game_net_user_id` | `_empty_` |  |
+| `guid` | `player@example.com` | User email/username |
+| `key` | `9KnJFxtTvLu2frXv` | Used in app/init |
+| `languageType` | `en` | Language code (en, de, fr, etc.) |
+| `password` | `password123` | User password (plaintext, sent over HTTPS) |
+| `newGuid` | `player@example.com` | User email/username |
+| `play_platform` | `Unity` |  |
+| `platform` | `standalonewindows64` |  |
+| `quantity` | `1` |  |
+| `targetName` | `jacob` | User username |
+| `timespan` | `monthly` | For fame/list (in-game legends leaderboard) |
+| `type` | `Unity` or `1` |  |
+| `username` | `jacob` | User username |
+| `version` | `1.0` |  |
 
 ``/``
  * ``logowtext.png``
