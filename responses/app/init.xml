@@ -1,0 +1,118 @@
+<!-- You don't actually need any parameters for this endpoint, but client autofills it -->
+<!-- Must be sent as a POST request -->
+<AppSettings>
+	<UseExternalPayments>1</UseExternalPayments>
+	<MaxStackablePotions>6</MaxStackablePotions>
+	<PotionPurchaseCooldown>400</PotionPurchaseCooldown>
+	<PotionPurchaseCostCooldown>8000</PotionPurchaseCostCooldown>
+	<PotionPurchaseCosts>
+		<cost>5</cost>
+		<cost>10</cost>
+		<cost>20</cost>
+		<cost>40</cost>
+		<cost>80</cost>
+		<cost>120</cost>
+		<cost>200</cost>
+		<cost>300</cost>
+		<cost>450</cost>
+		<cost>600</cost>
+	</PotionPurchaseCosts>
+	<FilterList>
+n[1i]g[g]?(a|e)[r]?\b
+"[.,][0o]rg"
+"[.,]n[3e]t"
+"[.,]c[o0]m"
+nigger
+nigga
+re[a4][1il]mb[a4]gs
+mg[o0][o0]d[s5]
+faggot
+rea[1il]mstock
+rpgst
+mbag
+s_r()tmg
+realmg[o0][o0]ds
+st()ck
+rpg[s5]ta[s5]h
+r[e3]a[i1]m
+"[.,]sh[0o]p"
+"[.,]st[o0]r"
+"[.,][1il]nf[o0]"
+s_t()ck
+s_$t[o0]ck
+[$s]t[o0].ck
+[$s]t.[o0]ck
+"m[.,]bag"
+"[s5][.,]t[.,]o"
+s_r.o.t
+s_realm$hop
+s_$hop
+s_r()tmg
+s_REAL/\/\GOODS COM
+s_realm$tock
+s_Realmshop
+s_Sea$on
+s_rotmgAr$enal
+maxing(\s)+service
+"rea[ij1l][\\\/m\s]*G[o0\s]*?DS[\.\s\,]*?(c{1,2}[o0]{1,2}m)"
+s_Real/\/\Goods
+s_Real/\/\Goods
+s_Reai/\/\Goods
+s_ReaI/\/\Goods
+s_rotmgAr$enal com
+R3almsh0p
+instant auto delivery
+s_Realmsh0p
+Updated Muledump
+Summer Sale!
+Accept Paypal
+s_Re_almshop info==
+s_REAL/\/\G00DS C0M
+re[a4][1il]mst[o0]()ck
+re[a4][1il][\/\\|m]+g[o0][o0]d[s5]
+"re[a4][1il]msh[0o]p[.,\s=]*[1il]nf[0o]"
+"rpg[.,\s]+r[1il]p"
+r[e3][a4][l1i][^a-z0-9]+g[o0][o0]d[s5][^a-z0-9]+c[o0]m
+r[e3][a4][l1i][^a-z0-9]+g[o0][o0]d[s5][^a-z0-9]+c[o0](m|[^a-z0-9]+)
+r[e3][a4][l1i]msh[o0]p[\Wdot]+in[fph][o0]
+rpg[\Wdot]+r[i1]p
+r[e3][a4][l1i][^a-z0-9]+g[o0][o0]d[s5][^a-z0-9]+c[^a-z0-9]+m
+r[e3][a4][l1i]msh[o0]p[^a-z0-9]+i[^a-z0-9]*n[^a-z0-9]*f[^a-z0-9]*o
+rpg[^a-z0-9]+r[^a-z0-9]*[i1][^a-z0-9]*p
+r[e3][a4][l1i]msh[o0]p[^a-z0-9]+i[^a-z0-9]*n[^a-z0-9]*f[^a-z0-9]*[o0]
+r[^a-z0-9]*p[^a-z0-9]*g[^a-z0-9]+r[^a-z0-9]*[i1][^a-z0-9]*p
+r[e3][a4][l1i]msh[o0]p[^a-z0-9]+i[^a-z0-9]*n[^a-z0-9]*f[^a-z0-9]*[o0]
+r[^a-z0-9]*p[^a-z0-9]*g[^a-z0-9]+r[^a-z0-9]*[i1][^a-z0-9]*p
+[rR][eE3][aA4][lL1i][^a-zA-Z0-9]+[gG][oO0\(\)\s]*[dD][sS5][^a-zA-Z0-9]+[cC][^a-zA-Z0-9]+[mM]
+r[e3][a4][l1i]m[^a-z0-9]*sh[o0]p[^a-z0-9]+i[^a-z0-9]*n[^a-z0-9]*f[^a-z0-9]*[o0]
+r[^a-z0-9]*p[^a-z0-9]*g[\Wdot\s]+r[^a-z0-9]*[i1][^a-z0-9]*p
+r[e3][a4][l1i]m[^a-z0-9]*sh[o0]p[^a-z0-9]+[i1][^a-z0-9]*n[^a-z0-9]*f[^a-z0-9]*[o0]
+r[^a-z0-9]*p[^a-z0-9]*g[\Wd0ot\s]+r[^a-z0-9]*[i1][^a-z0-9]*p
+[rR][eE3][aA4][lL1i][^a-zA-Z0-9]+[gG][oO0\(\)\s]*[dD][sS5][^a-zA-Z0-9]+[cC][^a-zA-Z0-9]+(?:[mM]|[^a-zA-Z0-9]+)
+r[^a-z0-9]*e[^a-z0-9]*a[^a-z0-9]*l[^a-z0-9]*m[^a-z0-9]*s[^a-z0-9]*h[^a-z0-9]*[o0][^a-z0-9]*p[^a-z0-9]+i[^a-z0-9]*n[^a-z0-9]*f[^a-z0-9]*[o0]
+r[^a-z0-9]*p[^a-z0-9]*g[\Wherdot0\s]+r[^a-z0-9]*[i1][^a-z0-9]*p
+"r[^a-z0-9]*e[^a-z0-9]*a[^a-z0-9]*[l1][^a-z0-9]*m[^a-z0-9]*s[^a-z0-9]*h[^a-z0-9]*[o0][^a-z0-9]*p[^a-z0-9]+i[^a-z0-9]*n[^a-z0-9]*f[^a-z0-9]*[o0]
+r[^a-z0-9]*p[^a-z0-9]*g[\Wputherdot0\s]+r[^a-z0-9]*[i1][^a-z0-9]*p
+[rR][eE3][aA4][lL1i][mM]?[^a-zA-Z0-9]*[gG][oO0\(\)\s]*[dD][sS5][^a-zA-Z0-9]+[cC][^a-zA-Z0-9]+(?:[mM]|[^a-zA-Z0-9]+)"
+"r[^a-z0-9]*e[^a-z0-9]*a[^a-z0-9]*[l1][^a-z0-9]*m[^a-z0-9]*s[^a-z0-9]*h[^a-z0-9]*[o0][^a-z0-9]*p[^a-z0-9]+i[^a-z0-9]*n[^a-z0-9]*f[^a-z0-9]*[o0]
+r[^a-z0-9]*p[^a-z0-9]*g[\Wputherdot0\s]+r[^a-z0-9]*[i1][^a-z0-9]*p
+[rR][eE3][aA4][lL1i][mM]?[^a-zA-Z0-9]*[gG][oO0\(\)\s]*[dD][sS5][^a-zA-Z0-9]+[cC][^a-zA-Z0-9]+(?:[mM]|[^a-zA-Z0-9]+)
+r[e3][a4][l1i]m[^a-z0-9]*st[o0]ck"
+END</FilterList>
+	<DisableRegist>0</DisableRegist>
+	<MysteryBoxRefresh>180</MysteryBoxRefresh>
+	<SalesforceMobile>0</SalesforceMobile>
+	<UGDOpenSubmission>1</UGDOpenSubmission>
+	<ForgeMaxIngredients>1</ForgeMaxIngredients>
+	<ForgeMaxEnergy>2000</ForgeMaxEnergy>
+	<ForgeInitialEnergy>400</ForgeInitialEnergy>
+	<ForgeDailyEnergy>500</ForgeDailyEnergy>
+	<PetInventoryBlackList>WEAPON;ABILITY;ARMOR;RING</PetInventoryBlackList>
+	<MaterialsCapExtensionPrice>25;50;75;100</MaterialsCapExtensionPrice>
+	<MaterialsCapExtensionAmount>200</MaterialsCapExtensionAmount>
+	<PartyBonusType>1</PartyBonusType>
+	<PartyBonusValue>0.0</PartyBonusValue>
+	<PartyBonusMinMembers>2</PartyBonusMinMembers>
+	<ExtendViewRadiusNexus/>
+	<ExtendViewRadius/>
+</AppSettings>
