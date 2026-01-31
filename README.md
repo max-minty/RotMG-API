@@ -83,21 +83,11 @@ Please note that DECA can add or remove links at any time.
  * [`init`](responses/app/init.xml) => platform (standalonewindows64 or standalonewindows), key (seems to be hardcoded - 9KnJFxtTvLu2frXv for windows), game_net (Unity), play_platform (Unity), game_net_user_id
  * ``publicStaticData`` => dataType (powerUpSettings)
 
+``build/``
+ * ``toolsVersion`` =>  page responds with "Page not found", but directory exists. client directs to it. 
+
 ``package/``
  * ``getPackages`` => guid, password, version (seems to accept any float like 1.0)
-
-``shop/``
- * [`deals`](responses/shop/deals.xml) => accessToken, version (seems to accept any float like 1.0)
- * [`getOffers`](responses/shop/getOffers.txt) => *`Missing Parameters`*
- * [`purchaseItems`](responses/shop/purchaseItems.xml) => *`Missing Parameters`*
-
-``credits/``
- * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
- * [`paymentToken`](responses/credits/paymentToken.json) => accessToken, type
- * [`add`](responses/credits/add.html) => tok, exp, guid, provider, jwt, price, paymentid
- * [`done`](responses/credits/done.html)
- * [`error`](responses/credits/error.html)
-* [`token`](responses/credits/token.json) => accessToken
 
 ``picture/`` => Seems to redirect to google login now
  * ``list`` => myGUID, guid, dataType, tags, offset, num
@@ -126,19 +116,13 @@ Please note that DECA can add or remove links at any time.
 
 [``data/``](responses/data.html) => prints a message saying invalid login, previously was "you are forbidden to access this page"
 
-``log/``
-* [`logout`](responses/log/logout.xml) => accessToken
- * ``logFteStep`` => game_net_user_id, game_net, play_platform, guid, password, fteStepCompleted (used for tracking tutorial progress, removed)
- * [`logGameModePlayed`](responses/log/logGameModePlayed.xml) => seasonID, gameMode (Legacy or Challenger), accessToken
+``eventlog/`` => Access is forbidden
 
-``server/`` => all of these urls are internal
- * ``list``
- * ``add``
- * ``remove``
+``hotkeyz/`` => Access is forbidden
 
-``serverStatus/`` => all of these urls are internal
- * [`getServerStatus`](responses/serverStatus/getServerStatus.xml) => accessToken, game_net (Unity), play_platform (Unity), game_net_user_id
+``topz/`` => Access is forbidden
 
+``rpcz/`` => Access is forbidden
 
 ``account/``
  * [`register`](responses/account/register.xml) => newPassword, entrytag, newGUID, name(not needed), isAgeVerified, guid, signedUpKabamEmail (0 or 1)
@@ -186,24 +170,34 @@ Please note that DECA can add or remove links at any time.
 ``accountLevelRewards/``
 * [`getConfig`](responses/accountLevelRewards/getConfig.json) => accessToken
 
-``supportCampaign/``
- * [`claim`](responses/supportCampaign/claim.xml) => accessToken
- * [`donate`](responses/supportCampaign/donate.xml) => accessToken
- * [`unlock`](responses/supportCampaign/unlock.xml) => accessToken
- * [`status`](responses/supportCampaign/status.xml) => accessToken
- * [`create`](responses/supportCampaign/create.xml) => (responds with <Error>Server error<Error/>)
- * ``getinfo`` => (responds with nothing if no unity campaign active)
- * [`getUnitySupporters`](responses/supportCampaign/getUnitySupporters.xml) => accessToken, page
- 
 ``fame/``
 * [`list`](responses/fame/list.xml) => timespan (week, month, all), charId, accountId, accessToken
 
 ``calendar/``
 * [`getForClient`](responses/calendar/getForClient.json) => guid, accessToken
 
+``char/``
+ * ``list`` => guid, password, [challenger (false/true)][muleDump (true/false)]
+ * ``fame`` => accountId, charId
+ * ``*purchase``
+ * ``*get``
+ * ``*reskin``
+ * ``*create``
+ * ``*update``
+ * ``purchaseClassUnlock`` => guid, password, game_net_user_id, game_net, play_platform, do_login, classType
+ * ``delete`` => guid, password, charId, reason (seems to be always 1)
+
 ``craigsgift/``
 * [`buy`](responses/craigsgift/buy.json) => *`Missing Parameters`*
 * [`info`](responses/craigsgift/info.json) => accessToken
+
+``credits/``
+ * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
+ * [`paymentToken`](responses/credits/paymentToken.json) => accessToken, type
+ * [`add`](responses/credits/add.html) => tok, exp, guid, provider, jwt, price, paymentid
+ * [`done`](responses/credits/done.html)
+ * [`error`](responses/credits/error.html)
+ * [`token`](responses/credits/token.json) => accessToken
 
 ``crucibles/``
 * [`info`](responses/crucibles/info.xml) => (responds with Only server can request info)
@@ -218,35 +212,6 @@ Please note that DECA can add or remove links at any time.
 ``dungeonEvent/``
 * [`getClientEvents`](responses/dungeonEvent/getClientEvents.txt)
 
-``missions/``
-* [`getClientSeasons`](responses/missions/getClientSeasons.json) => accessToken
-* [`getCompetition`](responses/missions/getCompetition.xml) => accessToken (responds with nothing if no Competition / Community Event active)
-* [`getCompetitionScore`](responses/missions/getCompetitionScore.xml) => accessToken (responds with nothing if no Competition / Community Event active)
-* [`getPlayerMissions`](responses/missions/getPlayerMissions.xml) => accessToken
-
-``season/``
-* ``getSeasons`` => guid, password, gameClientVersion
-* [`battlePass/buyExaltedPass`](responses/season/battlePass/buyExaltedPass.json) => accessToken
-* [`bpInfo`](responses/season/bpInfo.json) => accessToken
-* [`seasonInfo`](responses/season/seasonInfo.json) => accessToken
-
-``char/``
- * ``list`` => guid, password, [challenger (false/true)][muleDump (true/false)]
- * ``fame`` => accountId, charId
- * ``*purchase``
- * ``*get``
- * ``*reskin``
- * ``*create``
- * ``*update``
- * ``purchaseClassUnlock`` => guid, password, game_net_user_id, game_net, play_platform, do_login, classType
- * ``delete`` => guid, password, charId, reason (seems to be always 1)
-
-``inGameNews/``
- * [`getNews`](responses/inGameNews/getNews.txt)
-
- ``unityNews/``
- * [`getNews`](responses/unityNews/getNews.html)
-
 ``friends/``
  * [`requestFriend`](responses/friends/requestFriend.xml) => accessToken, targetName
  * [`getList`](responses/friends/getList.xml) => accessToken
@@ -257,13 +222,6 @@ Please note that DECA can add or remove links at any time.
  * [`blockRequest`](responses/friends/blockRequest.xml) => accessToken, targetName (you can't undo this! "Player has blocked you. Cannot add Friend")
  * ``*populateFriends`` => *`Missing Parameters`*
 
-``pet/``
- * ``*feed``
- * ``*get`` => *`Missing Parameters`*
- * ``*fuse``
- * ``*createPet``
- * ``*yardupgrade``
-
 ``guild/``
  * ``*changeRank``
  * ``*removeMember``
@@ -273,6 +231,46 @@ Please note that DECA can add or remove links at any time.
  * [`listMembers`](responses/guild/listMembers.xml) => accessToken
  * ``*purchase``
 
+``inGameNews/``
+ * [`getNews`](responses/inGameNews/getNews.txt)
+
+``log/``
+* [`logout`](responses/log/logout.xml) => accessToken
+ * ``logFteStep`` => game_net_user_id, game_net, play_platform, guid, password, fteStepCompleted (used for tracking tutorial progress, removed)
+ * [`logGameModePlayed`](responses/log/logGameModePlayed.xml) => seasonID, gameMode (Legacy or Challenger), accessToken
+
+``missions/``
+* [`getClientSeasons`](responses/missions/getClientSeasons.json) => accessToken
+* [`getCompetition`](responses/missions/getCompetition.xml) => accessToken (responds with nothing if no Competition / Community Event active)
+* [`getCompetitionScore`](responses/missions/getCompetitionScore.xml) => accessToken (responds with nothing if no Competition / Community Event active)
+* [`getPlayerMissions`](responses/missions/getPlayerMissions.xml) => accessToken
+
+``pet/``
+ * ``*feed``
+ * ``*get`` => *`Missing Parameters`*
+ * ``*fuse``
+ * ``*createPet``
+ * ``*yardupgrade``
+
+``season/``
+* ``getSeasons`` => guid, password, gameClientVersion
+* [`battlePass/buyExaltedPass`](responses/season/battlePass/buyExaltedPass.json) => accessToken
+* [`bpInfo`](responses/season/bpInfo.json) => accessToken
+* [`seasonInfo`](responses/season/seasonInfo.json) => accessToken
+
+``server/`` => all of these urls are internal
+ * ``list``
+ * ``add``
+ * ``remove``
+
+``serverStatus/`` => all of these urls are internal
+ * [`getServerStatus`](responses/serverStatus/getServerStatus.xml) => accessToken, game_net (Unity), play_platform (Unity), game_net_user_id
+
+``shop/``
+ * [`deals`](responses/shop/deals.xml) => accessToken, version (seems to accept any float like 1.0)
+ * [`getOffers`](responses/shop/getOffers.txt) => *`Missing Parameters`*
+ * [`purchaseItems`](responses/shop/purchaseItems.xml) => *`Missing Parameters`*
+
 ``steamworks/``
  * ``finalizePurchase`` => appid, orderid, authorized (1 or 0)
  * ``getcredentials`` => userId
@@ -281,24 +279,26 @@ Please note that DECA can add or remove links at any time.
  * ``link`` (disabled)
 * [`getoffers`](responses/steamworks/getoffers.xml)
 
-``ugc/`` (User Generated Content)
- * ``save`` => guid, password, name, description, width, height, mapjm, tags, totalObjects, totalTiles, thumbnail, overwrite (on or off) (seems to always return <Error>Invalid permissions</Error>)
- * ``*get``
- 
-``build/``
- * ``toolsVersion`` =>  page responds with "Page not found", but directory exists. client directs to it. 
+``supportCampaign/``
+ * [`claim`](responses/supportCampaign/claim.xml) => accessToken
+ * [`donate`](responses/supportCampaign/donate.xml) => accessToken
+ * [`unlock`](responses/supportCampaign/unlock.xml) => accessToken
+ * [`status`](responses/supportCampaign/status.xml) => accessToken
+ * [`create`](responses/supportCampaign/create.xml) => (responds with <Error>Server error<Error/>)
+ * ``getinfo`` => (responds with nothing if no unity campaign active)
+ * [`getUnitySupporters`](responses/supportCampaign/getUnitySupporters.xml) => accessToken, page
 
 ``survey/``
  * ``add`` => Returns 500 error
  * ``*delete``
 
-``eventlog/`` => Access is forbidden
+``ugc/`` (User Generated Content)
+ * ``save`` => guid, password, name, description, width, height, mapjm, tags, totalObjects, totalTiles, thumbnail, overwrite (on or off) (seems to always return <Error>Invalid permissions</Error>)
+ * ``*get``
 
-``hotkeyz/`` => Access is forbidden
+ ``unityNews/``
+ * [`getNews`](responses/unityNews/getNews.html)
 
-``topz/`` => Access is forbidden
-
-``rpcz/`` => Access is forbidden
 
 ## Unknown urls
 
