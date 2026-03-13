@@ -1,0 +1,1396 @@
+<?xml version="1.0"?>
+<Chars nextCharId="23" maxNumChars="41">
+  <Char id="22">
+    <ObjectType>798</ObjectType>
+    <Seasonal>False</Seasonal>
+    <Level>20</Level>
+    <Exp>10576686</Exp>
+    <CurrentFame>5299</CurrentFame>
+    <Equipment>28851,28853,14472,14214,2990,9056,2878,5407,9057,8617,8852,1802,23521,-1,23520,23519,596,-1,2501,597,3169,1205,17559,9063,8282,-1,41746,-1</Equipment>
+    <EquipQS>2594|1,-1|0,2595|4</EquipQS>
+    <MaxHitPoints>800</MaxHitPoints>
+    <HitPoints>980</HitPoints>
+    <MaxMagicPoints>252</MaxMagicPoints>
+    <MagicPoints>252</MagicPoints>
+    <Attack>50</Attack>
+    <Defense>40</Defense>
+    <Speed>35</Speed>
+    <Dexterity>36</Dexterity>
+    <HpRegen>64</HpRegen>
+    <MpRegen>41</MpRegen>
+    <PCStats>DfCtugAQH_8QQAAAA_zhIAJ9</PCStats>
+    <HealthStackCount>0</HealthStackCount>
+    <MagicStackCount>0</MagicStackCount>
+    <Dead>False</Dead>
+    <SetupStage>2</SetupStage>
+    <Pet name="Mermaid" type="32641" instanceId="71" rarity="4" maxAbilityPower="100" skin="30536" shader="0" createdOn="June 01, 2020" incInv="1" inv="">
+      <UniqueItemInfo/>
+      <Abilities>
+        <Ability type="407" power="100" points="511511"/>
+        <Ability type="408" power="100" points="513830"/>
+        <Ability type="406" power="89" points="214545"/>
+      </Abilities>
+    </Pet>
+    <Account>
+      <Name>JaneDoe</Name>
+    </Account>
+    <Texture>30938</Texture>
+    <Titles>39421,39439</Titles>
+    <Entrance>-1</Entrance>
+    <XpBoosted>0</XpBoosted>
+    <XpTimer>0</XpTimer>
+    <LDTimer>0</LDTimer>
+    <LTTimer>0</LTTimer>
+    <UniqueItemInfo>
+      <ItemData type="28851"/>
+      <ItemData type="28853"/>
+      <ItemData type="14472">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="14214">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="2990"/>
+      <ItemData type="9056"/>
+      <ItemData type="2878">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="9057"/>
+      <ItemData type="8617"/>
+      <ItemData type="8852"/>
+      <ItemData type="1802"/>
+      <ItemData type="23521"/>
+      <ItemData type="23520"/>
+      <ItemData type="23519"/>
+      <ItemData type="596">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="2501">AAIEDQH9__3__f8FAA==</ItemData>
+      <ItemData type="597">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="3169">AAIE_f_9__3__f8=</ItemData>
+      <ItemData type="1205">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="17559">AAIEXwH9__3__f8FAA==</ItemData>
+      <ItemData type="9063"/>
+      <ItemData type="8282"/>
+      <ItemData type="41746"/>
+    </UniqueItemInfo>
+    <BackpackSlots>16</BackpackSlots>
+    <Has3Quickslots>1</Has3Quickslots>
+    <CrucibleActive/>
+    <BloodRitualActive/>
+    <CreationDate>May 20, 2023</CreationDate>
+    <CreationTimestamp>1684618598</CreationTimestamp>
+  </Char>
+  <Char id="542">
+    <ObjectType>805</ObjectType>
+    <Seasonal>False</Seasonal>
+    <Level>1</Level>
+    <Exp>22</Exp>
+    <CurrentFame>0</CurrentFame>
+    <Equipment>2564,3045,14470,15759,591,598,592,597,3929,579,17563,17563,9669,-1,2988,2225,2988,2989,3824,1418</Equipment>
+    <EquipQS>2594|1,-1|0</EquipQS>
+    <MaxHitPoints>100</MaxHitPoints>
+    <HitPoints>235</HitPoints>
+    <MaxMagicPoints>100</MaxMagicPoints>
+    <MagicPoints>235</MagicPoints>
+    <Attack>17</Attack>
+    <Defense>0</Defense>
+    <Speed>27</Speed>
+    <Dexterity>23</Dexterity>
+    <HpRegen>17</HpRegen>
+    <MpRegen>23</MpRegen>
+    <PCStats>DfCtugAQAE8AAAAAABAAAAAAAoCGNwUKvOUNBgIGBQE=</PCStats>
+    <HealthStackCount>0</HealthStackCount>
+    <MagicStackCount>0</MagicStackCount>
+    <Dead>False</Dead>
+    <SetupStage>2</SetupStage>
+    <Pet name="Mermaid" type="32641" instanceId="71" rarity="4" maxAbilityPower="100" skin="30536" shader="0" createdOn="June 01, 2020" incInv="1" inv="">
+      <UniqueItemInfo/>
+      <Abilities>
+        <Ability type="407" power="100" points="511511"/>
+        <Ability type="408" power="100" points="513830"/>
+        <Ability type="406" power="89" points="214545"/>
+      </Abilities>
+    </Pet>
+    <Account>
+      <Name>JaneDoe</Name>
+    </Account>
+    <Entrance>-1</Entrance>
+    <XpBoosted>0</XpBoosted>
+    <XpTimer>0</XpTimer>
+    <LDTimer>0</LDTimer>
+    <LTTimer>0</LTTimer>
+    <UniqueItemInfo>
+      <ItemData type="2564"/>
+      <ItemData type="3045">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="14470">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="15759">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="591">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="598">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="592">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="597">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="3929">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="579">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="17563">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="17563">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="9669">AAIE_v_9__3__f8FAA==</ItemData>
+      <ItemData type="2988">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="2225">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="2988">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="2989">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="3824">AAIE_f_9__3__f8FAQAAAA==</ItemData>
+      <ItemData type="1418">AAIE_f_9__3__f8FAA==</ItemData>
+    </UniqueItemInfo>
+    <BackpackSlots>8</BackpackSlots>
+    <Has3Quickslots>0</Has3Quickslots>
+    <CrucibleActive/>
+    <BloodRitualActive/>
+    <CreationDate>October 21, 2024</CreationDate>
+    <CreationTimestamp>1729476470</CreationTimestamp>
+  </Char>
+  <Char id="412">
+    <ObjectType>782</ObjectType>
+    <Seasonal>False</Seasonal>
+    <Level>1</Level>
+    <Exp>0</Exp>
+    <CurrentFame>0</CurrentFame>
+    <Equipment>2524,19282,8206,3007,21210,21210,21210,21210,20275,21010,21228,21228,6937,19298,19973,19973,20962,19971,19291,19973</Equipment>
+    <EquipQS>2594|6,-1|0</EquipQS>
+    <MaxHitPoints>100</MaxHitPoints>
+    <HitPoints>185</HitPoints>
+    <MaxMagicPoints>100</MaxMagicPoints>
+    <MagicPoints>185</MagicPoints>
+    <Attack>12</Attack>
+    <Defense>0</Defense>
+    <Speed>10</Speed>
+    <Dexterity>15</Dexterity>
+    <HpRegen>12</HpRegen>
+    <MpRegen>12</MpRegen>
+    <PCStats>DfCtugAAAA0AAAAAAAAAAAAAAACjK7QEsKsZ</PCStats>
+    <HealthStackCount>1</HealthStackCount>
+    <MagicStackCount>0</MagicStackCount>
+    <Dead>False</Dead>
+    <SetupStage>2</SetupStage>
+    <Account>
+      <Name>JaneDoe</Name>
+    </Account>
+    <Entrance>-1</Entrance>
+    <XpBoosted>0</XpBoosted>
+    <XpTimer>0</XpTimer>
+    <LDTimer>0</LDTimer>
+    <LTTimer>0</LTTimer>
+    <UniqueItemInfo>
+      <ItemData type="2524"/>
+      <ItemData type="19282"/>
+      <ItemData type="8206"/>
+      <ItemData type="3007"/>
+      <ItemData type="21210"/>
+      <ItemData type="21210"/>
+      <ItemData type="21210"/>
+      <ItemData type="21210"/>
+      <ItemData type="20275"/>
+      <ItemData type="21010"/>
+      <ItemData type="21228"/>
+      <ItemData type="21228"/>
+      <ItemData type="6937"/>
+      <ItemData type="19298"/>
+      <ItemData type="19973"/>
+      <ItemData type="19973"/>
+      <ItemData type="20962"/>
+      <ItemData type="19971"/>
+      <ItemData type="19291"/>
+      <ItemData type="19973"/>
+    </UniqueItemInfo>
+    <BackpackSlots>8</BackpackSlots>
+    <Has3Quickslots>0</Has3Quickslots>
+    <CrucibleActive/>
+    <BloodRitualActive/>
+    <CreationDate>June 03, 2020</CreationDate>
+    <CreationTimestamp>1591201580</CreationTimestamp>
+  </Char>
+  <Char id="517">
+    <ObjectType>768</ObjectType>
+    <Seasonal>False</Seasonal>
+    <Level>20</Level>
+    <Exp>24530160</Exp>
+    <CurrentFame>11226</CurrentFame>
+    <Equipment>17124,10065,602,5326,-1,-1,-1,37948,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+    <EquipQS>2594|5,2595|6</EquipQS>
+    <MaxHitPoints>750</MaxHitPoints>
+    <HitPoints>763</HitPoints>
+    <MaxMagicPoints>300</MaxMagicPoints>
+    <MagicPoints>320</MagicPoints>
+    <Attack>55</Attack>
+    <Defense>25</Defense>
+    <Speed>65</Speed>
+    <Dexterity>75</Dexterity>
+    <HpRegen>40</HpRegen>
+    <MpRegen>50</MpRegen>
+    <PCStats>-A4AVqgaNA7MLmw23EEwKEAgIACA==</PCStats>
+    <HealthStackCount>0</HealthStackCount>
+    <MagicStackCount>0</MagicStackCount>
+    <Dead>False</Dead>
+    <SetupStage>2</SetupStage>
+    <Pet name="Mermaid" type="32641" instanceId="71" rarity="4" maxAbilityPower="100" skin="30536" shader="0" createdOn="June 01, 2020" incInv="1" inv="">
+      <UniqueItemInfo/>
+      <Abilities>
+        <Ability type="407" power="100" points="511511"/>
+        <Ability type="408" power="100" points="513830"/>
+        <Ability type="406" power="89" points="214545"/>
+      </Abilities>
+    </Pet>
+    <Account>
+      <Name>JaneDoe</Name>
+    </Account>
+    <Entrance>1996</Entrance>
+    <XpBoosted>0</XpBoosted>
+    <XpTimer>0</XpTimer>
+    <LDTimer>0</LDTimer>
+    <LTTimer>0</LTTimer>
+    <UniqueItemInfo>
+      <ItemData type="17124">AAIEjAAEIP3__f8FAA==</ItemData>
+      <ItemData type="10065">AAIErQX9__3__f8DAQCtBQ==</ItemData>
+      <ItemData type="602">AAIEdgRFAf3__f8FAA==</ItemData>
+      <ItemData type="5326">AAIEmQBSAP3__f8FAA==</ItemData>
+      <ItemData type="37948">AAIE6QT9__3__f8FAA==</ItemData>
+    </UniqueItemInfo>
+    <BackpackSlots>16</BackpackSlots>
+    <Has3Quickslots>0</Has3Quickslots>
+    <CrucibleActive>6352123577008128</CrucibleActive>
+    <BloodRitualActive/>
+    <CreationDate>January 23, 2026</CreationDate>
+    <CreationTimestamp>1769130508</CreationTimestamp>
+  </Char>
+  <Char id="521">
+    <ObjectType>797</ObjectType>
+    <Seasonal>False</Seasonal>
+    <Level>20</Level>
+    <Exp>4969133</Exp>
+    <CurrentFame>2395</CurrentFame>
+    <Equipment>65282,8281,23518,14214,12163,2225,596,17559,-1,-1,28855,28851,-1,9070,-1,2991,-1,-1,-1,-1</Equipment>
+    <EquipQS>-1|0,-1|0,-1|0</EquipQS>
+    <MaxHitPoints>800</MaxHitPoints>
+    <HitPoints>965</HitPoints>
+    <MaxMagicPoints>252</MaxMagicPoints>
+    <MagicPoints>292</MagicPoints>
+    <Attack>75</Attack>
+    <Defense>25</Defense>
+    <Speed>50</Speed>
+    <Dexterity>50</Dexterity>
+    <HpRegen>75</HpRegen>
+    <MpRegen>50</MpRegen>
+    <PCStats>gO5AZ8BvwGlAQED</PCStats>
+    <HealthStackCount>0</HealthStackCount>
+    <MagicStackCount>0</MagicStackCount>
+    <Dead>False</Dead>
+    <SetupStage>2</SetupStage>
+    <Pet name="Mermaid" type="32641" instanceId="71" rarity="4" maxAbilityPower="100" skin="30536" shader="0" createdOn="June 01, 2020" incInv="1" inv="">
+      <UniqueItemInfo/>
+      <Abilities>
+        <Ability type="407" power="100" points="511511"/>
+        <Ability type="408" power="100" points="513830"/>
+        <Ability type="406" power="89" points="214545"/>
+      </Abilities>
+    </Pet>
+    <Account>
+      <Name>JaneDoe</Name>
+    </Account>
+    <Tex1>4103</Tex1>
+    <Tex2>4438</Tex2>
+    <Texture>9519</Texture>
+    <Titles>39421,4067</Titles>
+    <Entrance>-1</Entrance>
+    <XpBoosted>0</XpBoosted>
+    <XpTimer>0</XpTimer>
+    <LDTimer>0</LDTimer>
+    <LTTimer>0</LTTimer>
+    <UniqueItemInfo>
+      <ItemData type="17456">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="2787">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="2809">AAIEdAH9__3__f8FAA==</ItemData>
+      <ItemData type="2756">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="2815">AAIE_f_9__3__f8FAA==</ItemData>
+      <ItemData type="2851">AAIEGAH9__3__f8FAA==</ItemData>
+      <ItemData type="28856"/>
+      <ItemData type="2753">AAIEEwH9__3__f8FAA==</ItemData>
+      <ItemData type="51279"/>
+    </UniqueItemInfo>
+    <BackpackSlots>8</BackpackSlots>
+    <Has3Quickslots>0</Has3Quickslots>
+    <CrucibleActive>5883052332351488</CrucibleActive>
+    <BloodRitualActive/>
+    <CreationDate>March 31, 2025</CreationDate>
+    <CreationTimestamp>1743257566</CreationTimestamp>
+  </Char>
+  <Account>
+    <AccountLvl>83</AccountLvl>
+    <AccountLvlClaimed>50</AccountLvlClaimed>
+    <ALXPCurrent>13143636</ALXPCurrent>
+    <AccountLVLRewardCharStartWith>768:T4,T2,T4,Ring of Greater Defense;775:T4,T2,T4,Ring of Greater Defense;782:T4,T2,T4,Ring of Greater Defense;784:T4,T2,T4,Ring of Greater Defense;797:T4,T2,T4,Ring of Greater Defense;798:T4,T2,T4,Ring of Greater Defense;799:T4,T2,T4,Ring of Greater Defense;800:T4,T2,T4,Ring of Greater Defense;801:T4,T2,T4,Ring of Greater Defense;802:T4,T2,T4,Ring of Greater Defense;803:T4,T2,T4,Ring of Greater Defense;804:T4,T2,T4,Ring of Greater Defense;805:T4,T2,T4,Ring of Greater Defense;806:T4,T2,T4,Ring of Greater Defense;785:T4,T2,T4,Ring of Greater Defense;796:T4,T2,T4,Ring of Greater Defense;817:T4,T2,T4,Ring of Greater Defense;818:T4,T2,T4,Ring of Greater Defense;819:T4,T2,T4,Ring of Greater Defense</AccountLVLRewardCharStartWith>
+    <AccountLVLRewardBoostExp>6</AccountLVLRewardBoostExp>
+    <AccountLVLRewardBoostLoot>4</AccountLVLRewardBoostLoot>
+    <AccountLVLRewardDiscountBP>70</AccountLVLRewardDiscountBP>
+    <Credits>511</Credits>
+    <FortuneToken>0</FortuneToken>
+    <UnityCampaignPoints>0</UnityCampaignPoints>
+    <NextCharSlotPrice>1000</NextCharSlotPrice>
+    <EarlyGameEventTracker>99</EarlyGameEventTracker>
+    <AccountId>62154123812740</AccountId>
+    <CreationTimestamp>1316371123</CreationTimestamp>
+    <NewsletterRewardsIdsRewarded/>
+    <NewsletterSubscribeTimestamp>0</NewsletterSubscribeTimestamp>
+    <FavoritePet>74</FavoritePet>
+    <FavoriteEntrance>1996</FavoriteEntrance>
+    <VerifiedEmail/>
+    <TDone/>
+    <MaxNumChars>41</MaxNumChars>
+    <muted/>
+    <MutedUntil>1715648909</MutedUntil>
+    <LastServer>3.110.254.333</LastServer>
+    <TeleportWait>0</TeleportWait>
+    <Originating>None</Originating>
+    <PetYardType>5</PetYardType>
+    <LastLogin>2026-03-13 08:35:09.602261</LastLogin>
+    <ForgeFireEnergy>2000</ForgeFireEnergy>
+    <RegularForgeFireBlueprints>28843,2624,14465,592,49690,2321,3111,28829,2109,310,3075,14471,46071,3077,2556,24834,2635,3294,6203,594,4310,1202,28837,55381,28856,1977,9659,3181,1177,3073,593,19948,4308,17501,19950,2977,1201,598,49696,28848,17563,580,17499,1801,595,3100,597,49695,13987,28839,2557,14470,28832,2112,3074,3091,46072,3123,2622,1894,3395,590,14336,2988,1408,23732,306,28844,14816,579,19951,55383,28830,3112,596,49694,28838,13986,28835,30053,4309,9152,23919,14992,1953,28847,8386,3093,588,55414,2563,4255,2517,2881,29768,2987,589</RegularForgeFireBlueprints>
+    <Campaigns/>
+    <Name>JaneDoe</Name>
+    <NameChosen/>
+    <Converted/>
+    <IsAgeVerified>0</IsAgeVerified>
+    <SecurityQuestions>
+      <HasSecurityQuestions>1</HasSecurityQuestions>
+      <ShowSecurityQuestionsDialog>0</ShowSecurityQuestionsDialog>
+      <SecurityQuestionsKeys>
+        <SecurityQuestionsKey>SecurityQuestionsDialog.question1</SecurityQuestionsKey>
+        <SecurityQuestionsKey>SecurityQuestionsDialog.question2</SecurityQuestionsKey>
+        <SecurityQuestionsKey>SecurityQuestionsDialog.question3</SecurityQuestionsKey>
+      </SecurityQuestionsKeys>
+    </SecurityQuestions>
+    <Stats>
+      <ClassStats objectType="0x300">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>14196</BestBaseFame>
+        <BestTotalFame>14316</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x307">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>14613</BestBaseFame>
+        <BestTotalFame>32333</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x30e">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>129312</BestBaseFame>
+        <BestTotalFame>129312</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x310">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>433</BestBaseFame>
+        <BestTotalFame>2653</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x31d">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>4234</BestBaseFame>
+        <BestTotalFame>11639</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x31e">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>5319</BestBaseFame>
+        <BestTotalFame>5319</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x31f">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>65644</BestBaseFame>
+        <BestTotalFame>65644</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x320">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>420</BestBaseFame>
+        <BestTotalFame>1294</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x321">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>322915</BestBaseFame>
+        <BestTotalFame>322915</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x322">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>1306</BestBaseFame>
+        <BestTotalFame>2005</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x323">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>493</BestBaseFame>
+        <BestTotalFame>1248</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x324">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>216103</BestBaseFame>
+        <BestTotalFame>216103</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x325">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>3405</BestBaseFame>
+        <BestTotalFame>8910</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x326">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>818</BestBaseFame>
+        <BestTotalFame>1118</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x311">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>1001</BestBaseFame>
+        <BestTotalFame>4244</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x31c">
+        <BestLevel>1</BestLevel>
+        <BestBaseFame>0</BestBaseFame>
+        <BestTotalFame>0</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x331">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>20</BestBaseFame>
+        <BestTotalFame>20</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x332">
+        <BestLevel>20</BestLevel>
+        <BestBaseFame>62241</BestBaseFame>
+        <BestTotalFame>62241</BestTotalFame>
+      </ClassStats>
+      <ClassStats objectType="0x333">
+        <BestLevel>1</BestLevel>
+        <BestBaseFame>0</BestBaseFame>
+        <BestTotalFame>0</BestTotalFame>
+      </ClassStats>
+      <BestCharFame>71847</BestCharFame>
+      <TotalFame>421183</TotalFame>
+      <Fame>729</Fame>
+    </Stats>
+    <Guild id="421212748232">
+      <Name>GuildName</Name>
+      <Rank>20</Rank>
+    </Guild>
+    <AccessToken/>
+    <AccessTokenTimestamp>0</AccessTokenTimestamp>
+    <AccessTokenExpiration>86400</AccessTokenExpiration>
+    <OwnedSkins>872,856,29770,902,19427,19432,19428,888,29799,913,29801,29815,851,29809,900,8969,8968,29790,32654,5860,9314,24593,9143,807,885,10971,10169,10209,30813,915,29845,19546,31282,31288,31422,31440,31340,30737,31496,50862,30960,19540,9441,10967,19548,30950,10199,30942,6026,52046,9501,51501,51369,9513,30954,9519,32677,30948</OwnedSkins>
+    <OwnedTitles>39441,39436,51276,39435,39421,39424,39429,39437,39425,4066,4067,41373,39438,39440,39439,39442,39434,39446</OwnedTitles>
+    <OwnedEmotes>49773,51337,49317,49321,49320</OwnedEmotes>
+    <OwnedEntrances>1996</OwnedEntrances>
+    <Discoverable/>
+    <DiscoveryIcon>46</DiscoveryIcon>
+  </Account>
+  <News>
+    <Item>
+      <Icon>fame</Icon>
+      <Title>Your Paladin died at level 20</Title>
+      <Seasonal>False</Seasonal>
+      <TagLine>You earned 13311 glorious Fame</TagLine>
+      <Link>fame:566</Link>
+      <Date>1363110134</Date>
+    </Item>
+    <Item>
+      <Icon>fame</Icon>
+      <Title>Your Sorcerer died at level 20</Title>
+      <Seasonal>False</Seasonal>
+      <TagLine>You earned 3812 glorious Fame</TagLine>
+      <Link>fame:515</Link>
+      <Date>1684249507</Date>
+    </Item>
+  </News>
+  <Servers>
+    <Server>
+      <Name>EUEast</Name>
+      <DNS>18.184.218.174</DNS>
+      <Lat>54.69</Lat>
+      <Long>25.28</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>EUSouthWest</Name>
+      <DNS>35.180.67.120</DNS>
+      <Lat>48.86</Lat>
+      <Long>2.35</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USEast2</Name>
+      <DNS>54.209.152.223</DNS>
+      <Lat>0.00</Lat>
+      <Long>0.00</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>EUNorth</Name>
+      <DNS>18.159.133.120</DNS>
+      <Lat>59.33</Lat>
+      <Long>18.06</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USEast</Name>
+      <DNS>54.234.226.24</DNS>
+      <Lat>42.36</Lat>
+      <Long>-71.06</Long>
+      <Usage>0.75</Usage>
+    </Server>
+    <Server>
+      <Name>USWest4</Name>
+      <DNS>54.235.235.140</DNS>
+      <Lat>0.00</Lat>
+      <Long>0.00</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>EUWest2</Name>
+      <DNS>52.16.86.215</DNS>
+      <Lat>51.51</Lat>
+      <Long>-0.13</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>Asia</Name>
+      <DNS>3.0.147.127</DNS>
+      <Lat>1.35</Lat>
+      <Long>103.82</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USSouth3</Name>
+      <DNS>52.207.206.31</DNS>
+      <Lat>-30.03</Lat>
+      <Long>-51.23</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>EUWest</Name>
+      <DNS>15.237.60.223</DNS>
+      <Lat>53.48</Lat>
+      <Long>-2.23</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USWest</Name>
+      <DNS>54.86.47.176</DNS>
+      <Lat>37.34</Lat>
+      <Long>-121.89</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USMidWest2</Name>
+      <DNS>3.140.254.133</DNS>
+      <Lat>41.88</Lat>
+      <Long>-87.63</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USMidWest</Name>
+      <DNS>18.221.120.59</DNS>
+      <Lat>41.88</Lat>
+      <Long>-87.63</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USSouth</Name>
+      <DNS>3.82.126.16</DNS>
+      <Lat>35.23</Lat>
+      <Long>-80.84</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USWest3</Name>
+      <DNS>18.144.30.153</DNS>
+      <Lat>37.76</Lat>
+      <Long>-121.95</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>Australia</Name>
+      <DNS>3.107.164.237</DNS>
+      <Lat>-33.87</Lat>
+      <Long>151.21</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USSouthWest</Name>
+      <DNS>54.153.13.68</DNS>
+      <Lat>32.80</Lat>
+      <Long>-96.77</Long>
+      <Usage>0.00</Usage>
+    </Server>
+    <Server>
+      <Name>USNorthWest</Name>
+      <DNS>34.238.176.119</DNS>
+      <Lat>42.33</Lat>
+      <Long>-122.88</Long>
+      <Usage>0.00</Usage>
+    </Server>
+  </Servers>
+  <Lat>37.77</Lat>
+  <Long>-122.42</Long>
+  <ClassAvailabilityList>
+    <ClassAvailability id="Rogue">unrestricted</ClassAvailability>
+    <ClassAvailability id="Archer">unrestricted</ClassAvailability>
+    <ClassAvailability id="Wizard">unrestricted</ClassAvailability>
+    <ClassAvailability id="Priest">unrestricted</ClassAvailability>
+    <ClassAvailability id="Warrior">unrestricted</ClassAvailability>
+    <ClassAvailability id="Knight">unrestricted</ClassAvailability>
+    <ClassAvailability id="Paladin">unrestricted</ClassAvailability>
+    <ClassAvailability id="Assassin">unrestricted</ClassAvailability>
+    <ClassAvailability id="Necromancer">unrestricted</ClassAvailability>
+    <ClassAvailability id="Huntress">unrestricted</ClassAvailability>
+    <ClassAvailability id="Mystic">unrestricted</ClassAvailability>
+    <ClassAvailability id="Trickster">unrestricted</ClassAvailability>
+    <ClassAvailability id="Sorcerer">unrestricted</ClassAvailability>
+    <ClassAvailability id="Ninja">unrestricted</ClassAvailability>
+    <ClassAvailability id="Samurai">unrestricted</ClassAvailability>
+    <ClassAvailability id="Bard">unrestricted</ClassAvailability>
+    <ClassAvailability id="Summoner">unrestricted</ClassAvailability>
+    <ClassAvailability id="Kensei">unrestricted</ClassAvailability>
+    <ClassAvailability id="Druid">unrestricted</ClassAvailability>
+  </ClassAvailabilityList>
+  <ItemCosts>
+    <ItemCost type="10971" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="848" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="914" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="836" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="29813" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="10962" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="19372" purchasable="0" expires="0">5000</ItemCost>
+    <ItemCost type="850" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="10965" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="872" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="32677" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="10969" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="9012" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="32658" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19421" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="8967" purchasable="1" expires="0">1500</ItemCost>
+    <ItemCost type="853" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="10972" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="29816" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="838" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="8965" purchasable="1" expires="0">1500</ItemCost>
+    <ItemCost type="32675" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="10963" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="883" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="29790" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="9032" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="19410" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19411" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19423" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="19387" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19155" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="5859" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="917" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="8979" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="29771" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="6022" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="8969" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="845" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="9014" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="19393" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="29817" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="19430" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="19374" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="8976" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="5863" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="19385" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="6025" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="9013" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="899" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="8855" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="846" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="19431" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="834" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="10973" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="913" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="916" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="29808" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="8966" purchasable="1" expires="0">1500</ItemCost>
+    <ItemCost type="19157" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="10964" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="9031" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="313" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19404" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="19413" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19417" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19419" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="852" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="5864" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="29842" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="884" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="849" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="10967" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19156" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="905" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="837" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="29811" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="19409" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19418" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19422" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="915" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="840" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="29800" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="854" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="32654" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="885" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="10974" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="32676" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="19390" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="32656" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="9030" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="19425" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="29840" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="29809" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="29841" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="847" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="19153" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="19394" purchasable="0" expires="0">5000</ItemCost>
+    <ItemCost type="856" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="10959" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="19432" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="6026" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="842" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="5862" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19158" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="9028" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="29810" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="32766" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="898" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="19427" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="19433" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19388" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="5865" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="10960" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="8968" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="10968" purchasable="0" expires="0">5000</ItemCost>
+    <ItemCost type="19152" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="32657" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="29815" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="844" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="9026" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="19391" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="5866" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="19412" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19429" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="29818" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="5861" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19373" purchasable="0" expires="0">5000</ItemCost>
+    <ItemCost type="902" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="839" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="5860" purchasable="0" expires="0">5000</ItemCost>
+    <ItemCost type="8964" purchasable="1" expires="0">1500</ItemCost>
+    <ItemCost type="19159" purchasable="0" expires="0">5000</ItemCost>
+    <ItemCost type="903" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="2521" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="19415" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19424" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="843" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="901" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="29801" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="29789" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="6023" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="19370" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="29848" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="8977" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="900" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="9027" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="19392" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19154" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19428" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="912" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="19375" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="29791" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="10970" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="29770" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="19389" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="6024" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="9029" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="841" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="29814" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="19426" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="855" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="19371" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="29799" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="312" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="851" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="10961" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="888" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="835" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="10966" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="904" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="19403" purchasable="0" expires="0">1500</ItemCost>
+    <ItemCost type="19414" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19416" purchasable="0" expires="0">2000</ItemCost>
+    <ItemCost type="19420" purchasable="1" expires="0">2000</ItemCost>
+    <ItemCost type="5909" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="6007" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10941" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5911" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="6001" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10934" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5968" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="6006" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10942" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5880" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="6004" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10931" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5969" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5998" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10940" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5913" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5996" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10938" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5881" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="6002" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10936" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5879" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="6003" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10932" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5914" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5995" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10943" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5910" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5999" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10933" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5915" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5997" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10944" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5970" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="6005" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10935" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5878" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="6000" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10930" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5912" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="5994" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="10937" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="32701" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="32718" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="29786" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="29844" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="29847" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="29846" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="29843" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="29845" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="1025" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="29787" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="8614" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="29788" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="1026" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="1030" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="1028" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="1027" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="1029" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="19407" purchasable="0" expires="0">100000</ItemCost>
+    <ItemCost type="8766" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="9365" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="30723" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="40912" purchasable="1" expires="0">900</ItemCost>
+    <ItemCost type="30938" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30940" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30942" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30944" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30946" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30948" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30950" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30952" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30954" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30956" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30958" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30960" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30962" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30964" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30966" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30968" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="30970" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="31240" purchasable="1" expires="0">800</ItemCost>
+    <ItemCost type="39421" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39422" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39423" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39424" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39425" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39426" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39427" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39428" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39429" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39430" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39431" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39432" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39433" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39434" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39435" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39436" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39437" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39438" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39439" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39440" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39441" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39442" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39443" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39444" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39445" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39446" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39447" purchasable="0" expires="0">0</ItemCost>
+    <ItemCost type="39448" purchasable="0" expires="0">0</ItemCost>
+    <ItemCost type="39457" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="39458" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="4066" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="4067" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="41373" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="49317" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="49318" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="49319" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="49320" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="49321" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="49773" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="12628" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="5170" purchasable="1" expires="0">0</ItemCost>
+    <ItemCost type="12629" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12630" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12631" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12632" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12633" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12634" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12635" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12636" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12637" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12638" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12639" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12640" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12641" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12642" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12643" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12644" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12645" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12646" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12647" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12648" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12649" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12650" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12651" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12652" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12653" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12654" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12655" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12656" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12657" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12658" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12659" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12660" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12661" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12662" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12663" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12664" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12665" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12666" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12667" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12668" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12669" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12670" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12671" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12672" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12673" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12674" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12675" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12676" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12677" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12678" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12679" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12680" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12681" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12682" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12683" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12684" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12685" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12686" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12687" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12688" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12689" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12690" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12691" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12692" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12693" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12694" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12695" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12696" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12697" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12698" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12699" purchasable="1" expires="0">450</ItemCost>
+    <ItemCost type="12700" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12701" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12702" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12703" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12704" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12705" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12706" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12707" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12708" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12709" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12710" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12711" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12712" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12713" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12714" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12715" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12716" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12717" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12718" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12720" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12721" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12722" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12723" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12724" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12725" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12726" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12727" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12728" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12729" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12730" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12731" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12732" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12733" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12734" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12735" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12736" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12737" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12738" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12739" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12740" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12741" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12742" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12743" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12744" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12745" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12746" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12747" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12748" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12749" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12750" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12751" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12752" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12753" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12754" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12755" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12756" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12757" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12758" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12759" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12760" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12761" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12762" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12763" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12764" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12765" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12766" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12767" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12768" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12769" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12770" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12771" purchasable="1" expires="0">600</ItemCost>
+    <ItemCost type="12772" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12773" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12774" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12775" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12776" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12777" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12778" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12779" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12780" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12781" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12782" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12783" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12784" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12785" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12786" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12787" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12788" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12789" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12790" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12791" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12792" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12793" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12794" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12795" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12796" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12797" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12798" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12799" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12800" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12801" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12802" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12803" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12804" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12805" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12806" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12807" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12808" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12809" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12810" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12811" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12812" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12813" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12814" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12815" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12816" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12817" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12818" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12819" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12820" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12821" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12822" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12823" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12824" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12825" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12826" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12827" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12828" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12829" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12830" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12831" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12832" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12833" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12834" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12835" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12836" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12837" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12838" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12839" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12840" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12841" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12842" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12843" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12844" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12845" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12846" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12847" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12848" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12849" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12850" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12851" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12852" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12853" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12854" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12855" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12856" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12857" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12858" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12859" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12860" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12861" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12862" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12863" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12864" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12865" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12866" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12867" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12868" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12869" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12870" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12871" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12872" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12873" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12874" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12875" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12876" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12877" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12878" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12879" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12880" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12881" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12882" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12883" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12884" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12885" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12886" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12887" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12888" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12889" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12890" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12891" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12892" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12893" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12894" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12895" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12896" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12897" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12898" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12899" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12900" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12901" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12902" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12903" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12904" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12905" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12906" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12907" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12908" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12909" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12910" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12911" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12912" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12913" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12914" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12915" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12916" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12917" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12918" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12919" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12920" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12921" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12922" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12923" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12924" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12925" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12926" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12927" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12928" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12929" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12930" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12931" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12932" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12933" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12934" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12935" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12936" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12937" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12938" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12939" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12940" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12941" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12942" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12991" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12992" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12993" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="15039" purchasable="1" expires="0">200</ItemCost>
+    <ItemCost type="15040" purchasable="1" expires="0">220</ItemCost>
+    <ItemCost type="15041" purchasable="1" expires="0">240</ItemCost>
+    <ItemCost type="15042" purchasable="1" expires="0">260</ItemCost>
+    <ItemCost type="15043" purchasable="1" expires="0">280</ItemCost>
+    <ItemCost type="15044" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="15045" purchasable="1" expires="0">320</ItemCost>
+    <ItemCost type="15046" purchasable="1" expires="0">340</ItemCost>
+    <ItemCost type="15047" purchasable="1" expires="0">360</ItemCost>
+    <ItemCost type="15048" purchasable="1" expires="0">380</ItemCost>
+    <ItemCost type="15049" purchasable="1" expires="0">400</ItemCost>
+    <ItemCost type="15050" purchasable="1" expires="0">200</ItemCost>
+    <ItemCost type="15051" purchasable="1" expires="0">220</ItemCost>
+    <ItemCost type="15052" purchasable="1" expires="0">240</ItemCost>
+    <ItemCost type="15053" purchasable="1" expires="0">260</ItemCost>
+    <ItemCost type="15054" purchasable="1" expires="0">280</ItemCost>
+    <ItemCost type="15055" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="15056" purchasable="1" expires="0">320</ItemCost>
+    <ItemCost type="15057" purchasable="1" expires="0">340</ItemCost>
+    <ItemCost type="15058" purchasable="1" expires="0">360</ItemCost>
+    <ItemCost type="15059" purchasable="1" expires="0">380</ItemCost>
+    <ItemCost type="15060" purchasable="1" expires="0">400</ItemCost>
+    <ItemCost type="15061" purchasable="1" expires="0">200</ItemCost>
+    <ItemCost type="15062" purchasable="1" expires="0">220</ItemCost>
+    <ItemCost type="15063" purchasable="1" expires="0">240</ItemCost>
+    <ItemCost type="15064" purchasable="1" expires="0">260</ItemCost>
+    <ItemCost type="15065" purchasable="1" expires="0">280</ItemCost>
+    <ItemCost type="15066" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="15067" purchasable="1" expires="0">320</ItemCost>
+    <ItemCost type="15068" purchasable="1" expires="0">340</ItemCost>
+    <ItemCost type="15069" purchasable="1" expires="0">360</ItemCost>
+    <ItemCost type="15070" purchasable="1" expires="0">380</ItemCost>
+    <ItemCost type="15071" purchasable="1" expires="0">400</ItemCost>
+    <ItemCost type="6231" purchasable="1" expires="0">200</ItemCost>
+    <ItemCost type="6232" purchasable="1" expires="0">220</ItemCost>
+    <ItemCost type="6233" purchasable="1" expires="0">240</ItemCost>
+    <ItemCost type="6234" purchasable="1" expires="0">260</ItemCost>
+    <ItemCost type="6235" purchasable="1" expires="0">280</ItemCost>
+    <ItemCost type="6236" purchasable="1" expires="0">300</ItemCost>
+    <ItemCost type="6237" purchasable="1" expires="0">320</ItemCost>
+    <ItemCost type="6238" purchasable="1" expires="0">340</ItemCost>
+    <ItemCost type="6239" purchasable="1" expires="0">360</ItemCost>
+    <ItemCost type="6240" purchasable="1" expires="0">380</ItemCost>
+    <ItemCost type="6241" purchasable="1" expires="0">400</ItemCost>
+    <ItemCost type="12627" purchasable="1" expires="0">50</ItemCost>
+    <ItemCost type="51924" purchasable="1" expires="0">3000</ItemCost>
+    <ItemCost type="51923" purchasable="1" expires="0">2400</ItemCost>
+    <ItemCost type="51892" purchasable="1" expires="0">2400</ItemCost>
+    <ItemCost type="1994" purchasable="1" expires="0">800</ItemCost>
+    <ItemCost type="1995" purchasable="1" expires="0">800</ItemCost>
+    <ItemCost type="1996" purchasable="1" expires="0">800</ItemCost>
+    <ItemCost type="1997" purchasable="1" expires="0">800</ItemCost>
+    <ItemCost type="1998" purchasable="1" expires="0">800</ItemCost>
+    <ItemCost type="1999" purchasable="1" expires="0">800</ItemCost>
+    <ItemCost type="2000" purchasable="1" expires="0">800</ItemCost>
+    <ItemCost type="2001" purchasable="1" expires="0">800</ItemCost>
+    <ItemCost type="2446" purchasable="1" expires="0">2400</ItemCost>
+    <ItemCost type="2444" purchasable="1" expires="0">3000</ItemCost>
+    <ItemCost type="2002" purchasable="1" expires="0">3000</ItemCost>
+    <ItemCost type="2445" purchasable="1" expires="0">4200</ItemCost>
+    <ItemCost type="2005" purchasable="1" expires="0">3000</ItemCost>
+    <ItemCost type="2004" purchasable="1" expires="0">2400</ItemCost>
+    <ItemCost type="2003" purchasable="1" expires="0">2400</ItemCost>
+    <ItemCost type="12961" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12962" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12963" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12964" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12965" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="12966" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13006" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13007" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13008" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13012" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13013" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13014" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13018" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13019" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13020" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13024" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13025" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13026" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13030" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13031" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13032" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13036" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13037" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13038" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13042" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13043" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="13044" purchasable="1" expires="0">750</ItemCost>
+    <ItemCost type="51966" purchasable="1" expires="0">2400</ItemCost>
+    <ItemCost type="51965" purchasable="1" expires="0">2400</ItemCost>
+    <ItemCost type="51718" purchasable="1" expires="0">1500</ItemCost>
+  </ItemCosts>
+  <PowerUpStats>
+    <ClassStats class="785">4,0,0,0,0,0,0,0</ClassStats>
+    <ClassStats class="818">1,2,2,3,8,0,7,20</ClassStats>
+    <ClassStats class="804">75,750,83,102,76,84,81,97</ClassStats>
+    <ClassStats class="805">2,3,0,0,3,1,3,2</ClassStats>
+    <ClassStats class="768">0,35,55,0,57,3,3,3</ClassStats>
+    <ClassStats class="775">8,2,0,0,8,0,4,23</ClassStats>
+    <ClassStats class="782">121,122,169,130,146,100,114,108</ClassStats>
+    <ClassStats class="797">4,1,2,9,4,0,3,5</ClassStats>
+    <ClassStats class="799">81,76,72,82,124,152,91,75</ClassStats>
+    <ClassStats class="801">90,93,101,114,108,93,151,90</ClassStats>
+    <ClaimedItem>30314</ClaimedItem>
+    <ClaimedItem>30311</ClaimedItem>
+    <ClaimedItem>30317</ClaimedItem>
+    <ClaimedItem>9514</ClaimedItem>
+    <ClaimedItem>9502</ClaimedItem>
+    <ClaimedItem>9520</ClaimedItem>
+  </PowerUpStats>
+  <HasTemporaryGifts/>
+  <MaxClassLevelList>
+    <MaxClassLevel classType="768" maxLevel="20"/>
+    <MaxClassLevel classType="801" maxLevel="20"/>
+    <MaxClassLevel classType="802" maxLevel="20"/>
+    <MaxClassLevel classType="803" maxLevel="20"/>
+    <MaxClassLevel classType="804" maxLevel="20"/>
+    <MaxClassLevel classType="805" maxLevel="20"/>
+    <MaxClassLevel classType="806" maxLevel="20"/>
+    <MaxClassLevel classType="775" maxLevel="20"/>
+    <MaxClassLevel classType="800" maxLevel="20"/>
+    <MaxClassLevel classType="782" maxLevel="20"/>
+    <MaxClassLevel classType="784" maxLevel="20"/>
+    <MaxClassLevel classType="785" maxLevel="20"/>
+    <MaxClassLevel classType="818" maxLevel="20"/>
+    <MaxClassLevel classType="817" maxLevel="20"/>
+    <MaxClassLevel classType="796" maxLevel="1"/>
+    <MaxClassLevel classType="797" maxLevel="20"/>
+    <MaxClassLevel classType="798" maxLevel="20"/>
+    <MaxClassLevel classType="799" maxLevel="20"/>
+    <MaxClassLevel classType="819" maxLevel="1"/>
+  </MaxClassLevelList>
+  <Timestamp>1773406512</Timestamp>
+  <DLDLogin/>
+  <PetInvUpgradeCosts>100;150;200;250;300;350;400;450</PetInvUpgradeCosts>
+</Chars>
