@@ -174,7 +174,7 @@ Please note that DECA can add or remove links at any time.
 * [`getForClient`](responses/calendar/getForClient.json) => guid, accessToken
 
 ``char/``
- * ``list`` => guid, password, [challenger (false/true)][muleDump (true/false)]
+* [`list`](responses/char/list.xml) => accessToken
 * [`fame`](responses/char/fame.xml) => accessToken OR guid & password, accountId, charId
  * ``*purchase``
  * ``*get``
