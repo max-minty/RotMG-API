@@ -134,7 +134,6 @@ Please note that DECA can add or remove links at any time.
  * ``playFortuneGame`` => choice, status, currency (2 for fortune tokens or 0 for gold)
  * ``rp`` => a, b
  * [`setName`](responses/account/setName.xml) => accessToken, name
- * ``setName`` => guid, password, name
  * ``validateEmail`` (removed, changed to isEmailVerified)
  * ``supportVerify`` => guid, password, secret
  * ``*addStar``
