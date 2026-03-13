@@ -1,0 +1,50 @@
+<!-- Graveyard API -->
+<?xml version="1.0"?>
+<Fame>
+  <Char id="58">
+    <ObjectType>801</ObjectType>
+    <Level>1</Level>
+    <Exp>5</Exp>
+    <MaxHitPoints>100</MaxHitPoints>
+    <HitPoints>0</HitPoints>
+    <MaxMagicPoints>100</MaxMagicPoints>
+    <MagicPoints>100</MagicPoints>
+    <Attack>12</Attack>
+    <Defense>0</Defense>
+    <Speed>10</Speed>
+    <Dexterity>15</Dexterity>
+    <HpRegen>10</HpRegen>
+    <MpRegen>12</MpRegen>
+    <PCStats>AAAAAF4BAADMABAAAAAAAQ==</PCStats>
+    <Account>
+      <Name>JaneDoe</Name>
+    </Account>
+    <BackpackSlots>0</BackpackSlots>
+    <Equipment>2711,2730,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1</Equipment>
+    <UniqueItemInfo/>
+    <PowerUpStats>
+      <ClassStats class="785">4,0,0,0,0,0,0,0</ClassStats>
+      <ClassStats class="818">1,2,2,3,8,0,7,20</ClassStats>
+      <ClassStats class="804">75,750,83,102,76,84,81,97</ClassStats>
+      <ClassStats class="805">2,3,0,0,3,1,3,2</ClassStats>
+      <ClassStats class="768">0,35,55,0,57,3,3,3</ClassStats>
+      <ClassStats class="775">8,2,0,0,8,0,4,23</ClassStats>
+      <ClassStats class="782">121,122,169,130,146,100,114,108</ClassStats>
+      <ClassStats class="797">4,1,2,9,4,0,3,5</ClassStats>
+      <ClassStats class="799">81,76,72,82,124,152,91,75</ClassStats>
+      <ClassStats class="801">90,93,101,114,108,93,151,90</ClassStats>
+      <ClaimedItem>30314</ClaimedItem>
+      <ClaimedItem>30311</ClaimedItem>
+      <ClaimedItem>30317</ClaimedItem>
+      <ClaimedItem>9514</ClaimedItem>
+      <ClaimedItem>9502</ClaimedItem>
+      <ClaimedItem>9520</ClaimedItem>
+    </PowerUpStats>
+  </Char>
+  <Version>0</Version>
+  <BaseFame>0</BaseFame>
+  <TotalFame>0</TotalFame>
+  <PrevAccountTotalFame>82</PrevAccountTotalFame>
+  <CreatedOn>1327245147</CreatedOn> <!-- Unix Timestamp -->
+  <KilledBy>{mountains.Ent_God}</KilledBy>
+</Fame>
