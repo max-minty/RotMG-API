@@ -1,5 +1,4 @@
-<!-- NOTE: This isn't the Graveyard Endpoint that everyone keeps mistakening for -->
-<!-- NOTE: It originally was, but was moved to a new endpoint when accessTokens were introduced -->
+<!-- Graveyard API -->
 <!-- Requires AccessToken OR GUID/PASSWORD. Can only fetch your own data -->
 <?xml version="1.0"?>
 <Fame>
