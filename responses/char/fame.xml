@@ -45,7 +45,10 @@
   <Version>0</Version>
   <BaseFame>0</BaseFame>
   <TotalFame>0</TotalFame>
-  <PrevAccountTotalFame>82</PrevAccountTotalFame>
+  <PrevAccountTotalFame>2430</PrevAccountTotalFame>
+  <Bonuses>Maxed_Life,1,3916,Maxed_Mana,1,3916,Maxed_Attack,1,1958,Maxed_Defense,1,1958,Maxed_Speed,1,1958,Maxed_Dexterity,1,1958,Maxed_Vitality,1,1958,Maxed_Wisdom,1,1958,Traveler,1,20,Mapper,1,100,Explorer,1,400,PursuerofDeeds,1,20,DoerofDeeds,1,200,PerformerofDeeds,1,800,CombatNovice,1,20,CombatBeginner,1,100,Supporter,1,20,Collaborator,1,50,PotionDrinker
+  ,1,20,PotionEnthusiast,1,50,AbilityNeophyte,1,20,AbilityApprentice,1,50,AbilityAce,1,200,AbilityExpert,1,400,MonsterFoe,1,20,MonsterAdversary,1,50,MonsterSlayer,1,200,GodFoe,1,20,LesserGodFoe,1,20,LesserGodAdversary,1,100,LesserGodSlayer,1,400,OryxFoe,1,200,CritterFoe
+  ,1,20,CritterAdversary,1,100,BeastFoe,1,20,BeastAdversary,1,100,HumanoidFoe,1,20,HunamoidAdversary,1,100,NatureFoe,1,20,ConstructFoe,1,20,ConstructAdversary,1,100,ConstructSlayer,1,400,GrotesqueFoe,1,20,StructureFoe,1,20,StructureAdversary,1,100,TheHiveScout,1,4,SpriteWorldScout,1,25,MagicWoodsScout,1,35,UndeadLairScout,1,35,MadLabScout,1,50,CandylandHuntingGroundsScout,1,60,ParasiteChambersScout,1,150,DeadwaterDocksScout,1,100,MountainTempleScout,1,150,LairofDraconisScout,1,175,IceCaveScout,1,125,TheShattersScout,1,500,TheShattersExplorer,1,1000,TheNestScout,1,200,TheNestExplorer,1,400,TheNestAdventurer,1,800,TheNestConqueror,1,1600,FungalCavernScout,1,250,FungalCavernExplorer,1,500,FungalCavernAdventurer,1,1000,FungalCavernConqueror,1,2000,CrystalCavernScout,1,300,CrystalCavernExplorer,1,600,CrystalCavernAdventurer,1,1200,LostHallsScout,1,300,LostHallsExplorer,1,600,LostHallsAdventurer,1,1200,LostHallsConqueror,1,2400,CultistHideoutScout,1,350,CultistHideoutExplorer,1,700,CultistHideoutAdventurer,1,1500,CultistHideoutConqueror,1,3000,TheVoidScout,1,400,TheVoidExplorer,1,800,TheVoidAdventurer,1,1600,TheVoidConqueror,1,3200,KogboldSteamworksScout,1,400,KogboldSteamworksExplorer,1,800,KogboldSteamworksAdventurer,1,1600,SpectralPenitentiaryScout,1,300,MoonlightVillageScout,1,300,AdvancedKogboldSteamworksScout,1,400,AdvancedKogboldSteamworksExplorer,1,800,AdvancedKogboldSteamworksAdventurer,1,1600,AdvancedNestScout,1,200,Oryx'sCastleScout,1,100,HighTechTerrorScout,1,125,Oryx'sChamberScout,1,125,WineCellarScout,1,200</Bonuses>
   <CreatedOn>1327245147</CreatedOn> <!-- Unix Timestamp -->
-  <KilledBy>{mountains.Ent_God}</KilledBy>
+  <KilledBy>LH Grotto Blob</KilledBy>
 </Fame>
