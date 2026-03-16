@@ -34,6 +34,7 @@
       <ClassStats class="797">4,1,2,9,4,0,3,5</ClassStats>
       <ClassStats class="799">81,76,72,82,124,152,91,75</ClassStats>
       <ClassStats class="801">90,93,101,114,108,93,151,90</ClassStats>
+      <!-- ItemID of Exaltation Rewards you have claimed -->
       <ClaimedItem>30314</ClaimedItem>
       <ClaimedItem>30311</ClaimedItem>
       <ClaimedItem>30317</ClaimedItem>
