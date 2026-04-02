@@ -248,6 +248,9 @@ Please note that DECA can add or remove links at any time.
 * [`getCompetitionScore`](responses/missions/getCompetitionScore.xml) => accessToken (responds with nothing if no Competition / Community Event active)
 * [`getPlayerMissions`](responses/missions/getPlayerMissions.xml) => accessToken
 
+``newsletterRewards/``
+* [`getConfig`](responses/newsletterRewards/getConfig.json) => accessToken
+
 ``pet/``
  * ``*feed``
  * ``*get`` => *`Missing Parameters`*
