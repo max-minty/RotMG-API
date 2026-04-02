@@ -1,0 +1,236 @@
+<!-- List of Obtained Steam Achievements on Steam Account -->
+<!-- Ref. achievements/getDefinitionsClient for Achievements -->
+<!-- 1 = Exalt, 2 = Steam -->
+
+<!-- EXALT ACCOUNT -->
+{
+	"accountId": 5123123712734,
+	"platformId": 1,
+	"definitions": []
+}
+
+
+<!-- STEAM ACCOUNT -->
+{
+	"accountId": 512321512312321,
+	"platformId": 2,
+	"progress": [
+		{
+			"id": 28,
+			"progressValue": 5,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 32,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 8,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 38,
+			"progressValue": 209056,
+			"unlocked": true,
+			"unlockedAt": 1774407333,
+			"stateData": ""
+		},
+		{
+			"id": 2,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 37,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407333,
+			"stateData": ""
+		},
+		{
+			"id": 12,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 143,
+			"progressValue": 100,
+			"unlocked": true,
+			"unlockedAt": 1774407333,
+			"stateData": ""
+		},
+		{
+			"id": 30,
+			"progressValue": 18,
+			"unlocked": false,
+			"unlockedAt": 0,
+			"stateData": ""
+		},
+		{
+			"id": 34,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 9,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 40,
+			"progressValue": 209056,
+			"unlocked": true,
+			"unlockedAt": 1774407333,
+			"stateData": ""
+		},
+		{
+			"id": 4,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 15,
+			"progressValue": 209056,
+			"unlocked": true,
+			"unlockedAt": 1774407333,
+			"stateData": ""
+		},
+		{
+			"id": 11,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 27,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 29,
+			"progressValue": 10,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 33,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 7,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 39,
+			"progressValue": 209056,
+			"unlocked": true,
+			"unlockedAt": 1774407333,
+			"stateData": ""
+		},
+		{
+			"id": 1,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 13,
+			"progressValue": 20,
+			"unlocked": true,
+			"unlockedAt": 1774407333,
+			"stateData": ""
+		},
+		{
+			"id": 10,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 3,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 35,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 6,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 142,
+			"progressValue": 100,
+			"unlocked": true,
+			"unlockedAt": 1774407333,
+			"stateData": ""
+		},
+		{
+			"id": 5,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 16,
+			"progressValue": 209056,
+			"unlocked": true,
+			"unlockedAt": 1774407333,
+			"stateData": ""
+		},
+		{
+			"id": 31,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		},
+		{
+			"id": 14,
+			"progressValue": 1,
+			"unlocked": true,
+			"unlockedAt": 1774407332,
+			"stateData": ""
+		}
+	]
+}
