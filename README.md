@@ -169,6 +169,10 @@ Please note that DECA can add or remove links at any time.
 ``accountLevelRewards/``
 * [`getConfig`](responses/accountLevelRewards/getConfig.json) => accessToken
 
+``achievements/``
+* [`getDefinitionsClient`](responses/achievements/getDefinitionsClient.json) => accessToken (req. Steam Acc accessToken)
+* [`getPlayerAchievements`](responses/achievements/getPlayerAchievements.json) => accessToken (req. Steam Acc accessToken)
+
 ``calendar/``
 * [`getForClient`](responses/calendar/getForClient.json) => guid, accessToken
 
