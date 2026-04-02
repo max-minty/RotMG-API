@@ -1,0 +1,1812 @@
+<!-- List of Obtained Steam Achievements on Steam Account -->
+<!-- Ref. achievements/getDefinitionsClient for Achievements -->
+<!-- 1 = Exalt, 2 = Steam -->
+
+<!-- EXALT ACCOUNT -->
+{
+	"accountId": 5123123712734,
+	"platformId": 1,
+	"definitions": []
+}
+
+
+<!-- STEAM ACCOUNT -->
+{
+	"accountId": 581283172381273,
+	"platformId": 2,
+	"definitions": [
+		{
+			"id": 27,
+			"progressStatName": "TutorialCompletedCount",
+			"targetValue": 1,
+			"steamApiName": "TheChallengeBegins",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 14,
+			"progressStatName": "",
+			"targetValue": 1,
+			"steamApiName": "Ancestor",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 28,
+			"progressStatName": "ClassesUnlockedCount",
+			"targetValue": 5,
+			"steamApiName": "NewRecruits",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 29,
+			"progressStatName": "ClassesUnlockedCount",
+			"targetValue": 10,
+			"steamApiName": "WhatABunch",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 30,
+			"progressStatName": "ClassesUnlockedCount",
+			"targetValue": 19,
+			"steamApiName": "TheFullRoster",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 3,
+			"progressStatName": "PriestUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedPriest",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 2,
+			"progressStatName": "ArcherUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedArcher",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 1,
+			"progressStatName": "RogueUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedRogue",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 4,
+			"progressStatName": "WarriorUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedWarrior",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 5,
+			"progressStatName": "KnightUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedKnight",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 8,
+			"progressStatName": "NecromancerUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedNecromancer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 7,
+			"progressStatName": "AssassinUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedAssassin",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 9,
+			"progressStatName": "HuntressUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedHuntress",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 6,
+			"progressStatName": "PaladinUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedPaladin",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 12,
+			"progressStatName": "SorcererUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedSorcerer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 10,
+			"progressStatName": "MysticUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedMystic",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 11,
+			"progressStatName": "TricksterUnlocked",
+			"targetValue": 1,
+			"steamApiName": "UnlockedTrickster",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 31,
+			"progressStatName": "WizardUnlocked",
+			"targetValue": 1,
+			"steamApiName": "Spellbound",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 32,
+			"progressStatName": "NinjaUnlocked",
+			"targetValue": 1,
+			"steamApiName": "SilentStrike",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 33,
+			"progressStatName": "SamuraiUnlocked",
+			"targetValue": 1,
+			"steamApiName": "Honored",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 34,
+			"progressStatName": "BardUnlocked",
+			"targetValue": 1,
+			"steamApiName": "Harmonized",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 35,
+			"progressStatName": "SummonerUnlocked",
+			"targetValue": 1,
+			"steamApiName": "NeverAlone",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 36,
+			"progressStatName": "KenseiUnlocked",
+			"targetValue": 1,
+			"steamApiName": "Untouchable",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 37,
+			"progressStatName": "DruidUnlocked",
+			"targetValue": 1,
+			"steamApiName": "FormShifter",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 13,
+			"progressStatName": "BestLevel",
+			"targetValue": 20,
+			"steamApiName": "ReachedLevel20",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 15,
+			"progressStatName": "BestFame",
+			"targetValue": 500,
+			"steamApiName": "NotableAncestor",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 16,
+			"progressStatName": "BestFame",
+			"targetValue": 1000,
+			"steamApiName": "FamousAncestor",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 38,
+			"progressStatName": "BestFame",
+			"targetValue": 5000,
+			"steamApiName": "FabledAncestor",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 39,
+			"progressStatName": "BestFame",
+			"targetValue": 10000,
+			"steamApiName": "LegendaryAncestor",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 40,
+			"progressStatName": "BestFame",
+			"targetValue": 20000,
+			"steamApiName": "MythicAncestor",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 17,
+			"progressStatName": "NumStars",
+			"targetValue": 19,
+			"steamApiName": "BlueStar",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 18,
+			"progressStatName": "NumStars",
+			"targetValue": 38,
+			"steamApiName": "RedStar",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 19,
+			"progressStatName": "NumStars",
+			"targetValue": 57,
+			"steamApiName": "OrangeStar",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 20,
+			"progressStatName": "NumStars",
+			"targetValue": 76,
+			"steamApiName": "YellowStar",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 21,
+			"progressStatName": "NumStars",
+			"targetValue": 95,
+			"steamApiName": "WhiteStar",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 41,
+			"progressStatName": "ClassesExaltedCount",
+			"targetValue": 1,
+			"steamApiName": "TheExaltedOne",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 42,
+			"progressStatName": "ClassesExaltedCount",
+			"targetValue": 5,
+			"steamApiName": "TheExaltedFew",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 43,
+			"progressStatName": "ClassesExaltedCount",
+			"targetValue": 10,
+			"steamApiName": "TheExaltedMany",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 44,
+			"progressStatName": "ClassesExaltedCount",
+			"targetValue": 19,
+			"steamApiName": "PantheonOfHeroes",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 45,
+			"progressStatName": "DungeonsCompleted",
+			"targetValue": 10,
+			"steamApiName": "DungeonExplorer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 46,
+			"progressStatName": "DungeonsCompleted",
+			"targetValue": 50,
+			"steamApiName": "DungeonAdventurer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 47,
+			"progressStatName": "DungeonsCompleted",
+			"targetValue": 100,
+			"steamApiName": "DungeonMaster",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 48,
+			"progressStatName": "DungeonsCompleted",
+			"targetValue": 250,
+			"steamApiName": "DungeonGrandmaster",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 49,
+			"progressStatName": "HighDifficultyDungeonsCompleted",
+			"targetValue": 50,
+			"steamApiName": "AnExtremeThreat",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 50,
+			"progressStatName": "DungeonCompletedPirateCave",
+			"targetValue": 1,
+			"steamApiName": "PirateLieutenant",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 51,
+			"progressStatName": "DungeonCompletedForestMaze",
+			"targetValue": 1,
+			"steamApiName": "LostInTheWoods",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 52,
+			"progressStatName": "DungeonCompletedSpiderDen",
+			"targetValue": 1,
+			"steamApiName": "IntoTheCocoon",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 53,
+			"progressStatName": "DungeonCompletedForbiddenJungle",
+			"targetValue": 1,
+			"steamApiName": "JungleFever",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 54,
+			"progressStatName": "DungeonCompletedTheHive",
+			"targetValue": 1,
+			"steamApiName": "HoneyLover",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 55,
+			"progressStatName": "DungeonCompletedSnakePit",
+			"targetValue": 1,
+			"steamApiName": "SnakeCharmer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 56,
+			"progressStatName": "DungeonCompletedSpriteWorld",
+			"targetValue": 1,
+			"steamApiName": "LostInSpace",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 57,
+			"progressStatName": "DungeonCompletedCaveOfAThousandTreasures",
+			"targetValue": 1,
+			"steamApiName": "AmongTheTreasures",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 58,
+			"progressStatName": "DungeonCompletedAncientRuins",
+			"targetValue": 1,
+			"steamApiName": "Archaeologist",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 59,
+			"progressStatName": "DungeonCompletedMagicWoods",
+			"targetValue": 1,
+			"steamApiName": "AFairyTale",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 60,
+			"progressStatName": "DungeonCompletedCandylandHuntingGrounds",
+			"targetValue": 1,
+			"steamApiName": "SugarRush",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 61,
+			"progressStatName": "DungeonCompletedUndeadLair",
+			"targetValue": 1,
+			"steamApiName": "CryptRaider",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 62,
+			"progressStatName": "DungeonCompletedPuppetMasterSTheatre",
+			"targetValue": 1,
+			"steamApiName": "BehindTheCurtain",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 63,
+			"progressStatName": "DungeonCompletedToxicSewers",
+			"targetValue": 1,
+			"steamApiName": "DirtyWork",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 64,
+			"progressStatName": "DungeonCompletedCursedLibrary",
+			"targetValue": 1,
+			"steamApiName": "Bookworm",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 65,
+			"progressStatName": "DungeonCompletedMadLab",
+			"targetValue": 1,
+			"steamApiName": "MadScientist",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 66,
+			"progressStatName": "DungeonCompletedAbyssOfDemons",
+			"targetValue": 1,
+			"steamApiName": "TheFloorSHotLava",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 67,
+			"progressStatName": "DungeonCompletedManorOfTheImmortals",
+			"targetValue": 1,
+			"steamApiName": "LordOfTheManor",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 68,
+			"progressStatName": "DungeonCompletedHauntedCemetery",
+			"targetValue": 1,
+			"steamApiName": "RestInPeace",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 69,
+			"progressStatName": "DungeonCompletedTheMachine",
+			"targetValue": 1,
+			"steamApiName": "SystemOverride",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 70,
+			"progressStatName": "DungeonCompletedDavyJonesLocker",
+			"targetValue": 1,
+			"steamApiName": "Sunken",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 71,
+			"progressStatName": "DungeonCompletedOceanTrench",
+			"targetValue": 1,
+			"steamApiName": "DeepSeaDiver",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 72,
+			"progressStatName": "DungeonCompletedTheCrawlingDepths",
+			"targetValue": 1,
+			"steamApiName": "SonOfArachna",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 73,
+			"progressStatName": "DungeonCompletedWoodlandLabyrinth",
+			"targetValue": 1,
+			"steamApiName": "Metamorphosis",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 74,
+			"progressStatName": "DungeonCompletedDeadwaterDocks",
+			"targetValue": 1,
+			"steamApiName": "ScourgeOfTheSevenSeas",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 75,
+			"progressStatName": "DungeonCompletedPuppetMasterSEncore",
+			"targetValue": 1,
+			"steamApiName": "StandingOvation",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 76,
+			"progressStatName": "DungeonCompletedCnidarianReef",
+			"targetValue": 1,
+			"steamApiName": "StingOperation",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 77,
+			"progressStatName": "DungeonCompletedParasiteChambers",
+			"targetValue": 1,
+			"steamApiName": "ContainmentBreach",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 78,
+			"progressStatName": "DungeonCompletedTheTavern",
+			"targetValue": 1,
+			"steamApiName": "HeavyDrinker",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 79,
+			"progressStatName": "DungeonCompletedSulfurousWetlands",
+			"targetValue": 1,
+			"steamApiName": "WhatAreYouDoingInMySwamp",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 80,
+			"progressStatName": "DungeonCompletedMountainTemple",
+			"targetValue": 1,
+			"steamApiName": "DemonicProtection",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 81,
+			"progressStatName": "DungeonCompletedLairOfDraconis",
+			"targetValue": 1,
+			"steamApiName": "TheDragonSDisciple",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 82,
+			"progressStatName": "DungeonCompletedTombOfTheAncients",
+			"targetValue": 1,
+			"steamApiName": "PharaohSCurse",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 83,
+			"progressStatName": "DungeonCompletedTheThirdDimension",
+			"targetValue": 1,
+			"steamApiName": "OutsideTheBox",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 84,
+			"progressStatName": "DungeonCompletedLairOfShaitan",
+			"targetValue": 1,
+			"steamApiName": "DemonSlayer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 85,
+			"progressStatName": "DungeonCompletedSecludedThicket",
+			"targetValue": 1,
+			"steamApiName": "SacrificialSurvivor",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 86,
+			"progressStatName": "DungeonCompletedHighTechTerror",
+			"targetValue": 1,
+			"steamApiName": "BOUNDARYBREAK",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 87,
+			"progressStatName": "DungeonCompletedMoonlightVillage",
+			"targetValue": 1,
+			"steamApiName": "UnderTheMoonlight",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 88,
+			"progressStatName": "DungeonCompletedIceCitadel",
+			"targetValue": 1,
+			"steamApiName": "Blizzard",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 89,
+			"progressStatName": "DungeonCompletedBeachzone",
+			"targetValue": 1,
+			"steamApiName": "Sunburned",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 90,
+			"progressStatName": "DungeonCompletedTheNest",
+			"targetValue": 1,
+			"steamApiName": "NotTheBees",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 91,
+			"progressStatName": "DungeonCompletedCultistHideout",
+			"targetValue": 1,
+			"steamApiName": "RitualInterrupted",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 92,
+			"progressStatName": "DungeonCompletedFungalCavern",
+			"targetValue": 1,
+			"steamApiName": "FungusAmongus",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 93,
+			"progressStatName": "DungeonCompletedCrystalCavern",
+			"targetValue": 1,
+			"steamApiName": "Crystallized",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 94,
+			"progressStatName": "DungeonCompletedSpectralPenitentiary",
+			"targetValue": 1,
+			"steamApiName": "Jailbreak",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 95,
+			"progressStatName": "DungeonCompletedKogboldSteamworks",
+			"targetValue": 1,
+			"steamApiName": "TovenSAvenger",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 96,
+			"progressStatName": "DungeonCompletedLostHalls",
+			"targetValue": 1,
+			"steamApiName": "WeaponizedTitan",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 97,
+			"progressStatName": "DungeonCompletedTheVoid",
+			"targetValue": 1,
+			"steamApiName": "PureEvil",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 98,
+			"progressStatName": "DungeonCompletedTheShatters",
+			"targetValue": 1,
+			"steamApiName": "Kingslayer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 99,
+			"progressStatName": "DungeonCompletedHeroicUndeadLair",
+			"targetValue": 1,
+			"steamApiName": "FallOfAnEmpire",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 100,
+			"progressStatName": "DungeonCompletedInfernalAbyssOfDemons",
+			"targetValue": 1,
+			"steamApiName": "Fireproof",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 101,
+			"progressStatName": "DungeonCompletedPlaguedNest",
+			"targetValue": 1,
+			"steamApiName": "Exterminator",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 102,
+			"progressStatName": "DungeonCompletedAdvancedKogboldSteamworks",
+			"targetValue": 1,
+			"steamApiName": "RiseOfTheMachines",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 103,
+			"progressStatName": "DungeonCompletedOryxSCastle",
+			"targetValue": 1,
+			"steamApiName": "CastleCrasher",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 104,
+			"progressStatName": "",
+			"targetValue": 0,
+			"steamApiName": "HeroOfTheNexusNew",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 105,
+			"progressStatName": "DungeonsCompleted",
+			"targetValue": 100,
+			"steamApiName": "CrucibleCrawler",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 26,
+			"progressStatName": "OryxKills",
+			"targetValue": 1,
+			"steamApiName": "OryxSlayer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 106,
+			"progressStatName": "EnemyKillsWineInspector",
+			"targetValue": 1,
+			"steamApiName": "WineInspector",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 107,
+			"progressStatName": "EnemyKillsGodSlayer",
+			"targetValue": 1,
+			"steamApiName": "GodSlayer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 108,
+			"progressStatName": "RealmGodKills",
+			"targetValue": 10,
+			"steamApiName": "RealmExplorer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 109,
+			"progressStatName": "RealmGodKills",
+			"targetValue": 100,
+			"steamApiName": "RealmAdventurer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 110,
+			"progressStatName": "RealmGodKills",
+			"targetValue": 1000,
+			"steamApiName": "RealmMaster",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 111,
+			"progressStatName": "RealmGodKills",
+			"targetValue": 10000,
+			"steamApiName": "RealmGrandmaster",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 24,
+			"progressStatName": "GodKills",
+			"targetValue": 1000,
+			"steamApiName": "EnemyoftheGods",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 25,
+			"progressStatName": "GodKills",
+			"targetValue": 5000,
+			"steamApiName": "SlayeroftheGods",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 112,
+			"progressStatName": "BeaconGuardianKills",
+			"targetValue": 100,
+			"steamApiName": "BeaconSiege",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 113,
+			"progressStatName": "",
+			"targetValue": 0,
+			"steamApiName": "OvertakenNew",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 114,
+			"progressStatName": "RealmBossKills",
+			"targetValue": 10,
+			"steamApiName": "Aspirant",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 115,
+			"progressStatName": "RealmBossKills",
+			"targetValue": 100,
+			"steamApiName": "Overlord",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 116,
+			"progressStatName": "RealmBossKills",
+			"targetValue": 500,
+			"steamApiName": "Conqueror",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 117,
+			"progressStatName": "TilesUncovered",
+			"targetValue": 1000000,
+			"steamApiName": "Mapper",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 22,
+			"progressStatName": "TilesUncovered",
+			"targetValue": 4000000,
+			"steamApiName": "Explorer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 23,
+			"progressStatName": "TilesUncovered",
+			"targetValue": 10000000,
+			"steamApiName": "Cartographer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 118,
+			"progressStatName": "PetsOwned",
+			"targetValue": 1,
+			"steamApiName": "ATrustyCompanion",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 119,
+			"progressStatName": "PetFeedCount",
+			"targetValue": 1,
+			"steamApiName": "PetLove",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 120,
+			"progressStatName": "PetMaxedSkillCount",
+			"targetValue": 1,
+			"steamApiName": "AMansBestFriend",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 121,
+			"progressStatName": "PetMaxedSkillCount",
+			"targetValue": 2,
+			"steamApiName": "TrueFriendship",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 122,
+			"progressStatName": "PetFuseCount",
+			"targetValue": 1,
+			"steamApiName": "Fusion",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 123,
+			"progressStatName": "EquipmentSnapshotGarmentsOfAChampion",
+			"targetValue": 1,
+			"steamApiName": "GarmentsOfAChampion",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 124,
+			"progressStatName": "EquipmentSnapshotFullyEquipped",
+			"targetValue": 1,
+			"steamApiName": "FullyEquipped",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 125,
+			"progressStatName": "DivineItemsAcquired",
+			"targetValue": 1,
+			"steamApiName": "DivineCollector",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 126,
+			"progressStatName": "EnchantCount",
+			"targetValue": 1,
+			"steamApiName": "ArcaneAwakening",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 127,
+			"progressStatName": "EnchantCount",
+			"targetValue": 10,
+			"steamApiName": "ArcaneCrafter",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 128,
+			"progressStatName": "EnchantCount",
+			"targetValue": 50,
+			"steamApiName": "SkilledEnchanter",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 129,
+			"progressStatName": "EnchantCount",
+			"targetValue": 100,
+			"steamApiName": "MasterEnchanter",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 130,
+			"progressStatName": "ForgeCount",
+			"targetValue": 1,
+			"steamApiName": "ForgeInitiate",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 131,
+			"progressStatName": "ForgeCount",
+			"targetValue": 10,
+			"steamApiName": "HammerApprentice",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 132,
+			"progressStatName": "ForgeCount",
+			"targetValue": 50,
+			"steamApiName": "ArtisanOfTheForge",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 133,
+			"progressStatName": "ForgeCount",
+			"targetValue": 100,
+			"steamApiName": "LegendaryForgemaster",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 134,
+			"progressStatName": "DismantleCount",
+			"targetValue": 1,
+			"steamApiName": "DisassemblyNovice",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 135,
+			"progressStatName": "DismantleCount",
+			"targetValue": 10,
+			"steamApiName": "EfficientDestructor",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 136,
+			"progressStatName": "DismantleCount",
+			"targetValue": 50,
+			"steamApiName": "GearBreaker",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 137,
+			"progressStatName": "DismantleCount",
+			"targetValue": 100,
+			"steamApiName": "UltimateDismantler",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 138,
+			"progressStatName": "ShinyItemsAcquired",
+			"targetValue": 1,
+			"steamApiName": "RadiantDiscovery",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 139,
+			"progressStatName": "ShinyItemsAcquired",
+			"targetValue": 10,
+			"steamApiName": "GlowingFinds",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 140,
+			"progressStatName": "ShinyItemsAcquired",
+			"targetValue": 25,
+			"steamApiName": "BrilliantCollection",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 141,
+			"progressStatName": "EquipmentSnapshotDazzling",
+			"targetValue": 1,
+			"steamApiName": "Dazzling",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 142,
+			"progressStatName": "AccountLevel",
+			"targetValue": 50,
+			"steamApiName": "RisingStar",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 143,
+			"progressStatName": "AccountLevel",
+			"targetValue": 100,
+			"steamApiName": "LegendaryStatus",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 144,
+			"progressStatName": "GuildJoinedCount",
+			"targetValue": 1,
+			"steamApiName": "AllyOfTheRealm",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 145,
+			"progressStatName": "EnemyKillsExpertTrimmer",
+			"targetValue": 1,
+			"steamApiName": "ExpertTrimmer",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 146,
+			"progressStatName": "EnemyKillsHeartbreaker",
+			"targetValue": 1,
+			"steamApiName": "Heartbreaker",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 147,
+			"progressStatName": "EnemyKillsWitchSeeker",
+			"targetValue": 1,
+			"steamApiName": "WitchSeeker",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 148,
+			"progressStatName": "EnemyKillsMeltedSnow",
+			"targetValue": 1,
+			"steamApiName": "MeltedSnow",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 149,
+			"progressStatName": "EnemyKillsWintersEnd",
+			"targetValue": 1,
+			"steamApiName": "WintersEnd",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 150,
+			"progressStatName": "DungeonCompletedMalogia",
+			"targetValue": 1,
+			"steamApiName": "FarFromHome",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 151,
+			"progressStatName": "DungeonCompletedUntaris",
+			"targetValue": 1,
+			"steamApiName": "AstroidImapct",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 152,
+			"progressStatName": "DungeonCompletedKatalund",
+			"targetValue": 1,
+			"steamApiName": "OutOfGas",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 153,
+			"progressStatName": "DungeonCompletedForax",
+			"targetValue": 1,
+			"steamApiName": "AcidTrip",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 154,
+			"progressStatName": "EnemyKillsBuffedBunny",
+			"targetValue": 1,
+			"steamApiName": "BuffedBunny",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 155,
+			"progressStatName": "EnemyKillsTastyBattle",
+			"targetValue": 1,
+			"steamApiName": "TastyBattle",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 156,
+			"progressStatName": "EnemyKillsKeyKeeper",
+			"targetValue": 1,
+			"steamApiName": "KeyKeeper",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 157,
+			"progressStatName": "EnemyKillsFrozenThrone",
+			"targetValue": 1,
+			"steamApiName": "FrozenThrone",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 158,
+			"progressStatName": "SkinsEquippedCount",
+			"targetValue": 1,
+			"steamApiName": "Fresh",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 159,
+			"progressStatName": "SkinsAcquiredCount",
+			"targetValue": 10,
+			"steamApiName": "Fashionable",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 160,
+			"progressStatName": "SkinsAcquiredCount",
+			"targetValue": 25,
+			"steamApiName": "Stylish",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 161,
+			"progressStatName": "MaxedStatsCount",
+			"targetValue": 1,
+			"steamApiName": "Maxing",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 162,
+			"progressStatName": "MaxedStatsCount",
+			"targetValue": 8,
+			"steamApiName": "StatMastery",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		},
+		{
+			"id": 163,
+			"progressStatName": "",
+			"targetValue": 0,
+			"steamApiName": "NewGodIsBorn",
+			"epicAchievementId": "",
+			"platformList": [
+				"steam"
+			],
+			"active": true
+		}
+	]
+}
