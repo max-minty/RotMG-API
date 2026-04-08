@@ -1,8 +1,7 @@
 # RotMG-API
-A collection of API documentations for RotMG.  This repository contains *all* API endpoints with response payloads.
+A collection of API documentations for RotMG.  This repository contains known API endpoints with response payloads.
 
-This is an updated version of Zeroeh's RotMG Appspot repo.
-
+This is an updated version of [Zeroeh's RotMG Appspot repo](https://github.com/Zeroeh/RotMG-Appspot).
 
 ## Root URL
 - https://realmofthemadgodhrd.appspot.com
@@ -28,7 +27,8 @@ This is an updated version of Zeroeh's RotMG Appspot repo.
 - https://testing.realmofthemadgod.com
 
 ## External Official Links
-- https://storage.googleapis.com/rotmg_images_public
+- https://storage.googleapis.com/rotmg_images_public => where most splash arts are stored
+- https://trello.com/b/1X0NDkCX/rotmg-bug-status-tracker => Official RotMG Bug Status Tracker
 
 Directories marked with an asterisk (*) are internal server urls and will always return ``<Failure/>``
 
