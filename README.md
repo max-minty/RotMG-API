@@ -189,7 +189,7 @@ Please note that DECA can add or remove links at any time.
 
 ``craigsgift/``
 * [`buy`](responses/craigsgift/buy.json) => *`Missing Parameters`*
-* [`info`](responses/craigsgift/info.json) => accessToken
+* [`info`](responses/craigsgift/info.xml) => accessToken
 
 ``credits/``
  * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
