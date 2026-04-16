@@ -1,2 +1,17 @@
 <!-- Craig's Gift Shop Offer -->
+
+<!-- NONE ACTIVE -->
 <CraigsGiftsActive></CraigsGiftsActive>
+
+<!-- ACTIVE -->
+<?xml version="1.0"?>
+<CraigsGiftsActive>
+  <CraigsGift>
+    <Id>ahNyZWFsbW9mdGhlbWFkZ29kaHJkchcLEgpDcmFpZ3NHaWZ0GICAwvnY-sUKDA</Id>
+    <IntegerId>5937180508717056</IntegerId>
+    <Title>CG</Title>
+    <Duration>35</Duration>
+    <Cost>5</Cost>
+    <RewardGoldDaily>50</RewardGoldDaily>
+  </CraigsGift>
+</CraigsGiftsActive>
