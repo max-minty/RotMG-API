@@ -1,6 +1,14 @@
 <!-- Purchase Mystery Box -->
-<Success/>
+<Success><Awards>8948,8948,8948,8948,8948</Awards><Gold>22040</Gold></Success>
 
 OR
 
 <Error>The mystery box is not available any more</Error>
+
+OR
+
+<Error>MysteryBoxError.outdated</Error>
+
+OR
+
+<Error>Account not found</Error>
