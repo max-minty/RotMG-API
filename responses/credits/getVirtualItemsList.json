@@ -1,6 +1,17 @@
 "<Items>"{
    "list_items":[
       {
+         "item_id":1120658,
+         "sku":"craigsgift_5937180508717056",
+         "type":"virtual_good",
+         "game_type":"CraigsGift",
+         "name":"Craig's Gift",
+         "quantity":"1",
+         "description":"Special Offer",
+         "price_amount":"5.00",
+         "price_currency":"USD"
+      },
+      {
          "item_id":1120714,
          "sku":"gold_casket1",
          "type":"bundle",
