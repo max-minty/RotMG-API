@@ -1,5 +1,10 @@
 <!-- Purchase Package -->
-<Success/>
+
+<!-- Scenario 1 - Purchasing multiple of the same package at once (10x) -->
+<Success><Awards>2320,2505,2503,2509,587,2496</Awards><Awards>2320,2505,2503,2509,587,2496</Awards><Awards>2320,2505,2503,2509,587,2496</Awards><Awards>2320,2505,2503,2509,587,2496</Awards><Awards>2320,2505,2503,2509,587,2496</Awards><Awards>2320,2505,2503,2509,587,2496</Awards><Awards>2320,2505,2503,2509,587,2496</Awards><Awards>2320,2505,2503,2509,587,2496</Awards><Awards>2320,2505,2503,2509,587,2496</Awards><Awards>2320,2505,2503,2509,587,2496</Awards><Gold>266841</Gold></Success>
+
+<!-- Scenario 2 - Purchasing the package once -->
+<Success><Awards>2320,2505,2503,2509,587,2496</Awards><Gold>266841</Gold></Success>
 
 OR
 
