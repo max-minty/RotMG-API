@@ -1,4 +1,9 @@
 <!-- Purchase Mystery Box -->
+
+<!-- Scenario 1 - Purchasing multiple of the same package at once (10x) -->
+<Success><Awards>3470,3470,3470,3470,3470</Awards><Awards>3470,3470,3470,3470,3470</Awards><Awards>3470,3470,3470,3470,3470</Awards><Awards>3470,3470,3470,3470,3470</Awards><Awards>3470,3470,3470,3470,3470</Awards><Awards>3470,3470,3470,3470,3470</Awards><Awards>3470,3470,3470,3470,3470</Awards><Awards>3470,3470,3470,3470,3470</Awards><Awards>3470,3470,3470,3470,3470</Awards><Awards>3470,3470,3470,3470,3470</Awards><Gold>266841</Gold></Success>
+
+<!-- Scenario 2 - Purchasing the package once -->
 <Success><Awards>8948,8948,8948,8948,8948</Awards><Gold>22040</Gold></Success>
 
 OR
