@@ -1,0 +1,11 @@
+<!-- Must provide a version number -->
+<!-- Current TOS update: 6.10.0.1.0 -> version 101 -->
+<Success/>
+
+OR
+
+<!doctype html>
+<html lang=en>
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
