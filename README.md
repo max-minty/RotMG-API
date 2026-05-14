@@ -130,6 +130,7 @@ Please note that DECA can add or remove links at any time.
  * [`verifyAccessTokenClient`](responses/account/verifyAccessTokenClient.xml) => accessToken
  * [`verifyage`](responses/account/verifyage.xml) => guid, accessToken
  * [`acceptTOS`](responses/account/acceptTOS.xml) => accessToken
+ * [`updateTOS`](responses/account/updateTOS.xml) => accessToken, version
  * [`changeEmail`](responses/account/changeEmail.xml) => guid, password, newGuid (always returns emailAlreadyVerified)
  * ``playFortuneGame`` => choice, status, currency (2 for fortune tokens or 0 for gold)
  * ``rp`` => a, b
