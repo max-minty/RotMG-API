@@ -13,6 +13,7 @@ This is an updated version of [Zeroeh's RotMG Appspot repo](https://github.com/Z
 - [http://play.realmofthemadgod.com](https://web.archive.org/web/20160630000841/http://play.realmofthemadgod.com/) (used by kabam till 2016 for unknown purpose)
 - http://remaster.realmofthemadgod.com
 - http://unity.realmofthemadgod.com
+- http://hub.realmofthemadgod.com
 
 ## Testing Links
 - https://rotmghrdtesting.appspot.com (old kabam test server used for account migration testing)
