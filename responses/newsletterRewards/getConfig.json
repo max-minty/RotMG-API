@@ -1,7 +1,7 @@
 {
 	"config": {
-		"day": "",
-		"rewards": "",
-		"id": ""
+		"day": "0;30",
+		"rewards": "Dagger of Dire Hatred;Mark of Oryx",
+		"id": "1;2"
 	}
 }
