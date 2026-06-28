@@ -1,7 +1,7 @@
 # RotMG-API
 A collection of API documentations for RotMG.  This repository contains known API endpoints with response payloads.
 
-This is an updated version of [Zeroeh's RotMG Appspot repo](https://github.com/Zeroeh/RotMG-Appspot).
+This is an updated version of [Zeroeh's RotMG Appspot](https://github.com/Zeroeh/RotMG-Appspot) repository.
 
 ## Root URL
 - https://realmofthemadgodhrd.appspot.com
