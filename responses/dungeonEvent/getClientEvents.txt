@@ -1,1 +1,10 @@
+# BREAKDOWN OF CONFIG ORDER
+Sulfurous Wetlands
+  → stats:  [1.5, 1.0, 1.5, 1.0]     # xpMul, damageMul, lootDropMul, HPMul
+  → flags:  [True, False, False]     # hasDmods, modActive, display
+  → dmods:  "A|ALIEN_WORMHOLES;"     # modGrade|modName
+  → value:  0.3                      # modChance
+  → timestamp:  1768727940.4608986   # timestamp of snapshot (API)
+  
+# Response from API:
 Sulfurous Wetlands,1.5,1.0,1.5,1.0,True,False,A|ALIEN_WORMHOLES;,False,0.3-Spectral Penitentiary,1.5,1.0,1.5,1.0,True,False,A|ALIEN_WORMHOLES;,False,1.0-1768727940.4608986
