@@ -168,6 +168,7 @@ Please note that DECA can add or remove links at any time.
  * [`servers`](responses/account/servers.xml) => accessToken
  * [`list`](responses/account/list.xml) => accessToken, type(1:ignored or 0:locked)
  * [`getJourneyState`](responses/account/getJourneyState.xml) => accessToken
+ * [`setJourneyState`](responses/account/setJourneyState.xml) => accessToken, newState
 
 ``accountLevelRewards/``
 * [`getConfig`](responses/accountLevelRewards/getConfig.json) => accessToken
