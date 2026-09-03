@@ -300,7 +300,7 @@ Please note that DECA can add or remove links at any time.
  * [`unlock`](responses/supportCampaign/unlock.xml) => accessToken
  * [`status`](responses/supportCampaign/status.xml) => accessToken
  * [`create`](responses/supportCampaign/create.xml) => (responds with <Error>Server error<Error/>)
- * ``getinfo`` => (responds with nothing if no unity campaign active)
+ * [`getinfo`](responses/supportCampaign/getinfo.xml) => (responds with nothing if no unity campaign active)
  * [`getUnitySupporters`](responses/supportCampaign/getUnitySupporters.xml) => accessToken, page
 
 ``survey/``
