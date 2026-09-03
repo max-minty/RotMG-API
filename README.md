@@ -241,6 +241,10 @@ Please note that DECA can add or remove links at any time.
 ``inGameNews/``
  * [`getNews`](responses/inGameNews/getNews.txt)
 
+``leaderboards/``
+ * [`getBoardActive`](responses/leaderboards/getBoardActive.json) => accessToken
+ * [`getPlayersRanks`](responses/leaderboards/getPlayersRanks.json) => accessToken
+
 ``log/``
 * [`logout`](responses/log/logout.xml) => accessToken
  * ``logFteStep`` => game_net_user_id, game_net, play_platform, guid, password, fteStepCompleted (used for tracking tutorial progress, removed)
