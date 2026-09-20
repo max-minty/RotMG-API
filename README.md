@@ -194,7 +194,7 @@ Please note that DECA can add or remove links at any time.
 
 ``credits/``
  * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
- * [`paymentToken`](responses/credits/paymentToken.json) => accessToken, sku(gold_casket1,treasure1,wonderful_treasure1,fabulous_treasure1,mythical_pot_of_gold1)
+ * [`paymentToken`](responses/credits/paymentToken.json) => accessToken, type
  * [`add`](responses/credits/add.html) => tok, exp, guid, provider, jwt, price, paymentid
  * [`done`](responses/credits/done.html)
  * [`error`](responses/credits/error.html)
