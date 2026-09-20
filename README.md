@@ -146,7 +146,7 @@ Please note that DECA can add or remove links at any time.
  * ``purchaseSkin`` => *`Missing Parameters`* accessToken, skinType, *`skinID*`*, *`currency*`*, *`quantity*`*
  * [`purchaseMysteryBox`](responses/account/purchaseMysteryBox.xml) => accessToken, boxId, quantity, price, currency
  * [`purchasePackage`](responses/account/purchasePackage.xml) => accessToken, boxId, quantity, price, currency
- * ``purchaseCustomization`` => *`Missing Parameters`*
+ * [`purchaseCustomization`](responses/account/purchaseCustomization.xml) => accessToken, type(itemID), category(1-3), location(Vault,Nexus)
  * [`ownedSkins`](responses/account/ownedSkins.xml) => accessToken
  * [`getOwnedPetSkins`](responses/account/getOwnedPetSkins.xml) => accessToken
  * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
@@ -156,10 +156,9 @@ Please note that DECA can add or remove links at any time.
  * [`changePassword`](responses/account/changePassword.xml) => guid, password, newPassword
  * [`getCredits`](responses/account/getCredits.xml) => accessToken
  * [`listPowerUpStats`](responses/account/listPowerUpStats.xml) => accessToken
- * ``setNewsletterEmail`` => *`Missing Parameters`*
  * ``ban`` => Returns internal error
  * [`v`](responses/account/v.html) => a, b(Getting the captcha); a, action, g-recaptcha-response(Submitting the captcha)
- * ``*claimLoginReward`` => *`Missing Parameters`*
+ * ``*claimLoginReward`` => accessToken
  * [`saveSecurityQuestions`](responses/account/saveSecurityQuestions.xml) => accessToken, answers (encoded in base64 and split by a pipe operator [|])
  * ``forgotpasswordPage`` => links to a page where you enter your email
  * [`isEmailVerified`](responses/account/isEmailVerified.xml) => guid, accessToken
