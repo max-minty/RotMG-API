@@ -151,7 +151,7 @@ Please note that DECA can add or remove links at any time.
  * [`getOwnedPetSkins`](responses/account/getOwnedPetSkins.xml) => accessToken
  * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
  * [`sendVerifyEmail`](responses/account/sendVerifyEmail.xml) => accessToken
- * ``extendAccessToken`` => *`Missing Parameters`*
+ * [`extendAccessToken`](responses/account/extendAccessToken.xml) => currentToken
  * [`forgotPassword`](responses/account/forgotPassword.xml) => guid
  * [`changePassword`](responses/account/changePassword.xml) => guid, password, newPassword
  * [`getCredits`](responses/account/getCredits.xml) => accessToken
