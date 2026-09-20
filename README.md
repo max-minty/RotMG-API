@@ -143,7 +143,6 @@ Please note that DECA can add or remove links at any time.
  * [`getDustCost`](responses/account/getDustCost.txt)
  * [`purchaseCharSlot`](responses/account/purchaseCharSlot.xml) => accessToken
  * ``*purchaseVaultChest``
- * ``purchaseSkin`` => *`Missing Parameters`* accessToken, skinType, *`skinID*`*, *`currency*`*, *`quantity*`*
  * [`purchaseMysteryBox`](responses/account/purchaseMysteryBox.xml) => accessToken, boxId, quantity, price, currency
  * [`purchasePackage`](responses/account/purchasePackage.xml) => accessToken, boxId, quantity, price, currency
  * [`purchaseCustomization`](responses/account/purchaseCustomization.xml) => accessToken, type(itemID), category(1-3), location(Vault,Nexus)
@@ -382,6 +381,7 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
 ``account/``
  * ``login``
  * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
+ * ``purchaseSkin`` => *`Missing Parameters`* accessToken, skinType, *`skinID*`*, *`currency*`*, *`quantity*`*
 
 ``arena/``
  * ``getRecords`` => type (weekly, personal, alltime), guid, password
