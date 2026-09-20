@@ -283,7 +283,7 @@ Please note that DECA can add or remove links at any time.
 
 ``shop/``
  * [`deals`](responses/shop/deals.xml) => accessToken, version (seems to accept any float like 1.0)
- * [`getOffers`](responses/shop/getOffers.txt) => *`Missing Parameters`*
+ * [`getOffers`](responses/shop/getOffers.json) => tabs(Dye,Cloth,Skin,PetSkin,Utility,Key,Food,Equipment,Forge,Gravestone,Shader,Pet)
  * [`purchaseItems`](responses/shop/purchaseItems.xml) => *`Missing Parameters`*
 
 ``steamworks/``
