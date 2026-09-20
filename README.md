@@ -258,7 +258,7 @@ Please note that DECA can add or remove links at any time.
 
 ``newsletterRewards/``
 * [`getConfig`](responses/newsletterRewards/getConfig.json) => accessToken
-* ``setNewsletterEmail`` => *`Missing Parameters`*
+* [`setNewsletterEmail`](responses/newsletterRewards/setNewsletterEmail.xml) => accessToken, newsletterMail
 
 ``pet/``
  * ``*feed``
