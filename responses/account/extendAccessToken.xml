@@ -1,2 +1,9 @@
-<!-- Missing Parameters in Request -->
+<Account><AccessToken>{redacted}</AccessToken><AccessTokenTimestamp>1789929410</AccessTokenTimestamp><AccessTokenExpiration>86400</AccessTokenExpiration></Account>
+
+OR
+
+<Error>Access token expired and cant be extended</Error>
+
+OR
+
 <Error>Invalid Request</Error>
