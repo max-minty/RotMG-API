@@ -191,7 +191,6 @@ Please note that DECA can add or remove links at any time.
  * ``delete`` => guid, password, charId, reason (seems to be always 1)
 
 ``craigsgift/``
-* [`buy`](responses/craigsgift/buy.json) => *`Missing Parameters`*
 * [`info`](responses/craigsgift/info.xml) => accessToken
 
 ``credits/``
@@ -283,7 +282,7 @@ Please note that DECA can add or remove links at any time.
 ``shop/``
  * [`deals`](responses/shop/deals.xml) => accessToken, version (seems to accept any float like 1.0)
  * [`getOffers`](responses/shop/getOffers.json) => tabs(Dye,Cloth,Skin,PetSkin,Utility,Key,Food,Equipment,Forge,Gravestone,Shader,Pet)
- * [`purchaseItems`](responses/shop/purchaseItems.xml) => *`Missing Parameters`*
+ * [`purchaseItems`](responses/shop/purchaseItems.xml) => accessToken, items(Source,TypeID,Quantity,Currency), location(Vault,Nexus)
 
 ``steamworks/``
  * ``finalizePurchase`` => appid, orderid, authorized (1 or 0)
