@@ -224,7 +224,7 @@ Please note that DECA can add or remove links at any time.
  * [`rejectRequest`](responses/friends/rejectRequest.xml) => accessToken, targetName
  * [`removeFriend`](responses/friends/removeFriend.xml) => accessToken, targetName (also responds success for pending friend request)
  * [`blockRequest`](responses/friends/blockRequest.xml) => accessToken, targetName (you can't undo this! "Player has blocked you. Cannot add Friend")
- * ``*populateFriends`` => *`Missing Parameters`*
+ * ``*populateFriends``
 
 ``guild/``
  * ``*changeRank``
