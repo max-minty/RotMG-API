@@ -136,8 +136,6 @@ Please note that DECA can add or remove links at any time.
  * ``playFortuneGame`` => choice, status, currency (2 for fortune tokens or 0 for gold)
  * ``rp`` => a, b
  * [`setName`](responses/account/setName.xml) => accessToken, name
- * ``validateEmail`` (removed, changed to isEmailVerified)
- * ``supportVerify`` => guid, password, secret
  * ``*addStar``
  * ``*addIgnore``
  * [`getDustCost`](responses/account/getDustCost.txt)
@@ -148,7 +146,6 @@ Please note that DECA can add or remove links at any time.
  * [`purchaseCustomization`](responses/account/purchaseCustomization.xml) => accessToken, type(itemID), category(1-3), location(Vault,Nexus)
  * [`ownedSkins`](responses/account/ownedSkins.xml) => accessToken
  * [`getOwnedPetSkins`](responses/account/getOwnedPetSkins.xml) => accessToken
- * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
  * [`sendVerifyEmail`](responses/account/sendVerifyEmail.xml) => accessToken
  * [`extendAccessToken`](responses/account/extendAccessToken.xml) => currentToken
  * [`forgotPassword`](responses/account/forgotPassword.xml) => guid
@@ -265,7 +262,6 @@ Please note that DECA can add or remove links at any time.
  * ``*yardupgrade``
 
 ``season/``
-* ``getSeasons`` => guid, password, gameClientVersion
 * [`battlePass/buyExaltedPass`](responses/season/battlePass/buyExaltedPass.json) => accessToken
 * [`bpInfo`](responses/season/bpInfo.json) => accessToken
 * [`seasonInfo`](responses/season/seasonInfo.json) => accessToken
@@ -382,6 +378,9 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
  * ``login``
  * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
  * ``purchaseSkin`` => *`Missing Parameters`* accessToken, skinType, *`skinID*`*, *`currency*`*, *`quantity*`*
+ * ``validateEmail`` (removed, changed to isEmailVerified)
+ * ``supportVerify`` => guid, password, secret
+ * ``getBeginnerPackageTimeLeft`` => guid, password (removed)
 
 ``arena/``
  * ``getRecords`` => type (weekly, personal, alltime), guid, password
@@ -434,6 +433,9 @@ Payment url: http://www.realmofthemadgod.com/?user_id=email&status=done&invoice_
 
 ``platforms/``
  * ``kabam`` => Error 405. Method GET not allowed.
+
+``season/``
+* ``getSeasons`` => guid, password, gameClientVersion
 
 ``sfx/``
  * => too many mp3 files to list (you can find these in pserver sources)
