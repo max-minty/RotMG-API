@@ -305,6 +305,16 @@ Please note that DECA can add or remove links at any time.
  ``unityNews/``
  * [`getNews`](responses/unityNews/getNews.html)
 
+``admin/``
+* ``account`` => Redirects to Google Sign-In
+* ``credits`` => Redirects to Google Sign-In
+* ``fame`` => Redirects to Google Sign-In
+* ``fire`` => Redirects to Google Sign-In
+* ``grant`` => Redirects to Google Sign-In
+* ``guild`` => Redirects to Google Sign-In
+* ``login`` => Redirects to Google Sign-In
+* ``magic`` => Redirects to Google Sign-In
+* ``quest`` => Redirects to Google Sign-In
 
 ## Unknown urls
 
