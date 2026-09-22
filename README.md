@@ -191,11 +191,10 @@ Please note that DECA can add or remove links at any time.
 
 ``credits/``
  * [`getVirtualItemsList`](responses/credits/getVirtualItemsList.json) => accessToken
- * [`paymentToken`](responses/credits/paymentToken.json) => accessToken, type
  * [`add`](responses/credits/add.html) => tok, exp, guid, provider, jwt, price, paymentid
  * [`done`](responses/credits/done.html)
  * [`error`](responses/credits/error.html)
- * [`token`](responses/credits/token.json) => accessToken
+ * [`token`](responses/credits/token.json) => accessToken, type
 
 ``crucibles/``
 * [`info`](responses/crucibles/info.xml) => (responds with Only server can request info)
