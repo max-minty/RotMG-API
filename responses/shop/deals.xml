@@ -1,1 +1,659 @@
-<Deals><MiniGames version = "1790102791.114375"><MysteryBox id = "4915" title = "Reforged Sulphur Box" weight = "4550"><Description></Description><Contents>816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814;816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814;816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814;815;814;815;814;813,813;814;813,813;812,812,812;812,812;813,813</Contents><BonusPoints>-1</BonusPoints><Price amount="149" currency="0"/><Image></Image><Icon></Icon><StartTime>2024-01-16 08:00:01</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814|816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814|816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814</Jackpots><DisplayedItems>816,815,814</DisplayedItems><EndTime></EndTime><Rolls>1</Rolls><Category>Forge</Category><Platform>0</Platform><Background>8</Background><Sale price = "-1" currency = "0"/></MysteryBox><MysteryBox id = "8329" title = "Time Chamber Keys" weight = "3400"><Description></Description><Contents>53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200;53200,53200,53200,53200,53200,53200,53200,53200,53200,53200;53200,53200,53200,53200,53200,53200,53200,53200;53200,53200,53200,53200,53200;53200,53200,53200,53200;53200,53200,53200;53200,53200;53200|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents><BonusPoints>-1</BonusPoints><Price amount="299" currency="0"/><Image></Image><Icon></Icon><StartTime>2026-09-01 10:00:00</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200|53200,53200,53200,53200,53200,53200,53200,53200,53200,53200|3266,31883,813,3177,3176,3180</Jackpots><DisplayedItems>53200</DisplayedItems><EndTime>2026-10-06 00:00:00</EndTime><Rolls>2</Rolls><Category>Deals,Keys</Category><Platform>0</Platform><Background>9</Background><Sale price = "-1" currency = "0"/></MysteryBox><MysteryBox id = "8365" title = "Mad God Meal Box" weight = "6500"><Description></Description><Contents>35242,35242;40380;35242;40383;24692;14529;15086;14523</Contents><BonusPoints>-1</BonusPoints><Price amount="999" currency="0"/><Image></Image><Icon></Icon><StartTime>2026-09-16 10:00:00</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>55</PityCounterLeft><PityThreshold>55</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>35242,35242</Jackpots><DisplayedItems>15088,40381,40380,35242,40383</DisplayedItems><EndTime>2026-09-23 10:00:00</EndTime><Rolls>1</Rolls><Category>Deals,Food</Category><Platform>0</Platform><Background>3</Background><Sale price = "-1" currency = "0"/><ContentProbs>0.025;0.03;0.045;0.07;0.16;0.19;0.23;0.25</ContentProbs><JackpotProbs>0.025</JackpotProbs></MysteryBox><MysteryBox id = "8372" title = "MotMG Fame Box " weight = "12000"><Description></Description><Contents>26098;26097;26099;26096;26095;26100;31565;31560;31555;31553;9729;9727;9728;9731;9730;9726;9724;9725;29652;5073,5074;3266;46456;46451;46454;46453;46452;46455;46449;5472;5094</Contents><BonusPoints>-1</BonusPoints><Price amount="99" currency="1"/><Image></Image><Icon></Icon><StartTime>2026-09-22 10:00:00</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>10</MaxPurchase><PurchaseLeft>10</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots></Jackpots><DisplayedItems>26098,26097,31565,23619,29652</DisplayedItems><EndTime>2026-09-29 10:00:00</EndTime><Rolls>1</Rolls><Category>Deals</Category><Platform>0</Platform><Background>10</Background><Sale price = "-1" currency = "1"/></MysteryBox><MysteryBox id = "8369" title = "Parasite Chambers Keys" weight = "3400"><Description></Description><Contents>1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932;1932,1932,1932,1932,1932,1932,1932,1932,1932,1932;1932,1932,1932,1932,1932,1932,1932,1932;1932,1932,1932,1932,1932;1932,1932,1932,1932;1932,1932,1932;1932,1932;1932|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents><BonusPoints>-1</BonusPoints><Price amount="199" currency="0"/><Image></Image><Icon></Icon><StartTime>2026-09-22 10:00:00</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932|1932,1932,1932,1932,1932,1932,1932,1932,1932,1932|3266,31883,813,3177,3176,3180</Jackpots><DisplayedItems>1932</DisplayedItems><EndTime>2026-09-29 10:00:00</EndTime><Rolls>2</Rolls><Category>Deals,Keys</Category><Platform>0</Platform><Background>9</Background><Sale price = "-1" currency = "0"/></MysteryBox><MysteryBox id = "4245" title = "Key Box" weight = "3200"><Description></Description><Contents>8972,8972,8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971,8971,8971;8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971;8972,8972,8972,8972,8972,8971,8971,8971,8971,8971;8972,8972,8972,8971,8971,8971;8972,8972,8971,8971;8972,8971;8972;8971,8971</Contents><BonusPoints>-1</BonusPoints><Price amount="99" currency="0"/><Image></Image><Icon></Icon><StartTime>2023-06-01 08:00:01</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>8972,8972,8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971,8971,8971|8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971|8972,8972,8972,8972,8972,8971,8971,8971,8971,8971</Jackpots><DisplayedItems>8972,8971</DisplayedItems><EndTime></EndTime><Rolls>1</Rolls><Category>Keys</Category><Platform>0</Platform><Background>9</Background><Sale price = "-1" currency = "0"/></MysteryBox><MysteryBox id = "6503" title = "Super Ambrosia Box III" weight = "5100"><Description></Description><Contents>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276;3276,3276,3276,3276,3276;3276,3276,3276,3276;3276,3276,3276;3276,3276;3276;26000;25999;25998</Contents><BonusPoints>-1</BonusPoints><Price amount="259" currency="0"/><Image></Image><Icon></Icon><StartTime>2025-04-29 10:00:00</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276</Jackpots><DisplayedItems>3276</DisplayedItems><EndTime></EndTime><Rolls>1</Rolls><Category>Food</Category><Platform>0</Platform><Background>3</Background><Sale price = "-1" currency = "0"/></MysteryBox><MysteryBox id = "4246" title = "QoL Box" weight = "200"><Description></Description><Contents>3180,3266,3176,3177,316,316,5072,5072,18522,18516;3266,3176,3177,3180;18522;18516;3180;3177;3266;3176</Contents><BonusPoints>-1</BonusPoints><Price amount="69" currency="0"/><Image></Image><Icon></Icon><StartTime>2023-06-01 08:00:01</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>3180,3266,3176,3177,316,316,5072,5072,18522,18516|3266,3176,3177,3180</Jackpots><DisplayedItems>3180,3266,3176,3177,316</DisplayedItems><EndTime></EndTime><Rolls>1</Rolls><Category>Utility</Category><Platform>0</Platform><Background>8</Background><Sale price = "-1" currency = "0"/></MysteryBox><MysteryBox id = "8370" title = "Kogbold Steamworks Keys" weight = "3400"><Description></Description><Contents>49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535;49535,49535,49535,49535,49535,49535,49535,49535,49535,49535;49535,49535,49535,49535,49535,49535,49535,49535;49535,49535,49535,49535,49535;49535,49535,49535,49535;49535,49535,49535;49535,49535;49535|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents><BonusPoints>-1</BonusPoints><Price amount="299" currency="0"/><Image></Image><Icon></Icon><StartTime>2026-09-22 10:00:00</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535|49535,49535,49535,49535,49535,49535,49535,49535,49535,49535|3266,31883,813,3177,3176,3180</Jackpots><DisplayedItems>49535</DisplayedItems><EndTime>2026-09-29 10:00:00</EndTime><Rolls>2</Rolls><Category>Deals,Keys</Category><Platform>0</Platform><Background>9</Background><Sale price = "-1" currency = "0"/></MysteryBox><MysteryBox id = "6501" title = "Celestial Stones Box" weight = "8700"><Description></Description><Contents>24772,24772,24772,24772,24772;24762,24762,24762,24762,24762;24757,24757,24757,24757,24757;24767;24762;24760;24757;24756;24755</Contents><BonusPoints>-1</BonusPoints><Price amount="429" currency="0"/><Image></Image><Icon></Icon><StartTime>2025-04-29 09:10:00</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>24772,24772,24772,24772,24772|24762,24762,24762,24762,24762|24757,24757,24757,24757,24757</Jackpots><DisplayedItems>24772</DisplayedItems><EndTime></EndTime><Rolls>1</Rolls><Category>Skins</Category><Platform>0</Platform><Background>2</Background><Sale price = "-1" currency = "0"/></MysteryBox><MysteryBox id = "6504" title = "Super Ambrosia Box II" weight = "5110"><Description></Description><Contents>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276;3276,3276,3276,3276,3276;3276,3276,3276,3276;3276,3276,3276;3276,3276;3276;3271;3272;3274</Contents><BonusPoints>-1</BonusPoints><Price amount="199" currency="0"/><Image></Image><Icon></Icon><StartTime>2025-04-29 10:00:00</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276</Jackpots><DisplayedItems>3276</DisplayedItems><EndTime></EndTime><Rolls>1</Rolls><Category>Food</Category><Platform>0</Platform><Background>3</Background><Sale price = "-1" currency = "0"/></MysteryBox><MysteryBox id = "8371" title = "Advanced Steamworks Keys" weight = "3400"><Description></Description><Contents>28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681;28681,28681,28681,28681,28681,28681,28681,28681,28681,28681;28681,28681,28681,28681,28681,28681,28681,28681;28681,28681,28681,28681,28681;28681,28681,28681,28681;28681,28681,28681;28681,28681;28681|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents><BonusPoints>-1</BonusPoints><Price amount="299" currency="0"/><Image></Image><Icon></Icon><StartTime>2026-09-22 10:00:00</StartTime><Left>-1</Left><Total>-1</Total><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><PityCounterLeft>-1</PityCounterLeft><PityThreshold>-1</PityThreshold><Tags></Tags><Slot>0</Slot><Jackpots>28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681|28681,28681,28681,28681,28681,28681,28681,28681,28681,28681|3266,31883,813,3177,3176,3180</Jackpots><DisplayedItems>28681</DisplayedItems><EndTime>2026-09-29 10:00:00</EndTime><Rolls>2</Rolls><Category>Deals,Keys</Category><Platform>0</Platform><Background>9</Background><Sale price = "-1" currency = "0"/></MysteryBox></MiniGames><Packages version = "1790103288.147933"><Package id = "23588" title = "Mad God-Veterans Skin Pack" weight = "2800"><Description></Description><Contents>30754,30756,30758,30760,30762,30764,30766,30768,30770,30772,30774,30776,30778,30780,30782,30784,30786,31273</Contents><Price amount="2555" currency="1"/><StartTime>2026-03-24 09:30:01</StartTime><Left>-1</Left><MaxPurchase>1</MaxPurchase><PurchaseLeft>1</PurchaseLeft><PurchasesMade>0</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime>2026-10-06 09:30:01</EndTime><Image>https://storage.googleapis.com/rotmg_images_public/Packages/veteran_pack_general.png</Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/veteran_pack_popup.png</PopupImage><BonusPoints>-1</BonusPoints><Category>Deals,Skins</Category><Background>0</Background><Platform>0</Platform><DisplayedItems></DisplayedItems><Sale price = "-1" currency = "1"/></Package><Package id = "24526" title = "Vault Bundle Pack" weight = "5400"><Description></Description><Contents>811,811,811,811,811,811</Contents><Price amount="3000" currency="0"/><StartTime>2025-04-29 10:00:00</StartTime><Left>-1</Left><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime></EndTime><Image>https://storage.googleapis.com/rotmg_images_public/Packages/vault_bundle_pack_general.png</Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/vault_bundle_packx6_popup.png</PopupImage><BonusPoints>-1</BonusPoints><Category>Utility</Category><Background>0</Background><Platform>0</Platform><DisplayedItems></DisplayedItems><Sale price = "2599" currency = "0"/></Package><Package id = "24999" title = "Expert Power Pack" weight = "10000"><Description></Description><Contents>24767,26783,26783,26782,27018,27019,27020,27021,29652,29652,29652</Contents><Price amount="5907" currency="0"/><StartTime>2026-09-21 10:00:00</StartTime><Left>-1</Left><MaxPurchase>2</MaxPurchase><PurchaseLeft>2</PurchaseLeft><PurchasesMade>0</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime>2026-09-25 10:00:00</EndTime><Image></Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage></PopupImage><BonusPoints>-1</BonusPoints><Category>Deals,Equipment</Category><Background>7</Background><Platform>0</Platform><DisplayedItems>26783,26782,27018,27020,24767</DisplayedItems><Sale price = "2799" currency = "0"/></Package><Package id = "24525" title = "Char Slots Pack" weight = "5300"><Description></Description><Contents>810,810,810</Contents><Price amount="3000" currency="0"/><StartTime>2025-04-29 10:00:00</StartTime><Left>-1</Left><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime></EndTime><Image>https://storage.googleapis.com/rotmg_images_public/Packages/char_slot_pack2_general.png</Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/char_slot_pack2_popup.png</PopupImage><BonusPoints>-1</BonusPoints><Category>Utility</Category><Background>0</Background><Platform>0</Platform><DisplayedItems></DisplayedItems><Sale price = "2599" currency = "0"/></Package><Package id = "24523" title = "Ambrosia Pentapack" weight = "5120"><Description></Description><Contents>3276,3276,3276,3276,3276</Contents><Price amount="5000" currency="0"/><StartTime>2025-04-29 10:00:01</StartTime><Left>-1</Left><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime></EndTime><Image>https://storage.googleapis.com/rotmg_images_public/Packages/ambrosia_pentapack_general.png</Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/ambrosia_pentapack_popup.png</PopupImage><BonusPoints>-1</BonusPoints><Category>Food</Category><Background>0</Background><Platform>0</Platform><DisplayedItems></DisplayedItems><Sale price = "3749" currency = "0"/></Package><Package id = "24990" title = "Strider Title Unlock (3+ Years)" weight = "20000"><Description>Celebrating 3 years of adventure.</Description><Contents>65019</Contents><Price amount="0" currency="0"/><StartTime>2026-09-01 10:00:00</StartTime><Left>-1</Left><MaxPurchase>1</MaxPurchase><PurchaseLeft>0</PurchaseLeft><PurchasesMade>1</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime>2026-10-06 10:00:00</EndTime><Image></Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage></PopupImage><BonusPoints>-1</BonusPoints><Category>Deals</Category><Background>1</Background><Platform>0</Platform><DisplayedItems>65019</DisplayedItems><Sale price = "-1" currency = "0"/></Package><Package id = "24995" title = "Veteran Druid Skin Pack" weight = "6000"><Description></Description><Contents>40315</Contents><Price amount="0" currency="1"/><StartTime>2026-09-01 10:00:00</StartTime><Left>-1</Left><MaxPurchase>1</MaxPurchase><PurchaseLeft>1</PurchaseLeft><PurchasesMade>0</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime>2026-10-06 10:00:00</EndTime><Image></Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage></PopupImage><BonusPoints>-1</BonusPoints><Category>Deals,Skins</Category><Background>2</Background><Platform>0</Platform><DisplayedItems>40315</DisplayedItems><Sale price = "-1" currency = "1"/></Package><Package id = "24987" title = "Seasoned Title Unlock (6+ Years)" weight = "20002"><Description>Celebrating 6 years of dedication.</Description><Contents>65017</Contents><Price amount="0" currency="0"/><StartTime>2026-09-01 10:00:00</StartTime><Left>-1</Left><MaxPurchase>1</MaxPurchase><PurchaseLeft>0</PurchaseLeft><PurchasesMade>1</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime>2026-10-06 10:00:00</EndTime><Image></Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage></PopupImage><BonusPoints>-1</BonusPoints><Category>Deals</Category><Background>4</Background><Platform>0</Platform><DisplayedItems>65019</DisplayedItems><Sale price = "-1" currency = "0"/></Package><Package id = "24981" title = "Time Woven Retro Pack" weight = "10000"><Description></Description><Contents>40417,40418,40419,40420,40421,40422,40423,40424,40425,40426,40427,40452,40453,40450,40447,40444</Contents><Price amount="3000" currency="0"/><StartTime>2026-09-01 10:00:00</StartTime><Left>-1</Left><MaxPurchase>1</MaxPurchase><PurchaseLeft>1</PurchaseLeft><PurchasesMade>0</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime>2026-10-06 10:00:00</EndTime><Image></Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage></PopupImage><BonusPoints>-1</BonusPoints><Category>Deals,Skins</Category><Background>2</Background><Platform>0</Platform><DisplayedItems>40427,40452,40453,40450,40447</DisplayedItems><Sale price = "-1" currency = "0"/></Package><Package id = "25001" title = "MOTMG Event Keys Pack " weight = "9250"><Description></Description><Contents>1932,49535,49535,28681,3180,3266,3266</Contents><Price amount="1000" currency="0"/><StartTime>2026-09-22 10:00:00</StartTime><Left>-1</Left><MaxPurchase>2</MaxPurchase><PurchaseLeft>2</PurchaseLeft><PurchasesMade>0</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime>2026-09-29 10:00:00</EndTime><Image></Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage></PopupImage><BonusPoints>-1</BonusPoints><Category>Deals,Keys</Category><Background>9</Background><Platform>0</Platform><DisplayedItems>1932,49535,28681</DisplayedItems><Sale price = "399" currency = "0"/></Package><Package id = "24988" title = "Paragon Title Unlock (9+ Years)" weight = "20003"><Description>Celebrating 9 years of loyalty.</Description><Contents>65015</Contents><Price amount="0" currency="0"/><StartTime>2026-09-01 10:00:00</StartTime><Left>-1</Left><MaxPurchase>1</MaxPurchase><PurchaseLeft>0</PurchaseLeft><PurchasesMade>1</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime>2026-10-06 10:00:00</EndTime><Image></Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage></PopupImage><BonusPoints>-1</BonusPoints><Category>Deals</Category><Background>6</Background><Platform>0</Platform><DisplayedItems>65019</DisplayedItems><Sale price = "-1" currency = "0"/></Package><Package id = "24527" title = "Seasonal Vault Bundle Pack" weight = "4401"><Description></Description><Contents>26782,26782,26782,26782,26782,26782</Contents><Price amount="3000" currency="0"/><StartTime>2025-04-29 10:00:01</StartTime><Left>-1</Left><MaxPurchase>-1</MaxPurchase><PurchaseLeft>-1</PurchaseLeft><PurchasesMade>0</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime></EndTime><Image>https://storage.googleapis.com/rotmg_images_public/Packages/vault_bundle_pack_general.jpg</Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage></PopupImage><BonusPoints>-1</BonusPoints><Category>Deals,Utility</Category><Background>0</Background><Platform>0</Platform><DisplayedItems></DisplayedItems><Sale price = "2599" currency = "0"/><Seasonal/></Package><Package id = "24989" title = "Exalted Title Unlock (12+ Years)" weight = "20004"><Description>Celebrating 12 years of legacy.</Description><Contents>65013</Contents><Price amount="0" currency="0"/><StartTime>2026-09-01 10:00:00</StartTime><Left>-1</Left><MaxPurchase>1</MaxPurchase><PurchaseLeft>0</PurchaseLeft><PurchasesMade>1</PurchasesMade><Total>-1</Total><Tags></Tags><Slot>0</Slot><EndTime>2026-10-06 10:00:00</EndTime><Image></Image><ShowOnLogin>0</ShowOnLogin><CharSlot>0</CharSlot><VaultSlot>0</VaultSlot><Gold>0</Gold><PopupImage></PopupImage><BonusPoints>-1</BonusPoints><Category>Deals</Category><Background>5</Background><Platform>0</Platform><DisplayedItems>65019</DisplayedItems><Sale price = "-1" currency = "0"/></Package></Packages></Deals>
+<Deals>
+	<MiniGames version = "1790102791.114375">
+		<MysteryBox id = "4915" title = "Reforged Sulphur Box" weight = "4550">
+			<Description></Description>
+			<Contents>816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814;816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814;816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814;815;814;815;814;813,813;814;813,813;812,812,812;812,812;813,813</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="149" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2024-01-16 08:00:01</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814|816,816,816,816,816,816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814,814,814,814,814,814|816,816,816,816,816,816,816,816,816,816,815,815,815,815,815,815,815,815,815,815,814,814,814,814,814,814,814,814,814,814</Jackpots>
+			<DisplayedItems>816,815,814</DisplayedItems>
+			<EndTime></EndTime>
+			<Rolls>1</Rolls>
+			<Category>Forge</Category>
+			<Platform>0</Platform>
+			<Background>8</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+		<MysteryBox id = "8329" title = "Time Chamber Keys" weight = "3400">
+			<Description></Description>
+			<Contents>53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200;53200,53200,53200,53200,53200,53200,53200,53200,53200,53200;53200,53200,53200,53200,53200,53200,53200,53200;53200,53200,53200,53200,53200;53200,53200,53200,53200;53200,53200,53200;53200,53200;53200|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="299" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2026-09-01 10:00:00</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200,53200|53200,53200,53200,53200,53200,53200,53200,53200,53200,53200|3266,31883,813,3177,3176,3180</Jackpots>
+			<DisplayedItems>53200</DisplayedItems>
+			<EndTime>2026-10-06 00:00:00</EndTime>
+			<Rolls>2</Rolls>
+			<Category>Deals,Keys</Category>
+			<Platform>0</Platform>
+			<Background>9</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+		<MysteryBox id = "8365" title = "Mad God Meal Box" weight = "6500">
+			<Description></Description>
+			<Contents>35242,35242;40380;35242;40383;24692;14529;15086;14523</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="999" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2026-09-16 10:00:00</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>55</PityCounterLeft>
+			<PityThreshold>55</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>35242,35242</Jackpots>
+			<DisplayedItems>15088,40381,40380,35242,40383</DisplayedItems>
+			<EndTime>2026-09-23 10:00:00</EndTime>
+			<Rolls>1</Rolls>
+			<Category>Deals,Food</Category>
+			<Platform>0</Platform>
+			<Background>3</Background>
+			<Sale price = "-1" currency = "0"/>
+			<ContentProbs>0.025;0.03;0.045;0.07;0.16;0.19;0.23;0.25</ContentProbs>
+			<JackpotProbs>0.025</JackpotProbs>
+		</MysteryBox>
+		<MysteryBox id = "8372" title = "MotMG Fame Box " weight = "12000">
+			<Description></Description>
+			<Contents>26098;26097;26099;26096;26095;26100;31565;31560;31555;31553;9729;9727;9728;9731;9730;9726;9724;9725;29652;5073,5074;3266;46456;46451;46454;46453;46452;46455;46449;5472;5094</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="99" currency="1"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2026-09-22 10:00:00</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>10</MaxPurchase>
+			<PurchaseLeft>10</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots></Jackpots>
+			<DisplayedItems>26098,26097,31565,23619,29652</DisplayedItems>
+			<EndTime>2026-09-29 10:00:00</EndTime>
+			<Rolls>1</Rolls>
+			<Category>Deals</Category>
+			<Platform>0</Platform>
+			<Background>10</Background>
+			<Sale price = "-1" currency = "1"/>
+		</MysteryBox>
+		<MysteryBox id = "8369" title = "Parasite Chambers Keys" weight = "3400">
+			<Description></Description>
+			<Contents>1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932;1932,1932,1932,1932,1932,1932,1932,1932,1932,1932;1932,1932,1932,1932,1932,1932,1932,1932;1932,1932,1932,1932,1932;1932,1932,1932,1932;1932,1932,1932;1932,1932;1932|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="199" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2026-09-22 10:00:00</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932,1932|1932,1932,1932,1932,1932,1932,1932,1932,1932,1932|3266,31883,813,3177,3176,3180</Jackpots>
+			<DisplayedItems>1932</DisplayedItems>
+			<EndTime>2026-09-29 10:00:00</EndTime>
+			<Rolls>2</Rolls>
+			<Category>Deals,Keys</Category>
+			<Platform>0</Platform>
+			<Background>9</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+		<MysteryBox id = "4245" title = "Key Box" weight = "3200">
+			<Description></Description>
+			<Contents>8972,8972,8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971,8971,8971;8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971;8972,8972,8972,8972,8972,8971,8971,8971,8971,8971;8972,8972,8972,8971,8971,8971;8972,8972,8971,8971;8972,8971;8972;8971,8971</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="99" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2023-06-01 08:00:01</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>8972,8972,8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971,8971,8971|8972,8972,8972,8972,8972,8972,8972,8972,8971,8971,8971,8971,8971,8971,8971,8971|8972,8972,8972,8972,8972,8971,8971,8971,8971,8971</Jackpots>
+			<DisplayedItems>8972,8971</DisplayedItems>
+			<EndTime></EndTime>
+			<Rolls>1</Rolls>
+			<Category>Keys</Category>
+			<Platform>0</Platform>
+			<Background>9</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+		<MysteryBox id = "6503" title = "Super Ambrosia Box III" weight = "5100">
+			<Description></Description>
+			<Contents>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276;3276,3276,3276,3276,3276;3276,3276,3276,3276;3276,3276,3276;3276,3276;3276;26000;25999;25998</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="259" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2025-04-29 10:00:00</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276</Jackpots>
+			<DisplayedItems>3276</DisplayedItems>
+			<EndTime></EndTime>
+			<Rolls>1</Rolls>
+			<Category>Food</Category>
+			<Platform>0</Platform>
+			<Background>3</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+		<MysteryBox id = "4246" title = "QoL Box" weight = "200">
+			<Description></Description>
+			<Contents>3180,3266,3176,3177,316,316,5072,5072,18522,18516;3266,3176,3177,3180;18522;18516;3180;3177;3266;3176</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="69" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2023-06-01 08:00:01</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>3180,3266,3176,3177,316,316,5072,5072,18522,18516|3266,3176,3177,3180</Jackpots>
+			<DisplayedItems>3180,3266,3176,3177,316</DisplayedItems>
+			<EndTime></EndTime>
+			<Rolls>1</Rolls>
+			<Category>Utility</Category>
+			<Platform>0</Platform>
+			<Background>8</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+		<MysteryBox id = "8370" title = "Kogbold Steamworks Keys" weight = "3400">
+			<Description></Description>
+			<Contents>49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535;49535,49535,49535,49535,49535,49535,49535,49535,49535,49535;49535,49535,49535,49535,49535,49535,49535,49535;49535,49535,49535,49535,49535;49535,49535,49535,49535;49535,49535,49535;49535,49535;49535|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="299" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2026-09-22 10:00:00</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535,49535|49535,49535,49535,49535,49535,49535,49535,49535,49535,49535|3266,31883,813,3177,3176,3180</Jackpots>
+			<DisplayedItems>49535</DisplayedItems>
+			<EndTime>2026-09-29 10:00:00</EndTime>
+			<Rolls>2</Rolls>
+			<Category>Deals,Keys</Category>
+			<Platform>0</Platform>
+			<Background>9</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+		<MysteryBox id = "6501" title = "Celestial Stones Box" weight = "8700">
+			<Description></Description>
+			<Contents>24772,24772,24772,24772,24772;24762,24762,24762,24762,24762;24757,24757,24757,24757,24757;24767;24762;24760;24757;24756;24755</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="429" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2025-04-29 09:10:00</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>24772,24772,24772,24772,24772|24762,24762,24762,24762,24762|24757,24757,24757,24757,24757</Jackpots>
+			<DisplayedItems>24772</DisplayedItems>
+			<EndTime></EndTime>
+			<Rolls>1</Rolls>
+			<Category>Skins</Category>
+			<Platform>0</Platform>
+			<Background>2</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+		<MysteryBox id = "6504" title = "Super Ambrosia Box II" weight = "5110">
+			<Description></Description>
+			<Contents>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276;3276,3276,3276,3276,3276;3276,3276,3276,3276;3276,3276,3276;3276,3276;3276;3271;3272;3274</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="199" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2025-04-29 10:00:00</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>3276,3276,3276,3276,3276,3276,3276,3276,3276,3276</Jackpots>
+			<DisplayedItems>3276</DisplayedItems>
+			<EndTime></EndTime>
+			<Rolls>1</Rolls>
+			<Category>Food</Category>
+			<Platform>0</Platform>
+			<Background>3</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+		<MysteryBox id = "8371" title = "Advanced Steamworks Keys" weight = "3400">
+			<Description></Description>
+			<Contents>28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681;28681,28681,28681,28681,28681,28681,28681,28681,28681,28681;28681,28681,28681,28681,28681,28681,28681,28681;28681,28681,28681,28681,28681;28681,28681,28681,28681;28681,28681,28681;28681,28681;28681|3266,31883,813,3177,3176,3180;31883;3266;813;3180;3177;3176</Contents>
+			<BonusPoints>-1</BonusPoints>
+			<Price amount="299" currency="0"/>
+			<Image></Image>
+			<Icon></Icon>
+			<StartTime>2026-09-22 10:00:00</StartTime>
+			<Left>-1</Left>
+			<Total>-1</Total>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<PityCounterLeft>-1</PityCounterLeft>
+			<PityThreshold>-1</PityThreshold>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<Jackpots>28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681,28681|28681,28681,28681,28681,28681,28681,28681,28681,28681,28681|3266,31883,813,3177,3176,3180</Jackpots>
+			<DisplayedItems>28681</DisplayedItems>
+			<EndTime>2026-09-29 10:00:00</EndTime>
+			<Rolls>2</Rolls>
+			<Category>Deals,Keys</Category>
+			<Platform>0</Platform>
+			<Background>9</Background>
+			<Sale price = "-1" currency = "0"/>
+		</MysteryBox>
+	</MiniGames>
+	<Packages version = "1790103288.147933">
+		<Package id = "23588" title = "Mad God-Veterans Skin Pack" weight = "2800">
+			<Description></Description>
+			<Contents>30754,30756,30758,30760,30762,30764,30766,30768,30770,30772,30774,30776,30778,30780,30782,30784,30786,31273</Contents>
+			<Price amount="2555" currency="1"/>
+			<StartTime>2026-03-24 09:30:01</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>1</MaxPurchase>
+			<PurchaseLeft>1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime>2026-10-06 09:30:01</EndTime>
+			<Image>https://storage.googleapis.com/rotmg_images_public/Packages/veteran_pack_general.png</Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/veteran_pack_popup.png</PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals,Skins</Category>
+			<Background>0</Background>
+			<Platform>0</Platform>
+			<DisplayedItems></DisplayedItems>
+			<Sale price = "-1" currency = "1"/>
+		</Package>
+		<Package id = "24526" title = "Vault Bundle Pack" weight = "5400">
+			<Description></Description>
+			<Contents>811,811,811,811,811,811</Contents>
+			<Price amount="3000" currency="0"/>
+			<StartTime>2025-04-29 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime></EndTime>
+			<Image>https://storage.googleapis.com/rotmg_images_public/Packages/vault_bundle_pack_general.png</Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/vault_bundle_packx6_popup.png</PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Utility</Category>
+			<Background>0</Background>
+			<Platform>0</Platform>
+			<DisplayedItems></DisplayedItems>
+			<Sale price = "2599" currency = "0"/>
+		</Package>
+		<Package id = "24999" title = "Expert Power Pack" weight = "10000">
+			<Description></Description>
+			<Contents>24767,26783,26783,26782,27018,27019,27020,27021,29652,29652,29652</Contents>
+			<Price amount="5907" currency="0"/>
+			<StartTime>2026-09-21 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>2</MaxPurchase>
+			<PurchaseLeft>2</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime>2026-09-25 10:00:00</EndTime>
+			<Image></Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage></PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals,Equipment</Category>
+			<Background>7</Background>
+			<Platform>0</Platform>
+			<DisplayedItems>26783,26782,27018,27020,24767</DisplayedItems>
+			<Sale price = "2799" currency = "0"/>
+		</Package>
+		<Package id = "24525" title = "Char Slots Pack" weight = "5300">
+			<Description></Description>
+			<Contents>810,810,810</Contents>
+			<Price amount="3000" currency="0"/>
+			<StartTime>2025-04-29 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime></EndTime>
+			<Image>https://storage.googleapis.com/rotmg_images_public/Packages/char_slot_pack2_general.png</Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/char_slot_pack2_popup.png</PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Utility</Category>
+			<Background>0</Background>
+			<Platform>0</Platform>
+			<DisplayedItems></DisplayedItems>
+			<Sale price = "2599" currency = "0"/>
+		</Package>
+		<Package id = "24523" title = "Ambrosia Pentapack" weight = "5120">
+			<Description></Description>
+			<Contents>3276,3276,3276,3276,3276</Contents>
+			<Price amount="5000" currency="0"/>
+			<StartTime>2025-04-29 10:00:01</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime></EndTime>
+			<Image>https://storage.googleapis.com/rotmg_images_public/Packages/ambrosia_pentapack_general.png</Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage>https://storage.googleapis.com/rotmg_images_public/Packages/ambrosia_pentapack_popup.png</PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Food</Category>
+			<Background>0</Background>
+			<Platform>0</Platform>
+			<DisplayedItems></DisplayedItems>
+			<Sale price = "3749" currency = "0"/>
+		</Package>
+		<Package id = "24990" title = "Strider Title Unlock (3+ Years)" weight = "20000">
+			<Description>Celebrating 3 years of adventure.</Description>
+			<Contents>65019</Contents>
+			<Price amount="0" currency="0"/>
+			<StartTime>2026-09-01 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>1</MaxPurchase>
+			<PurchaseLeft>0</PurchaseLeft>
+			<PurchasesMade>1</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime>2026-10-06 10:00:00</EndTime>
+			<Image></Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage></PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals</Category>
+			<Background>1</Background>
+			<Platform>0</Platform>
+			<DisplayedItems>65019</DisplayedItems>
+			<Sale price = "-1" currency = "0"/>
+		</Package>
+		<Package id = "24995" title = "Veteran Druid Skin Pack" weight = "6000">
+			<Description></Description>
+			<Contents>40315</Contents>
+			<Price amount="0" currency="1"/>
+			<StartTime>2026-09-01 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>1</MaxPurchase>
+			<PurchaseLeft>1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime>2026-10-06 10:00:00</EndTime>
+			<Image></Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage></PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals,Skins</Category>
+			<Background>2</Background>
+			<Platform>0</Platform>
+			<DisplayedItems>40315</DisplayedItems>
+			<Sale price = "-1" currency = "1"/>
+		</Package>
+		<Package id = "24987" title = "Seasoned Title Unlock (6+ Years)" weight = "20002">
+			<Description>Celebrating 6 years of dedication.</Description>
+			<Contents>65017</Contents>
+			<Price amount="0" currency="0"/>
+			<StartTime>2026-09-01 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>1</MaxPurchase>
+			<PurchaseLeft>0</PurchaseLeft>
+			<PurchasesMade>1</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime>2026-10-06 10:00:00</EndTime>
+			<Image></Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage></PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals</Category>
+			<Background>4</Background>
+			<Platform>0</Platform>
+			<DisplayedItems>65019</DisplayedItems>
+			<Sale price = "-1" currency = "0"/>
+		</Package>
+		<Package id = "24981" title = "Time Woven Retro Pack" weight = "10000">
+			<Description></Description>
+			<Contents>40417,40418,40419,40420,40421,40422,40423,40424,40425,40426,40427,40452,40453,40450,40447,40444</Contents>
+			<Price amount="3000" currency="0"/>
+			<StartTime>2026-09-01 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>1</MaxPurchase>
+			<PurchaseLeft>1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime>2026-10-06 10:00:00</EndTime>
+			<Image></Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage></PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals,Skins</Category>
+			<Background>2</Background>
+			<Platform>0</Platform>
+			<DisplayedItems>40427,40452,40453,40450,40447</DisplayedItems>
+			<Sale price = "-1" currency = "0"/>
+		</Package>
+		<Package id = "25001" title = "MOTMG Event Keys Pack " weight = "9250">
+			<Description></Description>
+			<Contents>1932,49535,49535,28681,3180,3266,3266</Contents>
+			<Price amount="1000" currency="0"/>
+			<StartTime>2026-09-22 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>2</MaxPurchase>
+			<PurchaseLeft>2</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime>2026-09-29 10:00:00</EndTime>
+			<Image></Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage></PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals,Keys</Category>
+			<Background>9</Background>
+			<Platform>0</Platform>
+			<DisplayedItems>1932,49535,28681</DisplayedItems>
+			<Sale price = "399" currency = "0"/>
+		</Package>
+		<Package id = "24988" title = "Paragon Title Unlock (9+ Years)" weight = "20003">
+			<Description>Celebrating 9 years of loyalty.</Description>
+			<Contents>65015</Contents>
+			<Price amount="0" currency="0"/>
+			<StartTime>2026-09-01 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>1</MaxPurchase>
+			<PurchaseLeft>0</PurchaseLeft>
+			<PurchasesMade>1</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime>2026-10-06 10:00:00</EndTime>
+			<Image></Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage></PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals</Category>
+			<Background>6</Background>
+			<Platform>0</Platform>
+			<DisplayedItems>65019</DisplayedItems>
+			<Sale price = "-1" currency = "0"/>
+		</Package>
+		<Package id = "24527" title = "Seasonal Vault Bundle Pack" weight = "4401">
+			<Description></Description>
+			<Contents>26782,26782,26782,26782,26782,26782</Contents>
+			<Price amount="3000" currency="0"/>
+			<StartTime>2025-04-29 10:00:01</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>-1</MaxPurchase>
+			<PurchaseLeft>-1</PurchaseLeft>
+			<PurchasesMade>0</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime></EndTime>
+			<Image>https://storage.googleapis.com/rotmg_images_public/Packages/vault_bundle_pack_general.jpg</Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage></PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals,Utility</Category>
+			<Background>0</Background>
+			<Platform>0</Platform>
+			<DisplayedItems></DisplayedItems>
+			<Sale price = "2599" currency = "0"/>
+			<Seasonal/>
+		</Package>
+		<Package id = "24989" title = "Exalted Title Unlock (12+ Years)" weight = "20004">
+			<Description>Celebrating 12 years of legacy.</Description>
+			<Contents>65013</Contents>
+			<Price amount="0" currency="0"/>
+			<StartTime>2026-09-01 10:00:00</StartTime>
+			<Left>-1</Left>
+			<MaxPurchase>1</MaxPurchase>
+			<PurchaseLeft>0</PurchaseLeft>
+			<PurchasesMade>1</PurchasesMade>
+			<Total>-1</Total>
+			<Tags></Tags>
+			<Slot>0</Slot>
+			<EndTime>2026-10-06 10:00:00</EndTime>
+			<Image></Image>
+			<ShowOnLogin>0</ShowOnLogin>
+			<CharSlot>0</CharSlot>
+			<VaultSlot>0</VaultSlot>
+			<Gold>0</Gold>
+			<PopupImage></PopupImage>
+			<BonusPoints>-1</BonusPoints>
+			<Category>Deals</Category>
+			<Background>5</Background>
+			<Platform>0</Platform>
+			<DisplayedItems>65019</DisplayedItems>
+			<Sale price = "-1" currency = "0"/>
+		</Package>
+	</Packages>
+</Deals>
